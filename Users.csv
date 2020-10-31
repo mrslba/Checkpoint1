@@ -1,0 +1,5001 @@
+User_ID,Location,Age
+248779,newark_ delaware_ usa,23
+108494,utrecht_ n/a_ netherlands,35
+234710,cape town_ western cape_ south africa,47
+79962,hertfordshire_ england_ united kingdom,22
+1538,caracas_ caracas_,29
+181430,numana_ marche_ italy,38
+152151,boulder_ western australia_ australia,38
+164315,barcelona_ catalunya_ spain,31
+29768,brisbane_ queensland_ australia,20
+52820,stockholm_ \n/a\_ sweden,18
+109387,berlin_ berlin_ germany,21
+144144,catania_ sicilia_ italy,26
+20707,san francisco_ california_ usa,25
+29329,amsterdam_ noord-holland_ netherlands,48
+118434,darwin_ northern territory_ australia,23
+82954,las vegas_ nevada_ usa,30
+61999,lleida_ lleida_ spain,37
+206187,glen iris_ victoria_ australia,14
+225843,koo wee rup_ victoria_ australia,38
+275284,ann arbor_ michigan_ usa,28
+17382,karachi_sindh_pakistan_ sindh_ pakistan,21
+139655,riverside_ california_ usa,63
+12744,austin_ texas_ usa,35
+90161,valencia_ espa�a_ spain,18
+173413,cologne_ nordrhein-westfalen_ germany,24
+116195,bermuda run_ north carolina_ usa,45
+266010,pesaro_ marche_ italy,27
+136845,a coru�a_ espa�a/galicia/a coru�a_ spain,43
+26319,modena_ emilia romagna_ italy,52
+108372,regina_ saskatchewan_ canada,61
+163535,sandringham_ victoria_ australia,22
+214995,samora correia_ ribatejo_ portugal,33
+8552,neuhaus_ n/a_ austria,33
+261566,valencia_ valencia_ spain,38
+276430,fayetteville_ north carolina_ usa,40
+101267,barcelona_ catalunya_ spain,20
+83575,balingen_ baden-wuerttemberg_ germany,30
+223312,duesseldorf_ nordrhein-westfalen_ germany,40
+178249,stuttgart_ baden-wuerttemberg_ germany,42
+214630,eastwood_ new south wales_ australia,58
+101138,shanghai_ shanghai_ china,24
+114005,greensboro_ north carolina_ usa,33
+35465,oldenburg_ niedersachsen_ germany,29
+261296,sitges_ catalunya_ spain,22
+160909,adelaide_ sa_ australia,31
+231456,omaha_ nebraska_ usa,43
+60653,pictou_ nova scotia_ canada,33
+201931,t�bingen_ baden-wuerttemberg_ germany,41
+65923,rheinfelden_ argau_ switzerland,23
+12541,hampton_ iowa_ usa,64
+150284,warsaw_ mazowieckie_ poland,30
+224289,washington_ north carolina_ usa,28
+93359,chicago_ illinois_ usa,50
+215344,gloucester_ massachusetts_ usa,18
+240241,darmstadt_ hessen_ germany,26
+95147,new york city_ new york_ usa,25
+102421,harpenden_ hertfordshire_ united kingdom,27
+239123,richmond (ottawa)_ ontario_ canada,13
+198161,z�rich_ z�rich_ switzerland,27
+16469,cross river_ newfoundland_ usa,61
+5939,pleasantville_ new york_ usa,48
+168529,london_ london_ united kingdom,31
+263306,jacksonville_ florida_ usa,24
+76260,atlanta_ georgia_ usa,38
+196305,west chester_ pennsylvania_ usa,44
+171231,new orleans_ louisiana_ usa,29
+278054,verona_ veneto_ italy,40
+66586,daly city_ california_ usa,18
+185116,madrid_ madrid_ spain,24
+177460,clare_ michigan_ usa,16
+2212,mainz_ rheinland-pfalz_ germany,22
+89277,euskirchen_ nordrhein-westfalen_ germany,46
+263579,badalona_ catalonia_ spain,23
+89905,ashland_ kentucky_ usa,35
+90297,reading_ berkshire_ united kingdom,30
+276487,teruel_ aragon_ spain,21
+62947,geelong_ victoria_ australia,37
+39616,las vegas_ nevada_ usa,38
+139255,olympia_ washington_ usa,21
+26735,riverview_ new brunswick_ canada,37
+29122,las vegas_ nevada_ usa,33
+37361,carrollton_ georgia_ usa,38
+210375,portim�o_ algarve_ portugal,37
+96514,south pasadena_ florida_ usa,43
+180211,jerez de la frontera_ cadiz_ spain,21
+113835,ashland city_ tennessee_ usa,45
+68479,egg harbor_ new jersey_ usa,39
+261172,tel-aviv_ n/a_ israel,57
+98050,beirut_ middle east_ lebanon,28
+88283,hamburg_ hamburg_ germany,24
+78038,perth_ western australia_ australia,30
+58335,walled lake_ michigan_ usa,32
+89299,east moline_ illinois_ usa,32
+200866,tsawwassen_ british columbia_ canada,55
+26849,leon_ leon_ spain,19
+113319,mckinney_ texas_ usa,24
+94138,west hartford_ connecticut_ usa,26
+88879,san diego_ california_ usa,45
+107424,toronto_ ontario_ canada,20
+38152,heidelberg_ baden-wuerttemberg_ germany,23
+214769,portland_ oregon_ usa,31
+54270,borger_ texas_ usa,53
+109028,ourense_ galicia_ spain,25
+52444,boston_ massachusetts_ usa,38
+249488,dettenheim_ baden w�rttemberg_ germany,43
+14894,plymouth_ massachusetts_ usa,21
+141830,oceanside_ california_ usa,25
+198363,brighton_ england_ united kingdom,61
+31117,jepara_ jateng_ indonesia,19
+16198,tacna_ tacna_ peru,32
+152235,rowlett_ texas_ usa,34
+249409,bellevue_ washington_ usa,35
+68075,kings mountain_ north carolina_ usa,39
+135435,north ferriby_ n/a_ united kingdom,37
+79573,mumbai_ maharashtra_ india,19
+234417,turku_ l�nsi-suomen l��ni_ finland,22
+58652,ile de france_ ile de france_ france,28
+117689,edinburgh_ scotland_ united kingdom,33
+229170,besan�on_ franche-comt�_ france,42
+259776,leeds_ england_ united kingdom,34
+92015,sarasota_ florida_ usa,55
+123150,apo09138_ rheinland-pfalz_ germany,32
+69619,montes de oca_ san jose_ costa rica,73
+203444,hamilton_ ontario_ canada,28
+257457,yuba city_ california_ usa,15
+34831,paranaque_ metro manila_ philippines,19
+61839,santa barbara_ california_ usa,19
+210379,centerport_ new york_ usa,41
+210907,wrbn_ bern_ switzerland,16
+185123,dublin_ leinster_ ireland,31
+215864,west columbia_ south carolina_ usa,28
+205583,cluj_ n/a_ romania,34
+105827,pamplona_ navarra_ spain,22
+112171,grenfell_ saskatchewan_ united kingdom,25
+51418,saltillo_ coahuila_ mexico,50
+139269,parker_ colorado_ usa,36
+202385,medina_ ohio_ usa,52
+178815,pleasant hill_ iowa_ usa,30
+222655,torrington_ connecticut_ usa,53
+201702,st. george_ ontario_ canada,23
+253092,roswell_ georgia_ usa,48
+114841,sewickley_ pennsylvania_ usa,29
+278286,boca raton_ florida_ usa,49
+152514,san diego_ california_ usa,61
+169141,goettingen_ niedersachsen_ germany,27
+162253,berkeley_ ca (or south hadley_ ma 01075)_ usa,22
+135440,thunder bay_ ontario_ canada,21
+43476,raleigh_ north carolina_ usa,25
+133574,raritan_ new jersey_ usa,34
+61549,london_ england_ united kingdom,44
+118463,hamilton_ waikato_ new zealand,18
+195750,new york city_ new york_ usa,23
+201353,st. thomas_ ontario_ canada,19
+115390,peru_ indiana_ usa,23
+32648,methuen_ massachusetts_ usa,32
+49830,morton_ pennsylvania_ usa,47
+113637,gif-sur-yvette_ ile-de-france_ france,57
+208461,burlington_ wisconsin_ usa,29
+256183,istanbul_ n/a_ turkey,39
+43451,madrid_ madrid_ spain,34
+209265,seattle_ washington_ usa,44
+82460,chesapeake_ virginia_ usa,21
+168973,plymouth__ minnesota_ usa,71
+74338,sevilla_ new york_ spain,24
+36171,christie downs_ south australia_ australia,24
+220457,johor bahru_ johor_ malaysia,13
+92523,evanston_ illinois_ usa,70
+26368,hacienda heights_ california_ usa,42
+67269,northville_ michigan_ usa,65
+124822,minneapolis_ minnesota_ usa,35
+177545,buenos aires_ n/a_ argentina,23
+46372,t�bingen_ baden-wuerttemberg_ germany,16
+36331,lecce_ puglia_ italy,31
+58430,beijing_ beijing_ china,28
+262234,tampere_ pirkanmaa_ finland,13
+122185,everett_ washington_ usa,45
+231561,andover_ massachusetts_ usa,56
+189683,summerville_ south carolina_ usa,58
+180688,maurertown_ virginia_ usa,21
+167315,udine_ friuli venezia giulia_ italy,28
+97377,apeldoorn_ gelderland_ netherlands,47
+147577,nancy_ lorraine_ france,18
+9332,padova_ veneto_ italy,23
+221365,mountain view_ california_ usa,34
+23774,seattle_ washington_ usa,41
+135064,san jose_ california_ usa,18
+106985,jersey city_ new jersey_ usa,25
+116333,pordenone_ friuli venezia giulia_ italy,28
+218191,arlington_ texas_ usa,39
+209981,manchester_ england_ united kingdom,21
+61260,chicago_ illinois_ usa,21
+28518,wilton_ connecticut_ usa,42
+2505,denville_ new jersey_ usa,61
+185387,astoria_ new york_ usa,56
+188042,lagos_ anambra_ nigeria,16
+215084,rialto_ california_ usa,17
+4227,athens_ attiki_ greece,34
+143497,oakland_ california_ usa,36
+201814,princeton_ new jersey_ usa,23
+153651,norwich_ england_ united kingdom,37
+62994,santa iria de az�ia_ lisboa_ portugal,27
+25756,cumbernauld_ scotland_ united kingdom,39
+210801,burntisland_ scotland_ united kingdom,50
+255294,biarritz_ aquitaine_ france,32
+91243,longwood_ florida_ usa,66
+152503,canberra_ australian capital territory_ australia,23
+23789,oglianico_ piemonte_ italy,25
+37657,hedingen_ z�rich_ switzerland,21
+215775,lausanne_ vaud_ switzerland,22
+207266,salem_ oregon_ usa,54
+158414,m�nchen_ bayern_ germany,56
+67705,gurgaon_ haryana_ india,20
+205901,arlington_ tennessee_ usa,30
+80096,antwerp_ antwerpen_ belgium,23
+165365,westerland/ sylt_ schleswig-holstein_ germany,22
+237311,prince george_ british columbia_ canada,19
+251883,milan_ lombardia_ italy,29
+167563,bellevue_ washington_ usa,27
+129495,sao goncalo_ dc_ barbados,24
+68507,meridian_ idaho_ usa,41
+104229,doncaster_ victoria_ australia,14
+16699,kent_ washington_,26
+44745,st. paul_ minnesota_ usa,51
+16802,hayling island_ hampshire_ england,62
+155611,seattle_ washington_ usa,38
+57018,greenfield_ indiana_ usa,52
+171413,vicenza_ veneto_ italy,21
+242812,livermore_ california_ usa,18
+154541,windham_ new hampshire_ usa,21
+67526,victoria_ texas_ usa,49
+60580,colton_ california_ usa,33
+269760,los angeles_ california_ usa,43
+250962,vancouver_ british columbia_ canada,24
+25713,chandernagore_ west bengal_ india,73
+40013,estel�_ estel�_ nicaragua,28
+122386,manistee_ michigan_ usa,31
+115518,gloucester_ england_ united kingdom,34
+136878,tashkent_ samarkand_ uzbekistan,23
+78696,oakville_ ontario_ canada,54
+86067,logan_ utah_ usa,33
+142121,waipahu_ hawaii_ usa,33
+165886,new castle_ delaware_ usa,35
+79352,brussels_ n/a_ belgium,41
+132333,warner robins_ georgia_ usa,19
+267006,mount gilead_ ohio_ usa,51
+194457,stamford_ connecticut_ usa,54
+139522,sydney_ _,28
+180959,woking_ england_ united kingdom,29
+118413,phoenix_ arizona_ usa,51
+207497,sykesville_ maryland_ usa,18
+33237,tamarac_ florida_ usa,61
+18741,kerpen_ nordrhein-westfalen_ germany,44
+55538,seattle_ washington_ usa,32
+72847,genova_ liguria_ italy,17
+190278,tyrone_ pennsylvania_ usa,31
+271211,cumana_ sucre_ venezuela,40
+70513,albuquerque_ new mexico_ usa,13
+5846,dunedin_ n/a_ new zealand,24
+249319,almer�a_ almer�a_ spain,25
+183824,marseille_ provence_ france,27
+4509,hamburg_ hamburg_ germany,30
+246600,badajoz_ badajoz_ spain,34
+40301,edinburgh_ scotland_ united kingdom,43
+164823,hudson_ wisconsin_ usa,37
+169051,west hartford_ connecticut_ usa,44
+111179,tampa_ florida_ usa,51
+189821,izmir_ yukon territory_ turkey,23
+114331,antigonish_ nova scotia_ canada,50
+186710,mount vernon_ washington_ usa,14
+135896,bristol_ avon_ united kingdom,30
+246620,windsor_ maine_ usa,15
+218228,dhar_ m.p._ india,27
+147020,westmount_ quebec_ canada,47
+272690,long beach_ new york_ usa,54
+155820,seattle_ _,33
+240574,woodland_ california_ usa,37
+8838,dun laoghaire_ co. dublin_ ireland,21
+116158,whitney point_ new york_ usa,45
+54326,crescent city_ florida_ usa,62
+5853,lasarte_ gipuzkoa_ spain,19
+28563,calgary_ alberta_ canada,25
+203844,moncton_ new brunswick_ canada,40
+187470,lexington_ kentucky_ usa,41
+161498,landau_ rheinland-pfalz_ germany,45
+52843,sunnyvale_ california_ usa,49
+15338,santiago_ regi�n metropolitana_ chile,31
+232453,sammamish_ washington_ usa,41
+273618,delta_ british columbia_ canada,41
+218879,cumberland_ maryland_ usa,53
+203818,marietta_ georgia_ usa,15
+142245,marton_ n/a_ new zealand,49
+201721,sydeny_ new south wales_ australia,15
+84659,poynette_ wisconsin_ usa,48
+39454,a coru�a_ a coru�a_ spain,22
+22232,san jose_ san jose_ costa rica,35
+261929,zaragoza_ arag�n_ spain,26
+51787,everett_ washington_ usa,30
+265534,hilo_ hawaii_ usa,45
+209177,chichester_ england_ united kingdom,70
+199963,houston_ texas_ usa,38
+133153,lewisburg_ tennessee_ usa,44
+225003,enschede_ overijssel_ netherlands,65
+223076,wagga wagga_ new south wales_ australia,23
+251338,milton keynes_ buckinghamshire_ united kingdom,32
+105053,atlanta_ georgia_ usa,25
+88136,wall_ new jersey_ usa,14
+260479,errenteria_ pais vasco_ spain,19
+36746,clear spring_ maryland_ usa,34
+66990,erie_ pennsylvania_ usa,24
+250693,hancock_ michigan_ usa,27
+80841,peachtree city_ georgia_ usa,51
+15455,lowell_ arkansas_ usa,41
+19735,london_ ontario_ canada,59
+170868,pasig city_ ncr_ philippines,28
+616,fremont_ california_ usa,34
+124956,richardson_ texas_ usa,51
+144396,west hills_ california_ usa,55
+69204,bremen_ bremen_ germany,60
+227745,buzzards bay_ massachusetts_ usa,23
+56375,seville grove_ western australia_ australia,38
+10574,madrid_ madrid_ spain,39
+20127,porto_ porto_ portugal,29
+271621,shanghai_ shanghai_ china,19
+29522,v�ster�s_ v�stmanland_ sweden,35
+169046,huron_ ohio_ usa,49
+120,villeneuve d`ascq_ nord_ france,13
+8935,little elm_ texas_ usa,35
+20664,los angeles_ california_ usa,32
+96135,pittston_ pennsylvania_ usa,30
+156773,lisbon - lisboa_ n/a_ portugal,42
+179657,portsmouth_ new hampshire_ usa,26
+142872,latina_ latina_ italy,40
+138847,coquitlam_ british columbia_ canada,22
+9891,ashland_ kentucky_ usa,48
+177975,london_ england_ united kingdom,24
+127923,brooklyn_ new york_ usa,27
+275908,charing cross_ new south wales_ australia,44
+17392,pamplona_ navarra_ spain,16
+194309,madrid_ madrid_ spain,26
+37954,rockland_ massachusetts_ usa,38
+72274,benidorm_ n/a_ spain,32
+32332,norfolk_ virginia_ usa,42
+84257,snohomish_ washington_ usa,57
+105155,eagleriver_ alaska_ usa,24
+11986,roma_ lazio_ italy,58
+53909,cluj_ new jersey_ greece,53
+251499,maryville_ tennessee_ usa,25
+100609,valladolid_ valladolid_ spain,27
+187092,barcelona_ florida_ spain,28
+261283,koeln_ nordrhein-westfalen_ germany,45
+258820,ann arbor_ michigan_ usa,48
+1934,kuopio_ n/a_ finland,18
+265959,muncie_ indiana_ usa,21
+183032,stirling_ ontario_ canada,47
+175975,glasgow_ scotland_ united kingdom,18
+144892,hantsport_ nova scotia_ canada,54
+139292,montmorency_ n/a_ france,40
+154643,malvern_ worcestershire_ united kingdom,35
+63404,pomfret_ connecticut_ usa,51
+122698,wien_ vienna_ austria,27
+29603,madrid_ madrid_ spain,28
+106538,ypsilanti_ michigan_ usa,44
+222424,hancock_ michigan_ usa,57
+14108,denver_ colorado_ usa,40
+43140,bexleyheath_ england_ united kingdom,52
+106105,jackson_ wyoming_ usa,33
+212949,louisville_ tennessee_ usa,36
+201295,colonial heights_ virginia_ usa,37
+28077,toronto_ ontario_ canada,58
+277737,west orange_ new jersey_ usa,50
+152079,preston_ north west england_ united kingdom,34
+1546,overland_ missouri_,40
+180075,frazee_ minnesota_ usa,33
+43870,laceyville_ pennsylvania_ usa,53
+104527,galapagar_ madrid_ spain,19
+2585,paris_ paris_ france,25
+255765,lahad datu_ sabah_ malaysia,54
+36765,blackwell_ oklahoma_ usa,31
+275014,sydney_ new south wales_ australia,21
+276259,manchester_ england_ united kingdom,28
+138913,jonesboro_ arkansas_ usa,41
+40439,cala d`or_ illes balears_ spain,46
+278717,mayag�ez_ puerto rico_,53
+182921,nottingham_ n/a_ united kingdom,23
+3879,cliffside park_ new jersey_ usa,40
+12389,san francisco_ california_ usa,26
+83605,houston_ texas_ usa,63
+128760,st paul_ minnesota_ usa,42
+180468,st. gallen_ st. gallen_ switzerland,21
+147346,east sussex_ england_ united kingdom,31
+226484,taiwan_ taipei_ taiwan,17
+65021,pittsburgh_ pennsylvania_ usa,20
+267361,porsgrunn_ n/a_ norway,33
+147784,sarasota_ florida_ usa,29
+3758,barcelona_ catalunya_ spain,37
+36654,onalaska_ texas_ usa,46
+229910,warszawa_ mazowieckie_ poland,26
+255635,muskegon_ michigan_ usa,66
+196165,toronto_ ontario_ canada,34
+88018,cucciago_ como_ italy,40
+162226,vancouver_ british columbia_ canada,19
+754,leverkusen_ nordrhein-westfalen_ germany,33
+267023,dortmund_ nordrhein-westfalen_ germany,31
+266827,houston_ texas_ usa,22
+220831,barcelona_ baden-wuerttemberg_ spain,46
+276491,bogor_ indonesia_ indonesia,25
+48836,auckland_ alaska_ new zealand,20
+264951,portonovo_ pontevedra_ spain,43
+10278,liskeard_ england_ united kingdom,34
+144325,warren_ ohio_ usa,20
+154261,mannheim_ baden-wuerttemberg_ germany,32
+96121,chicago_ illinois_ usa,22
+116174,chicago_ illinois_ usa,17
+121350,dillwyn_ virginia_ usa,25
+269408,buckarest_ buckarest_ romania,21
+28019,igualada_ baden-wuerttemberg_ spain,25
+265875,champaign_ illinois_ usa,68
+203376,pasadena_ texas_ usa,46
+239665,louisville_ kentucky_ usa,25
+199939,portland_ oregon_ usa,32
+8127,kent_ england_ united kingdom,22
+276184,xix�n_ asturies_ spain,16
+155506,endwell & sarasota fl_ new york_ usa,65
+150704,calgary_ _,24
+232316,oakland_ california_ usa,28
+86262,sevilla_ sevilla_ spain,24
+10003,spokane_ washington_ usa,20
+102665,harbord_ new south wales_ australia,25
+17740,middlebury_ vermont_ usa,34
+246250,newbury_ england_ united kingdom,42
+82401,aberdeen_ scotland_ united kingdom,17
+137992,arezzo_ toscana_ italy,33
+176252,san jose_ california_ usa,36
+83407,oakley_ michigan_ usa,15
+115155,memphis_ tennessee_ usa,58
+244044,pensacola_ florida_ usa,64
+147996,port townsend_ washington_ usa,16
+72990,watertown_ new york_ usa,31
+30232,new orleans_ louisiana_ usa,32
+257905,fisher_ illinois_ usa,44
+84439,boston_ massachusetts_ usa,24
+71300,germering_ bayern_ germany,31
+95895,luzarches_ france_ france,19
+255272,reus_ rheinland-pfalz_ spain,43
+79829,crewe_ england_ united kingdom,39
+110399,barcelona_ barcelona_ spain,20
+79525,portland_ oregon_ usa,24
+197820,cologne_ nordrhein-westfalen_ germany,20
+261168,madrid_ madrid_ spain,30
+269896,oxford_ connecticut_ usa,26
+23016,avonsleigh_ victoria_ australia,58
+80074,leatherhead_ rhode island_ united kingdom,54
+202413,peoria_ arizona_ usa,60
+194490,madrid_ madrid_ spain,39
+209189,wetzlar_ alaska_ germany,49
+153421,hartford_ connecticut_ usa,22
+187580,wrexham_ wales_ united kingdom,23
+243843,neenah_ wisconsin_ usa,34
+195713,canet de mar_ n/a_ spain,41
+4043,buenos aires_ �n/a�_ argentina,26
+107116,vail_ colorado_ usa,43
+214815,kansascity_ missouri_ usa,52
+176180,sao paulo_ sao paulo_ brazil,34
+132155,lake havasu city_ arizona_ usa,45
+97587,toronto_ ontario_ canada,45
+272314,hamilton_ ontario_ canada,30
+154736,olympia_ washington_ usa,30
+239205,roma_ lazio_ italy,35
+183680,camrose_ alberta_ canada,37
+86681,iligan city_ _,22
+251762,clinton township_ michigan_ usa,39
+119478,barnstaple_ england_ united kingdom,43
+99106,sao paulo_ sao paulo_ brazil,43
+132920,milton_ ontario_ canada,46
+234781,east malvern_ victoria_ australia,45
+219585,singapore_ n/a_ singapore,24
+253037,london_ england_ united kingdom,34
+270941,mostoles_ madrid_ spain,26
+190485,kingston_ ontario_ canada,54
+185357,new york_ new york_ usa,30
+192439,barcelona_ barcelona_ spain,27
+87665,denver_ colorado_ usa,33
+173715,paisley_ scotland_ united kingdom,24
+191515,in the hills of_ tennessee_ usa,24
+250664,dartford_ england_ united kingdom,40
+125918,moscow_ idaho_ usa,31
+237607,kandel_ rheinland-pfalz_ germany,33
+165201,huddersfield_ england_ united kingdom,21
+136824,ajax_ ontario_ canada,34
+77896,austin_ texas_ usa,25
+227054,nampa_ idaho_ usa,27
+37952,danville_ california_ usa,49
+277552,cleveland_ ohio_ usa,44
+239109,grinnell_ iowa_ usa,18
+191894,seattle_ washington_ usa,39
+13755,arlington heights_ illinois_ usa,16
+5719,cortlandt manor_ new york_ usa,50
+104136,coburg_ bayern_ germany,21
+111063,alicante_ alicante_ spain,25
+248485,hillsboro_ new hampshire_ usa,30
+123575,san isidro_ lima_ peru,51
+207846,southport_ north carolina_ usa,69
+30002,lisbon_ maine_ usa,45
+112961,omaha_ nebraska_ usa,46
+223739,oakleigh_ victoria_ australia,35
+59234,arlington_ texas_ usa,48
+36538,sierra vista_ arizona_ usa,66
+85742,valparaiso_ indiana_ usa,27
+147096,stillwater_ minnesota_ usa,45
+212971,adelaide_ south australia_ australia,36
+191280,madrid_ madrid_ spain,40
+243600,london_ england_ united kingdom,34
+142791,drifting_ pennsylvania_ usa,44
+121434,los angeles_ california_ usa,35
+199606,hackett_ arkansas_ usa,51
+26355,vancouver_ british columbia_ canada,57
+43777,joliet_ illinois_ usa,29
+187114,brackley_ northamptonshire_ united kingdom,26
+230440,figueira da foz_ distrito de coimbra_ portugal,26
+6148,hamburg_ hamburg_ germany,32
+76037,enniskillen_ northern ireland_ united kingdom,63
+99217,nis_ serbia_ yugoslavia,21
+160959,westlake_ ohio_ usa,57
+144704,colchester_ england_ united kingdom,46
+36903,sydney_ new south wales_ australia,23
+127205,iowa city_ iowa_ usa,58
+274328,aberdeen_ scotland_ united kingdom,32
+138964,blum_ texas_ usa,51
+107263,plymouth_ new hampshire_ usa,21
+238981,gloucester_ midlands_ united kingdom,27
+141167,main beach_ queensland_ australia,55
+207802,milroy_ indiana_ usa,15
+201672,london_ england_ united kingdom,31
+162933,portales_ _,49
+73954,brooklyn_ new york_ usa,20
+192487,buenos aires_ capital federal_ argentina,39
+196651,gloucester_ england_ united kingdom,20
+190301,royal palm beach_ florida_ usa,51
+117168,warrenton_ north carolina_ usa,56
+132516,bathurst_ new south wales_ australia,35
+179939,barcelona_ granollers_ spain,27
+224840,oxford_ england_ united kingdom,29
+10620,lausanne_ vaud_ switzerland,30
+26858,t�bingen_ baden-wuerttemberg_ germany,32
+134330,m�laga_ n/a_ spain,42
+93879,waterloo_ iowa_ usa,49
+143014,bielefeld_ nordrhein-westfalen_ germany,22
+245999,jyv�skyl�_ keski-suomi_ finland,20
+218739,london_ london_ united kingdom,33
+35583,allegan_ michigan_ usa,45
+98424,eugene_ oregon_ usa,57
+180614,ssf_ nebraska_ usa,58
+145514,arezzo_ toscana_ italy,19
+232025,oklahoma city_ oklahoma_ usa,35
+161125,riva del garda_ trentino alto adige_ italy,23
+113737,kissimmee_ florida_ usa,34
+99089,pleasanton_ california_ usa,57
+65292,beulah_ north dakota_ usa,57
+130402,auburn hills_ michigan_ usa,34
+173293,hartford city_ indiana_ usa,19
+190376,roanoke_ virginia_ usa,15
+196618,toronto_ ontario_ canada,17
+123124,st. charles_ missouri_ usa,35
+8601,newcastle-upon-tyne_ tyneside_ united kingdom,44
+243388,canillo_ nunavut_ andorra,39
+40209,edinburgh_ scotland_ united kingdom,27
+260415,lisbon_ lisbon_ portugal,34
+105005,wilkes-barre_ pennsylvania_ usa,36
+113050,longwood_ florida_ usa,42
+75307,radcliff_ kentucky_ usa,25
+241804,corvallis_ oregon_ usa,24
+250050,kerrville_ texas_ usa,18
+277233,mumbai_ maine_ india,26
+247075,portage_ indiana_ usa,32
+18209,singapore_ n/a_ singapore,30
+119900,sherman_ texas_ usa,38
+219933,mckees rocks_ pennsylvania_ usa,52
+265417,toronto_ ontario_ canada,23
+215037,andorra la vella_ ._ andorra,40
+68921,houston_ texas_ usa,28
+13135,brampton_ ontario_ canada,40
+102706,seminole_ texas_ usa,50
+13686,mcgregor_ texas_ usa,24
+74001,coleford_ england_ united kingdom,24
+53169,london_ ontario_ canada,38
+170433,melbourne_ victoria_ australia,30
+45667,san francisco_ california_ usa,24
+167432,ironwood_ michigan_ usa,66
+106584,sherard_ illinois_ usa,22
+243320,aptos_ california_ usa,56
+274122,kocaeli_ n/a_ turkey,41
+258612,downingtown_ pennsylvania_ usa,28
+104074,edington_ england_ united kingdom,21
+71035,stockton_ california_ usa,32
+86074,oceanside_ california_ usa,34
+153565,bari_ puglia_ italy,27
+134964,bee spring_ kentucky_ usa,26
+6937,mondragon_ euskadi_ spain,51
+68656,niter�i_ rio de janeiro_ brazil,26
+235821,ames_ iowa_ usa,71
+108772,qualicum beach_ _ canada,35
+243042,baltimore_ maryland_ usa,19
+12772,new york_ new york_ usa,46
+12688,downingtown_ pennsylvania_ usa,58
+54012,leuven_ vlaams-brabant_ belgium,17
+145342,paraparaumu_ kapiti coast_ new zealand,36
+39593,brisbane_ queensland_ australia,33
+257801,rensselaer_ new york_ usa,41
+143997,drammen_ buskerud_ norway,42
+102734,niceville_ florida_ usa,31
+231055,centreville_ virginia_ usa,39
+77866,warrington_ pennsylvania_ usa,47
+253982,catanzaro_ calabria_ italy,30
+258293,little chute_ wisconsin_ usa,21
+83635,manhasset_ new york_ usa,17
+84370,plano_ texas_ usa,17
+73119,coventry_ england_ united kingdom,18
+178773,a coru�a_ galicia_ spain,32
+139230,gillette_ wyoming_ usa,35
+248369,gonzales_ louisiana_ usa,18
+137734,milano_ lombardia_ italy,27
+5689,stourbridge_ england_ united kingdom,34
+172042,melbourne_ victoria_ australia,40
+56440,madrid_ madrid_ spain,45
+152312,portland_ oregon_ usa,20
+158069,tehran_ iran_ iran,43
+87222,peoria_ arizona_ usa,23
+75794,lebanon_ tennessee_ usa,24
+131196,trenton_ new jersey_ usa,46
+10690,toronto_ ontario_ canada,40
+72509,buffalo_ new york_ usa,15
+140984,evesham_ worcestershire_ united kingdom,56
+131972,new york_ new york_ usa,21
+39971,barcelona_ catalunya_ spain,47
+114747,guelph_ ontario_ canada,28
+262764,stamford_ connecticut_ usa,61
+133640,lansing_ michigan_ usa,67
+90422,abingdon_ maryland_ usa,59
+192808,atlanta_ georgia_ usa,56
+213767,san jose_ california_ usa,22
+173379,manchester_ england_ united kingdom,20
+233203,minnreapolis_ minnesota_ usa,27
+79077,lund_ n/a_ sweden,24
+99922,hamburg_ hamburg_ germany,37
+194647,halifax_ england_ united kingdom,34
+95172,denver_ colorado_ usa,35
+48457,lincoln_ nebraska_ usa,36
+270359,barrow in furness_ cumbria_ united kingdom,43
+111908,duluth_ minnesota_ usa,27
+44592,barcelona_ catalonia_ spain,60
+276714,n/a_ n/a_ singapore,31
+80516,columbus_ ohio_ usa,36
+219569,cedar rapids_ iowa_ usa,41
+131627,bloomfield_ michigan_ usa,51
+22517,akron_ ohio_ usa,53
+276238,calgary_ alberta_ canada,35
+17589,westminster_ maryland_ usa,46
+225013,azuqueca de henares_ n/a_ spain,32
+153192,porto alegre_ rio grande do sul_ brazil,26
+58634,manresa_ barcelona_ spain,29
+162907,sydney_ new south wales_,35
+150793,chicago_ illinois_ usa,25
+146374,lisbon_ n/a_ portugal,27
+79025,stockholm_ n/a_ sweden,26
+112311,delmar_ new york_ usa,47
+65762,alcorcon_ madrid_ spain,56
+213100,adelaide_ south australia_ australia,19
+98610,gijon_ n/a_ spain,41
+96867,maipu_ mendoza_ argentina,27
+6586,barcelona_ calabria_ spain,32
+180852,g�teborg_ g�teborg_ sweden,36
+69599,boulder_ colorado_ usa,26
+109702,berlin_ berlin_ germany,31
+272790,murrumbeena_ victoria_ australia,53
+116676,bowmanville_ ontario_ canada,47
+101367,marblehead_ massachusetts_ usa,26
+264775,lacey_ washington_ usa,67
+92084,sydney_ new south wales_ australia,27
+262723,howard city_ michigan_ usa,33
+43704,oshkosh_ wisconsin_ usa,54
+108553,setubal_ n/a_ portugal,26
+177284,colorado springs_ colorado_ usa,30
+115307,cicero_ indiana_ usa,66
+140043,portland_ oregon_ usa,34
+96000,zurich_ zurich_ switzerland,28
+38491,san diego_ california_ usa,28
+39932,b�lach_ bayern_ switzerland,42
+24504,perpignan_ languedoc-roussillon_ france,44
+229607,louisville_ kentucky_ usa,17
+270680,sevilla_ sevilla_ spain,23
+5177,barcelona_ catalunya_ spain,53
+78827,santa clarita_ california_ usa,27
+191473,duarte_ california_ usa,18
+226475,geelong_ victoria_ australia,25
+1318,le�n_ castilla-le�n_,33
+274146,donostia_ gipuzkoa_ spain,23
+176377,rotorua_ n/a_ new zealand,13
+35779,hamburg_ hamburg_ germany,37
+1042,queensbury_ new york_ usa,40
+119225,minto heights_ new south wales_ australia,47
+129482,claremore_ oklahoma_ usa,24
+264455,nijmegen_ gelderland_ netherlands,68
+162163,istanbul_ marmara_ turkey,29
+84724,senecaville_ ohio_ usa,32
+222265,vienna_ n/a_ austria,41
+175204,bellevue_ washington_ usa,47
+38520,mesa_ arizona_ usa,37
+95667,porto_ porto_ portugal,24
+35446,z�rich_ z�rich_ switzerland,34
+33226,maidstone_ england_ united kingdom,49
+8625,sydney_ new south wales_ australia,14
+241842,capital federal_ capital federal_ argentina,28
+106041,valencia_ valencia_ spain,31
+87573,golden_ colorado_ usa,34
+180038,pointe-claire_ quebec_ canada,21
+203395,campinas_ s�o paulo_ brazil,27
+84669,chelmsford_ england_ united kingdom,44
+128205,ridgeland_ mississippi_ usa,39
+110732,edmonton_ alberta_ canada,52
+225527,central coast_ new south wales_ australia,15
+236293,istanbul_ n/a_ turkey,33
+237686,n. huntingdon_ pennsylvania_ usa,36
+136959,inkster_ michigan_ usa,42
+150736,shanghai_ shanghai_ china,51
+54232,tijuana_ maine_ mexico,25
+190990,canterbury_ new south wales_ australia,28
+198550,birnamwood_ wisconsin_ usa,30
+7158,omaha_ nebraska_ usa,30
+182409,le havre_ haute normandie_ france,21
+215021,carndonagh_ n/a_ ireland,53
+87410,littleton_ colorado_ usa,54
+162010,orange_ virginia_ usa,33
+225775,san diego_ california_ usa,36
+170167,lodi_ california_ usa,39
+267113,arlington_ virginia_ usa,15
+242185,patan_ gujarat_ india,24
+231921,torino_ piemonte_ italy,38
+199629,milano_ lombardia_ italy,45
+190942,glasgow_ scotland_ united kingdom,38
+177519,lake munmorah_ new south wales_ australia,39
+139028,cypress_ california_ usa,43
+157518,laukaa_ n/a_ finland,57
+203571,wellington_ kansas_ usa,37
+165137,vantaa_ uusimaa_ finland,19
+129703,sammamish_ washington_ usa,23
+101830,hannover_ niedersachsen_ germany,41
+190745,clovis_ california_ usa,58
+44332,faro_ algarve_ portugal,64
+214155,bowen_ queensland_ australia,53
+26870,sh_ sh_ china,25
+276172,sheffield_ england_ united kingdom,23
+264316,bruxelles_ bruxelles-capitale_ belgium,25
+138594,danville_ california_ usa,62
+28804,cardinal_ ontario_ canada,50
+5597,ajax_ ontario_ canada,25
+204296,calgary_ alberta_ canada,39
+59561,washington_ dc_ usa,41
+97466,granada_ n/a_ spain,23
+83646,covington_ virginia_ usa,34
+28152,stuttgart_ baden-wuerttemberg_ germany,44
+184316,lake view terrace_ california_ usa,52
+142592,washington_ dc_ usa,30
+234031,townsville_ queensland_ australia,49
+114241,townsend_ massachusetts_ usa,32
+94665,waverley_ nova scotia_ canada,50
+6813,assouit_ egypt_ egypt,25
+201141,ottawa_ ontario_ canada,27
+271606,anaheim_ california_ usa,36
+183613,columbia_ south carolina_ usa,43
+272463,logan_ utah_ usa,24
+168323,weimar_ thueringen_ germany,29
+176214,springdale_ arkansas_ usa,34
+243868,melbourne_ victoria_ australia,31
+81206,lisbon_ tr�s-os-montes_ portugal,25
+130843,bath_ england_ united kingdom,21
+130518,limehouse_ ontario_ canada,31
+144879,london_ england_ united kingdom,42
+91068,san anselmo_ california_ usa,48
+70843,barcelona_ anzo�tegui_ venezuela,45
+119815,pensacola_ florida_ usa,21
+267953,glendale_ washington_ usa,28
+180758,bittern_ victoria_ australia,31
+257782,east lansing_ michigan_ usa,20
+2320,rochester_ new york_ usa,21
+253988,rome_ rome_ italy,34
+32452,baltimore_ maryland_ usa,22
+143693,espoo_ n/a_ finland,24
+238670,columbus_ ohio_ usa,57
+60781,chillicothe_ ohio_ usa,18
+9677,balchik_ varna_ bulgaria,25
+138875,orte scalo (vt)_ lazio_ italy,30
+11405,casa_ arkansas_ usa,22
+134296,minneapolis_ minnesota_ usa,33
+220443,new haven_ connecticut_ usa,57
+110530,elmira_ new york_ usa,43
+1148,prairie village_ kansas_ usa,79
+161647,oviedo_ asturias_ spain,27
+112097,helsingborg_ sk�ne_ sweden,19
+122114,macon_ georgia_ usa,30
+8547,gaborone_ n/a_ botswana,29
+113919,alexandria_ virginia_ usa,39
+68298,buffalo_ new york_ usa,63
+185047,lugo_ lugo_ spain,21
+15549,atlanta_ georgia_ usa,26
+27910,auckland_ n/a_ new zealand,56
+197272,pie town_ new mexico_ usa,65
+89066,melbourne_ victoria_ australia,18
+201356,villa allende_ cordoba_ argentina,22
+277435,cedarburg_ wisconsin_ usa,50
+177622,bukit jalil_ kuala lumpur_ malaysia,20
+111316,n/a_ n/a_ united kingdom,46
+27596,gurnee_ illinois_ usa,15
+73355,morehead_ kentucky_ usa,15
+270156,portland_ oregon_ usa,41
+73562,riverside_ illinois_ usa,40
+214875,catanzaro_ calabria_ italy,25
+60936,perth_ western australia_ australia,39
+2401,manchester_ england_ united kingdom,25
+113793,tallahassee_ florida_ usa,34
+242336,white haven_ pennsylvania_ usa,46
+208910,chon an_ chunnam_ south korea,23
+60975,marmora_ ontario_ canada,29
+177023,hayward_ wisconsin_ usa,42
+47192,ch-8580 sommeri_ thurgau-switzerland_ switzerland,19
+89187,kajang_ selangor darul ehsan_ malaysia,38
+80938,oak  island_ north carolina_ usa,76
+222945,canon city_ colorado_ usa,30
+86275,edinburgh_ scotland_ united kingdom,43
+268118,haverhill_ massachusetts_ usa,33
+82558,cambridge_ waikato_ new zealand,42
+173341,kenosha_ wisconsin_ usa,46
+234436,sydney_ new south wales_ australia,15
+247422,nanaimo_ british columbia_ canada,43
+83538,richlandtown_ pennsylvania_ usa,25
+43041,mexico_ distrito federal_ mexico,33
+6609,wallingford_ connecticut_ usa,29
+70462,virginia beach_ virginia_ usa,38
+168079,green town_ california_ usa,29
+126276,tullahoma_ tennessee_ usa,58
+87087,san antonio_ texas_ usa,21
+193504,earlysville_ virginia_ usa,38
+31669,bursa_ marmara_ turkey,33
+203327,costa mesa_ california_ usa,74
+122655,wuppertal_ nordrhein-westfalen_ germany,14
+158826,cartagena_ murcia_ spain,30
+79343,aylmer_ quebec_ canada,43
+16153,chelmsford_ england_ united kingdom,58
+90165,morges_ vaud_ switzerland,22
+260767,sydney_ new south wales_ australia,27
+21375,beeston_  nottingham_ nottinghamshire_ united kingdom,69
+29457,deltona_ florida_ usa,16
+34236,kitchener_ ontario_ canada,16
+188414,myrtle beach_ south carolina_ usa,27
+221508,torino_ piemonte_ italy,34
+186924,trumbull_ connecticut_ usa,49
+205021,milwaukee_ wisconsin_ usa,72
+127236,visalia_ california_ usa,27
+14118,c�rdoba_ c�rdoba_ spain,51
+208531,st. louis_ missouri_ usa,51
+71142,granada_ andalucia_ spain,29
+170744,peru_ indiana_ usa,34
+85283,louisville_ kentucky_ usa,54
+237317,albuquerque_ new mexico_ usa,14
+189982,mifflinburg_ pennsylvania_ usa,22
+58581,fort walton beach_ florida_ usa,46
+89558,arenys de munt_ barcelona_ spain,28
+225573,sydney_ new south wales_ australia,21
+155519,winston salem_ north carolina_ usa,35
+53549,plattsburgh_ new york_ usa,23
+272023,bronx_ new york_ usa,15
+45085,moore_ oklahoma_ usa,40
+40845,madrid_ n/a_ spain,27
+198856,portland_ oregon_ usa,50
+200198,daly city_ california_ usa,19
+185360,marietta_ georgia_ usa,26
+6316,c�ceres_ extremadura_ spain,22
+69010,toronto_ ontario_ canada,39
+139563,hood river_ oregon_ usa,64
+108499,madrid_ madrid_ spain,36
+62084,minneapolis_ minnesota_ usa,43
+188071,plainwell_ michigan_ usa,65
+83621,sugar land_ texas_ usa,54
+152857,new york_ new york_ usa,34
+170312,bow_ washington_ usa,53
+154844,sharon hill_ pennsylvania_ usa,32
+34812,shijiazhuang_ hebei_ china,23
+58712,stockton_ california_ usa,62
+224331,mebane_ north carolina_ usa,32
+26727,westerville_ ohio_ usa,43
+143952,1021 hwy 371 s_ mississippi_ usa,52
+67247,ventimiglia_ liguria_ italy,27
+127449,holtsville_ new york_ usa,52
+27353,san antonio_ texas_ usa,22
+174043,london_ england_ united kingdom,34
+263852,lake mary_ florida_ usa,65
+63292,barcelona_ barcelona_ spain,29
+153810,ridgewood_ new jersey_ usa,19
+5686,brookline_ massachusetts_ usa,30
+112911,riverview_ michigan_ usa,47
+19645,somerville_ massachusetts_ usa,28
+235865,midland_ ontario_ canada,32
+128240,mckinney_ texas_ usa,28
+165047,bradford_ yorkshire_ united kingdom,46
+98751,recife_ pernambuco_ brazil,21
+213822,jacksonville_ florida_ usa,66
+233756,crabtree_ pennsylvania_ usa,32
+228732,tucson_ arizona_ usa,52
+222498,guilderland center_ new york_ usa,60
+119745,wendell_ north carolina_ usa,29
+148517,minneapolis_ minnesota_ usa,70
+118323,adelaide_ south australia_ australia,80
+114834,manitowoc_ wisconsin_ usa,31
+175924,hillsboro_ texas_ usa,51
+46780,laplace_ louisiana_ usa,53
+18528,fairview_ michigan_ usa,16
+36611,wichita_ kansas_ usa,28
+277986,battle ground wa_ washington_ usa,30
+41918,perugia_ umbria_ italy,35
+183526,new orleans_ louisiana_ usa,52
+254806,bothel_ niedersachsen_ germany,31
+96617,perth_ western australia_ australia,67
+181608,moncton_ new brunswick_ canada,25
+270651,hamden_ new york_ usa,17
+275109,princeton_ west virginia_ usa,22
+194598,winston-salem_ north carolina_ usa,23
+108891,la rochelle_ n/a_ france,43
+187521,boston_ massachusetts_ usa,36
+18705,feldkirchen/munich_ bayern_ germany,42
+28705,lebanon_ pennsylvania_ usa,51
+128483,grimsby_ england_ united kingdom,48
+48390,n.carleston_ south carolina_ usa,16
+52646,nottingham_ england_ united kingdom,34
+275266,pasaia_ gipuzkoa_ spain,28
+3694,raleigh_ north carolina_ usa,16
+48875,quito_ pichincha_ ecuador,25
+97094,k�ln_ nordrhein-westfalen_ germany,30
+194564,glasgow_ scotland_ united kingdom,20
+4940,bucuresti_ romania_ romania,29
+64674,edmonton_ alberta_ canada,34
+210084,philadelphia_ pennsylvania_ usa,53
+99081,cali_ valle_ colombia,40
+19094,peoria_ arizona_ usa,49
+232774,arlington_ virginia_ usa,34
+156997,sunland_ california_ usa,51
+141201,redmond_ washington_ usa,29
+190936,hamilton_ ohio_ usa,39
+94904,chicago_ illinois_,53
+88388,nantes_ loire atlantique_ france,59
+122396,welwyn garden city_ n/a_ united kingdom,30
+32020,hurstbridge_ victoria_ australia,14
+106332,z�rich_ z�rich_ switzerland,25
+116198,park ridge_ new jersey_ usa,27
+29498,boise_ idaho_ usa,35
+244336,bangalore_ karnataka_ india,25
+249899,cheektowaga_ _,35
+258133,belleville_ michigan_ usa,54
+262811,marion_ illinois_ usa,58
+260182,detroit_ michigan_ usa,44
+169451,houston_ texas_ usa,40
+247091,granada_ granada_ spain,46
+264217,attard_ n/a_ malta,18
+241923,toronto / the beaches_ ontario_ canada,44
+187425,san francisco_ california_ usa,12
+114825,louisville_ kentucky_ usa,32
+122633,mijdrecht_ utrecht_ netherlands,43
+44111,appleton_ wisconsin_,69
+246752,haverhill_ massachusetts_ usa,31
+58536,nice_ alpes maritimes_ france,32
+28800,03770 el verger_ (alacant)_ spain,69
+64800,hudson_ new hampshire_ usa,33
+201126,holly springs_ north carolina_ usa,32
+187052,ankara_ n/a_ turkey,34
+124895,prairieton_ indiana_ usa,27
+144314,monroe_ washington_ usa,43
+5036,rosario_ n/a_ argentina,47
+249237,eatontown_ new jersey_ usa,36
+52901,elk grove_ california_ usa,50
+51559,helotes_ texas_ usa,54
+34374,richmond_ indiana_ usa,55
+70059,taranto_ puglia_ italy,31
+19562,roswell_ georgia_ usa,54
+47278,singapore_ n/a_ singapore,17
+248787,wokingham_ england_ united kingdom,25
+94333,calgary_ alberta_ canada,28
+186881,donostia_ euskal herria_ spain,24
+181250,mountain view_ california_ usa,31
+20449,ozark_ missouri_ usa,33
+64423,bellevue_ washington_ usa,19
+79965,simmern_ rheinland-pfalz_ germany,19
+90389,warsaw_ missouri_ usa,61
+230840,daytona beach_ florida_ usa,22
+4785,litchfield_ connecticut_ usa,30
+98876,bath_ n/a_ united kingdom,21
+161711,melbourne_ victoria_ australia,24
+198412,waretown_ new jersey_ usa,17
+165553,milan_ lombardia_ italy,24
+8286,new york_ new york_ usa,37
+8016,tallahassee_ florida_ usa,38
+149781,panama city_ florida_ usa,40
+118181,upton_ massachusetts_ usa,55
+51956,barcelona_ barcelona_ spain,31
+26439,oslo_ oslo_ norway,35
+202318,alicante_ alicante_ spain,26
+73572,trieste_ friuli venezia giulia_ italy,32
+150277,bilbao_ bizkaia_ spain,38
+140487,south shields_ tyne & wear_ england,69
+175215,fountain valley_ california_ usa,23
+176921,bluewater_ queensland_ australia,27
+152720,richmond_ virginia_ usa,70
+88441,luque_ central_ paraguay,16
+225466,north vancouver_ british columbia_ canada,40
+155036,maumelle_ arkansas_ usa,61
+187613,olympia_ washington_ usa,19
+87387,lexington_ missouri_ usa,20
+33871,akron_ ohio_ usa,23
+15494,asheville_ north carolina_ usa,46
+256576,reschigliano di campodarsego_ wyoming_ italy,21
+217632,tehran_ teh_ iran,24
+3875,glasgow_ scotland_ united kingdom,22
+44253,san juan_ san juan_ argentina,28
+136538,san francisco_ california_ usa,22
+114412,sacville_ nova scotia_ canada,27
+153190,rome_ lazio_ italy,34
+116577,powhatan_ virginia_ usa,41
+264143,dallas_ texas_ usa,54
+230427,paderborn_ nordrhein-westfalen_ germany,28
+222455,hildesheim_ niedersachsen_ germany,22
+263612,caringbah_ new south wales_ australia,51
+236295,gresham_ oregon_ usa,35
+87902,valencia_ comunidad valenciana_ spain,47
+12592,badalona_ barcelona_ spain,15
+238778,trieste_ friuli venezia giulia_ italy,26
+197438,milano_ lombardia_ italy,40
+43416,paris_ ile de france_ france,23
+181739,athens_ attiki_ greece,18
+111109,buford_ georgia_ usa,28
+167739,adliswil_ zurich_ switzerland,29
+171841,cullman_ alabama_ usa,36
+194534,ontario_ california_ usa,40
+37494,fayetteville_ georgia_ usa,49
+39535,kirkcaldy_ scotland_ united kingdom,68
+7584,norwich_ england_ united kingdom,21
+64942,barcelona_ catalunya_ spain,31
+244443,siegburg_ nordrhein-westfalen_ germany,20
+106755,gillingham_ england_ united kingdom,31
+133653,kyoto_ kansai_ japan,24
+23791,golden_ colorado_ usa,36
+168060,toronto_ ontario_ canada,56
+171669,hot springs_ south dakota_ usa,49
+245245,wellington_ florida_ usa,55
+154268,gelnhausen_ hessen_ germany,57
+56568,mt. angel_ oregon_ usa,54
+153984,mainz_ rheinland-pfalz_ germany,32
+40444,g�e�es - bizkaia_ pais vasco_ spain,36
+245456,paris_ france_ france,37
+90680,sausalito_ california_ usa,45
+187618,kingston_ ontario_ canada,34
+177867,singapore_ n/a_ singapore,29
+112900,birmingham_ alabama_ usa,45
+131260,chicago_ illinois_ usa,24
+7648,union grove_ wisconsin_ usa,45
+323,seattle_ washington_ usa,23
+163142,maia_ _,30
+22342,berga_ barcelona_ spain,33
+209480,toronto_ ontario_ canada,33
+106924,lenoir_ north carolina_ usa,37
+260171,oulu/ii_ oulunl��ni/suomi_ finland,16
+93688,minnetonka_ mn_ usa,61
+106438,perth_ western australia_ australia,15
+196079,chelsea_ quebec_ canada,46
+119966,caledonia_ michigan_ usa,26
+169649,milton keynes_ england_ united kingdom,29
+94126,ibbenbueren_ nordrhein-westfalen_ germany,27
+251549,hobart_ alberta_ australia,51
+135803,st. louis_ missouri_ usa,50
+105127,wiesbaden_ hessen_ germany,20
+160932,new york_ new york_ usa,57
+89021,budapest_ budapest_ hungary,24
+149382,link�ping_ n/a_ sweden,30
+208231,round rock_ texas_ usa,36
+194552,n/a_ n/a_ singapore,45
+181857,tomar_ n/a_ portugal,22
+114318,durham_ north carolina_ usa,29
+221417,mendoza_ mendoza_ argentina,30
+106766,edmonton_ alberta_ canada,25
+108537,dijon_ bourgogne_ france,37
+64458,delton_ michigan_ usa,38
+99402,manistee_ michigan_ usa,73
+78730,lisboa_ lisboa_ portugal,20
+40364,woodhaven_ michigan_ usa,57
+150455,derby_ england_ united kingdom,48
+109110,kensington_ maryland_ usa,54
+149928,philadlpehia_ pennsylvania_ usa,49
+53128,wellington_ n/a_ new zealand,41
+151465,wigan_ england_ united kingdom,55
+47291,washington_ dc_ usa,32
+10077,bremen_ bremen_ germany,50
+39955,murcia_ murcia_ spain,24
+125871,manchester_ missouri_ usa,51
+16816,pinecrest_ florida_ usa,48
+123139,los alamos_ new mexico_ usa,20
+149874,la plata_ buenos aires_,20
+5039,mankato_ minnesota_ usa,17
+26386,columbia_ south carolina_ usa,24
+161684,canton_ ohio_ usa,34
+98685,tucson_ arizona_ usa,66
+230062,paris_ paris_ france,26
+262598,sierra vista_ arizona_ usa,62
+115611,beijing_ beijing_ china,26
+115308,victoria_ british columbia_ canada,48
+61914,granada_ andalucia_ spain,26
+227114,chico_ california_ usa,51
+262382,porto_ porto_ portugal,34
+7044,stockton-on-tees_ stockton-on-tees_ united kingdom,44
+235442,gasteiz_ euskal herria_ spain,21
+153229,east atlantic beach_ new york_ usa,64
+41615,feilding_ \n/a\_ new zealand,39
+273355,melzo_ lombardia_ italy,30
+178520,vienna_ maryland_ usa,73
+170972,west allis_ wisconsin_ usa,28
+27943,worms_ rheinland-pfalz_ germany,41
+124495,valencia_ \n/a\_ spain,28
+188486,lakewood_ colorado_ usa,32
+107104,memphis_ tennessee_ usa,37
+183574,palermo_ sicilia_ italy,31
+192762,erdenheim_ pennsylvania_ usa,45
+9944,lisle_ illinois_ usa,24
+106814,mesa_ arizona_ usa,36
+167724,paris_ france_ france,27
+159590,london_ london_ united kingdom,31
+147062,portland_ oregon_ usa,36
+114306,windsor_ ontario_ canada,43
+175449,irwell_ canterbury_ new zealand,51
+105392,kansas city_ missouri_ usa,61
+233221,clinton_ new jersey_ usa,34
+169366,clichy_ n/a_ france,34
+93725,bend_ oregon_ usa,56
+118207,barrington_ illinois_ usa,57
+274783,skara_ v�sterg�tland_ sweden,17
+268972,visalia_ california_ usa,44
+3460,edmonton_ alberta_ canada,32
+141118,le�n_ le�n_ spain,45
+96909,norfolk_ virginia_ usa,50
+84061,teramo_ abruzzo_ italy,29
+191110,halifax_ nova scotia_ canada,31
+98580,philadelphia_ pennsylvania_ usa,52
+30642,omaha_ nebraska_ usa,18
+69063,northants_ n/a_ united kingdom,29
+47325,fontana_ california_ usa,47
+49797,athens_ georgia_ usa,21
+45548,barcelona_ catalunya_ spain,36
+26544,woodbridge_ virginia_ usa,37
+260321,dortmund_ nordrhein-westfalen_ germany,39
+139283,troy_ new york_ usa,50
+47064,oxford_ england_ united kingdom,19
+76303,karaj_ tehran_ iran,28
+139363,oconee_ illinois_ usa,18
+126781,harleysville_ pennsylvania_ usa,37
+261589,sydney_ new south wales_ australia,61
+167492,bochum-wattenscheid_ nordrhein-westfalen_ germany,16
+161418,greater london_ london_ united kingdom,24
+95514,san francisco_ california_ usa,26
+48626,roanoke_ virginia_ usa,34
+153756,cirencester_ england_ united kingdom,24
+64584,paris_ ile de france_ france,26
+222325,neunburg v. wald_ bayern_ germany,28
+564,franksville_ wisconsin_ usa,15
+48009,mobile_ alabama_ usa,22
+264612,buenos aires_ n/a_ argentina,42
+256325,halekulani_ new south wales_ australia,40
+213974,stuttgart_ baden-wuerttemberg_ germany,51
+135505,las flores_ buenos aires_ la argentina,22
+121972,pleasanton_ california_ usa,63
+77165,navacerrada_ madrid_ spain,31
+134291,new orleans_ louisiana_ usa,35
+5782,stillwater_ minnesota_ usa,62
+74914,stockholm_ n/a_ sweden,42
+90677,glen ellyn_ illinois_ usa,17
+33433,little rock_ arkansas_ usa,18
+159782,dolgellau_ wales_ united kingdom,41
+236797,leduc_ alberta_ canada,50
+88997,bellevue_ washington_ usa,47
+88871,lawrence_ kansas_ usa,43
+123671,pendleton_ oregon_ usa,29
+156688,avalon_ new jersey_ usa,29
+71912,hospitalet ll. barcelona_ barcelona_ spain,38
+236394,kenmore_ new york_ usa,33
+130358,lawrenceville_ georgia_ usa,35
+185564,cordoba_ cordoba_ argentina,44
+212022,milan_ michigan_ usa,48
+181868,eastbourne_ england_ united kingdom,49
+64496,irvine_ scotland_ united kingdom,57
+196477,philadelphia_ pennsylvania_ usa,37
+273758,teruel_ n/a_ spain,22
+181980,karlsruhe_ baden-wuerttemberg_ germany,20
+131724,milano_ lombardia_ italy,28
+203596,dongying_ shangdong province_ china,23
+25390,lynnwood_ washington_ usa,40
+84353,leipzig_ sachsen_ germany,24
+18610,englewood_ new jersey_ usa,14
+63452,westfield_ massachusetts_ usa,20
+193897,owasso_ oklahoma_ usa,32
+80857,rainbow lake_ alberta_ canada,15
+241064,cambridge_ cambridgeshire_ united kingdom,33
+216253,new york_ new york_ usa,35
+228766,queensland_ brisbane_ australia,35
+101799,leipzig_ sachsen_ germany,60
+134309,manchester_ england_ united kingdom,24
+193658,streator_ illinois_ usa,16
+204477,cleburne_ texas_ usa,48
+217072,saskatoon_ saskatchewan_ canada,31
+89094,whakatane_ bay of plenty_ new zealand,63
+163536,edmonton_ alberta_ canada,14
+151725,toronto_ ontario_ canada,26
+167773,nova friburgo_ rio de janeiro_ brazil,38
+251174,leland_ north carolina_ usa,33
+21095,bratislava_ bratislava_ slovakia,27
+56879,renton_ washington_ usa,44
+64334,akron_ ohio_ usa,15
+204868,parede_ lisboa_ portugal,24
+21512,sherman_ texas_ usa,56
+36263,houston_ texas_ usa,57
+113666,olympia_ washington_ usa,50
+155773,santa fe_ new mexico_ usa,22
+104173,hennef_ nordrhein-westfalen_ germany,40
+82093,hannover_ niedersachsen_ germany,28
+156927,pasadena_ california_ usa,28
+239864,marina del rey_ california_ usa,36
+149172,aurora_ colorado_ usa,37
+145224,glendale_ california_ usa,38
+27902,grandview_ texas_ usa,44
+227246,norwich_ england_ united kingdom,59
+106966,richmond_ virginia_ usa,32
+167584,terrassa_ catalunya_ spain,32
+57612,swansea_ wales_ united kingdom,34
+220412,barcelona_ catalunya_ spain,21
+211394,atlanta_ georgia_ usa,43
+232296,lecco_ lombardia_ italy,29
+215023,lexington_ kentucky_ usa,16
+145766,woodstock_ maryland_ usa,39
+79575,karachi_ sindh/islam_ pakistan,16
+53089,london_ england_ united kingdom,19
+5753,chicago_ illinois_ usa,25
+113943,s�o paulo_ s�o paulo_ brazil,29
+117897,brooklyn_ new york_ usa,25
+166010,porto_ n/a_ portugal,29
+199848,guayaquil_ guayas_ ecuador,25
+90811,lima - peru_ lima_ peru,35
+258673,glasgow_ scotland_ united kingdom,38
+78800,st. louis_ missouri_ usa,52
+141929,pittsburgh_ pennsylvania_ usa,29
+163625,keysville_ virginia_ usa,31
+65776,niter�i_ rio de janeiro_ brazil,21
+148053,dover_ new hampshire_ usa,26
+100298,recife_ pernambuco_ brazil,15
+132036,stamford_ connecticut_ usa,34
+188728,bergamo_ lombardia_ italy,25
+259510,st. charles_ missouri_ usa,53
+142326,purmerend_ noord holland_ netherlands,23
+275565,cambridge_ united kingdom_ united kingdom,16
+118928,phenix city_ alabama_ usa,58
+246639,silver spring_ maryland_ usa,58
+71865,sydney_ new south wales_ australia,13
+53393,san antonio_ texas_ usa,13
+110545,peterborough_ england_ united kingdom,53
+97168,falls church_ virginia_ usa,60
+106979,san francisco_ california_ usa,34
+60902,freiburg_ baden-wuerttemberg_ germany,23
+119018,calgary_ alberta_ canada,35
+166420,sesto san giovanni_ lombardia_ italy,40
+49916,lisboa_ estremadura_ portugal,35
+85609,lakewood_ california_ usa,45
+150602,mableton_ georgia_ usa,20
+3703,virginia beach_ virginia_ usa,23
+38916,hettange grande_ moselle_ france,31
+53980,la mesa_ california_ usa,40
+91417,cincinnati_ ohio_ usa,36
+132495,cincinnati_ ohio_ usa,40
+213697,kottayam_ kerala_ india,21
+162700,fulham gardens_ south australia_ australia,31
+90481,bremen_ bremen_ germany,48
+116720,estero_ florida_ usa,57
+126659,montreal_ quebec_ canada,19
+69961,nashville_ tennessee_ usa,21
+178939,bundaberg_ queensland_ australia,25
+230956,minnetonka_ minnesota_ usa,63
+239885,edinburgh_ scotland_ united kingdom,23
+174666,behshahr_ mazandaran_ iran,23
+87875,seattle/tacoma_ washington_ usa,30
+171047,tehran_ idaho_ iran,18
+240954,algemessi_ valencia_ spain,29
+16908,chicago_ illinois_ usa,55
+106569,mccomb_ mississippi_ usa,46
+61589,bekasi_ yukon territory_ indonesia,28
+133515,sweet home_ oregon_ usa,45
+127702,ladysmith_ british columbia_ canada,65
+173292,cleveland_ oklahoma_ usa,29
+29070,upper hutt_ wellington_ new zealand,37
+95939,piracicaba_ s�o paulo_ brazil,37
+263794,hollywood_ california_ usa,25
+271803,oviedo_ asturias_ spain,26
+33291,tulsa_ oklahoma_ usa,56
+47912,douglasville_ georgia_ usa,33
+227807,louisville_ kentucky_ usa,34
+124405,lisboa_ lisboa_ portugal,23
+147450,oxford_ england_ united kingdom,21
+149492,barcelona_ barcelona_ spain,40
+152955,miami_ florida_ usa,69
+83330,kenosha_ wisconsin_ usa,41
+41831,toronto_ ontario_ canada,52
+825,albuquerque_ new mexico_ usa,38
+63406,new york_ new york_ usa,46
+162338,melbourne_ victoria_ australia,23
+32318,glen ellyn_ illinois_ usa,34
+119104,rangoon_ rangoon_ burma,35
+191561,raleigh_ north carolina_ usa,51
+241207,boyne island_ queensland_ australia,31
+92047,columbus_ ohio_ usa,25
+3591,fort worth_ texas_ usa,30
+247195,upper hutt_ wellington_ new zealand,17
+228080,binningen_ bl_ switzerland,23
+72165,cardiff_ wales_ united kingdom,29
+116876,new york_ new york_ usa,36
+36972,coquitlam_ british columbia_ canada,15
+169360,great barrington_ massachusetts_,25
+46353,lund_ sk�ne_ sweden,29
+210053,wauwatosa_ wisconsin_ usa,71
+182787,potterville_ michigan_ usa,32
+216791,tucson_ arizona_ usa,48
+66096,kansas city_ missouri_ usa,53
+107149,melbourne_ victoria_ australia,22
+105689,tampere_ iowa_ finland,13
+240204,greenbank_ ontario_ canada,50
+151025,salem_ oregon_ usa,49
+92022,manchester_ lancs_ united kingdom,16
+245048,moline_ illinois_ usa,24
+210295,london_ england_ united kingdom,57
+254366,hamilton_ ontario_ canada,20
+79792,nottingham_ n/a_ united kingdom,54
+197542,milano_ lombardia_ italy,37
+33071,englewood_ new jersey_ usa,39
+217933,donnellson_ iowa_ usa,33
+97523,christchurch_ n/a_ new zealand,28
+245102,birmingham_ alabama_ usa,21
+226124,schenectady_ new york_ usa,25
+217372,st. petersburg_ florida_ usa,54
+245251,toronto_ ontario_ canada,18
+79668,allen_ texas_ usa,39
+2672,haslemere_ england_ united kingdom,17
+245076,stephens city_ virginia_ usa,22
+148847,webster_ new york_ usa,34
+250879,airport west_ victoria_ australia,31
+176825,mylor bridge_ falmouth__ england_ united kingdom,57
+256046,winter park_ florida_ usa,63
+5261,chakwal_ punjab_ pakistan,19
+57371,missoula_ montana_ usa,19
+254703,weitweitweg_ bern_ switzerland,43
+7638,preston_ england_ united kingdom,53
+217581,maplewood_ minnesota_ usa,23
+201891,new york_ new york_ usa,35
+38658,london_ ontario_ canada,42
+50328,corning_ california_ usa,58
+228176,sydney_ new south wales_ australia,16
+168695,bayan baru_ penang_ malaysia,18
+77494,santiasco_ santiasco_ chile,16
+271412,loganville_ georgia_ usa,40
+60058,erie_ pennsylvania_ usa,43
+132415,hamilton_ new jersey_ usa,53
+111165,mumbai_ maharashtra_ india,31
+240375,winnipeg_ manitoba_ canada,34
+146225,nuenberg_ bayern_ germany,47
+222855,glasgow_ scotland_ united kingdom,29
+181653,roma_ lazio_ italy,34
+9625,storm lake_ iowa_ usa,20
+78563,iraq_ idaho_ iraq,31
+212191,geelong_ victoria_ australia,22
+121988,vestal_ new york_ usa,47
+87000,manila_ n/a_ philippines,24
+173541,warwick_ england_ united kingdom,32
+167706,leeds_ england_ united kingdom,31
+250015,amsterdam_ noord holland_ netherlands,31
+87275,hannover_ niedersachsen_ germany,26
+6317,sevilla_ andalucia_ spain,26
+194092,vila nova de famalicao_ norte_ portugal,21
+225701,madrid_ madrid_ spain,28
+105270,nashville_ tennessee_ usa,50
+18356,trois-rivi�res_ quebec_ canada,19
+277081,trnava_ n/a_ slovakia,16
+53640,100 mile house_ british columbia_ canada,32
+165326,g�strow_ mecklenburg-vorpommern_ germany,20
+152854,london_ utah_ united kingdom,17
+117446,san salvador_ n/a_ el salvador,36
+196871,phoenix_ arizona_ usa,37
+50791,the woodlands_ texas_ usa,27
+207543,weymouth_ dorset_ united kingdom,40
+53232,barrie_ ontario_ canada,19
+239858,state college_ pennsylvania_ usa,27
+5331,hull_ england_ united kingdom,26
+36436,chester_ new mexico_ usa,34
+60204,richmond_ indiana_ usa,48
+178357,san miguel_ buenos aires_ argentina,22
+48813,ibbenb�ren_ nordrhein-westfalen_ holy see,35
+50233,madras_ oregon_ usa,46
+278830,springield_ virginia_ usa,28
+14358,toronto_ ontario_ canada,28
+63288,waddinxveen_ zuid-holland_ netherlands,46
+15902,berlin_ berlin_ germany,25
+237264,cairo_ n/a_ egypt,35
+229451,auckland_ n/a_ new zealand,13
+252349,san jose_ california_ usa,32
+16834,lima_ lima_ peru,37
+178110,north york_ ontario_ canada,19
+94468,union beach_ new jersey_ usa,23
+199924,k�ln_ nordrhein-westfalen_ germany,22
+23840,munich_ bavaria_ germany,30
+161208,kitchener_ ontario_ canada,44
+135359,tewksbury_ massachusetts_ usa,37
+181514,minneapolis_ minnesota_ usa,23
+32818,sunshine_ victoria_ australia,56
+244253,alba_ piemonte_ italy,19
+132685,bilbo_ euskalherria_ spain,44
+59576,farmington hills_ michigan_ usa,52
+161795,leiden_ zuid-holland_ netherlands,58
+48934,jonesboro_ arkansas_ usa,76
+84422,dearborn_ michigan_ usa,22
+71753,kansas city_ missouri_ usa,41
+36848,victoria_ british columbia_ canada,24
+106541,cardiff_ wales_ united kingdom,41
+141432,dallas_ texas_ usa,53
+58148,nottingham_ england_ united kingdom,31
+232516,indianapolis_ indiana_ usa,32
+162430,melbourne_ victoria_ australia,42
+262821,palma_ mallorca_ spain,53
+209238,pass christian_ mississippi39571_ usa,60
+83685,corvallis_ oregon_ usa,17
+6835,san antonio_ texas_ usa,16
+52803,glens falls_ new york_ usa,66
+204612,bari_ puglia_ italy,44
+174841,greensburg_ pennsylvania_ usa,44
+167916,caserta_ campania_ italy,34
+192326,paris_ kentucky_ usa,51
+118261,l`estartit_ catalunya_ spain,43
+155188,sydney_ new south wales_ australia,14
+89527,frankfort_ ohio_ usa,21
+80260,new orleans_ louisiana_ usa,70
+151259,red deer_ alberta_ canada,29
+62174,barcelona_ catalunya_ spain,22
+224477,sacramento_ california_ usa,80
+172834,champaign_ illinois_ usa,33
+222350,aschaffenburg_ bayern_ germany,36
+125872,pittsburgh_ pennsylvania_ usa,36
+244965,fischingen_ switzerland_ switzerland,50
+124184,tulsa_ oklahoma_ usa,55
+40150,acme_ pennsylvania_ usa,56
+122047,valencia_ comunidad valenciana_ spain,57
+4169,fairbanks_ alaska_ usa,57
+233405,new york_ new york_ usa,34
+235356,whittier_ california_ usa,29
+72133,bethel park_ pennsylvania_ usa,49
+196053,pittsburgh_ pennsylvania_ usa,35
+231828,columbus_ ohio_ usa,23
+261740,baldwin_ new york_ usa,36
+34600,brooklin_ ontario_ canada,37
+137779,bogota_ n/a_ colombia,55
+172262,wheat ridge_ colorado_ usa,51
+59679,mount hope_ ontario_ canada,57
+164326,strasbourg_ alsace_ france,60
+173165,st. louis_ missouri_ usa,17
+203029,barrie_ ontario_ canada,28
+16882,lleida_ lleida_ catalunya_ spain,16
+214897,zaragoza_ arag�n_ spain,40
+154092,wien_ wien_ austria,49
+145340,sydney_ new south wales_ australia,14
+159604,east  liverpool_ ohio_ usa,24
+215298,toronto_ ontario_ canada,32
+4310,oakland_ california_ usa,58
+174176,port townsend_ washington_ usa,47
+251208,dublin_ n/a_ ireland,79
+147203,concord_ new hampshire_ usa,16
+43425,davis_ california_ usa,62
+213013,set�bal_ n/a_ portugal,30
+156991,h�rby_ sk�ne_ sweden,34
+47619,atlanta_ georgia_ usa,52
+184434,dusseldorf_ nordrhein-westfalen_ germany,29
+236387,s�o paulo_ s�o paulo_ brazil,31
+27782,dandenong north_ victoria_ australia,53
+261307,regensdorf_ n/a_ switzerland,31
+155937,murfreesboro_ tennessee_ usa,37
+41946,santander_ cantabria_ spain,43
+275346,perth_ western australia_ australia,14
+11625,kendall park_ new jersey_ usa,49
+221112,juneau_ alaska_ usa,24
+268746,san jose_ california_ usa,32
+171793,charlesbourg_ quebec_ canada,21
+247115,swabi_ n.w.f.p_ pakistan,21
+276804,st. louis_ missouri_ usa,14
+264328,los angeles_ california_ usa,20
+41773,cary_ north carolina_ usa,20
+255418,alicante_ n/a_ spain,70
+123711,cairns_ queensland_ australia,20
+73978,st.paul_ minnesota_ usa,24
+150300,rome_ rome_,30
+32217,lafayette_ louisiana_ usa,17
+254743,mcallen_ texas_ usa,19
+79920,richland_ washington_ usa,20
+95023,gold coast_ queensland_ australia,19
+96219,milwaukee_ wisconsin_ usa,50
+110444,s�o paulo_ s�o paulo_ brazil,19
+226436,marion_ illinois_ usa,23
+271095,london_ london_ united kingdom,25
+210934,blaine_ minnesota_ usa,54
+135097,kansas city_ missouri_ usa,38
+179217,paris_ l`�le de france_ france,23
+172447,menifee_ california_ usa,27
+3138,dumfries_ virginia_ usa,33
+72778,schnecksville_ pennsylvania_ usa,54
+244748,pawtucket_ rhode island_ usa,30
+274761,zanesville_ ohio_ usa,35
+257265,duncan_ oklahoma_ usa,38
+153458,erding_ bayern_ germany,26
+63526,janesville_ minnesota_ usa,20
+265597,bundanoon_ new south wales_ australia,65
+147687,cary_ north carolina_ usa,17
+180097,victoria_ british columbia_ canada,36
+107307,urbana_ illinois_ usa,29
+1052,tarcento_ friuli venezia giulia_ italy,31
+493,manhattan_ kansas_ usa,29
+17233,fuquay-varina_ north carolina_ usa,54
+125919,prescott_ arizona_ usa,20
+96169,meersburg_ baden-wuerttemberg_ germany,21
+168154,grainau_ bayern_ germany,26
+185442,lisboa_ n/a_ portugal,26
+263761,barcelona_ barcelona_ spain,33
+87862,novara_ piemonte_ italy,26
+3796,newport beach_ california_ usa,33
+88531,whitehall_ pennsylvania_ usa,39
+86743,port murray_ new jersey_ usa,44
+263260,fleet_ england_ united kingdom,60
+238712,kitchener_ ontario_ canada,18
+69343,edmonton_ alberta_ canada,23
+69131,san diego_ california_ usa,28
+242424,birmingham_ england_ united kingdom,44
+124272,duisburg_ nordrhein-westfalen_ germany,23
+38877,marietta_ georgia_ usa,32
+76003,hamilton_ ontario_ canada,48
+187029,ardmore_ oklahoma_ usa,55
+122240,reedley_ california_ usa,23
+126728,saskatoon_ saskatchewan_ canada,15
+131181,moriya_ ibaraki_ japan,26
+253399,essen_ nordrhein-westfalen_ germany,36
+25666,arapahoe_ north carolina_ usa,63
+82663,perth_ western australia_ australia,23
+200440,athens_ georgia_ usa,27
+50988,wrexham_ wales_ united kingdom,31
+70696,toronto_ ontario_ canada,57
+180281,healdsburg_ california_ usa,38
+184892,barcelona_ barcelona_ spain,17
+105490,girard_ pennsylvania_ usa,21
+189788,m�nchen_ bayern_ germany,35
+142911,tehran_ n/a_ iran,41
+95134,willamina_ oregon_ usa,38
+46750,riverview_ florida_ usa,52
+83840,s�o paulo_ s�o paulo_ brazil,31
+29724,bergisch gladbach_ nrw_ germany,45
+47856,ottawa_ ontario_ canada,32
+23960,grand junction_ colorado_ usa,33
+75533,port angeles_ washington_ usa,33
+224163,shaver lake_ california_ usa,42
+149975,rochester_ michigan_ usa,51
+234733,burnaby_ british columbia_ canada,20
+18758,london_ england_ united kingdom,35
+233567,heidelberg_ baden-wuerttemberg_ germany,27
+25776,wellendingen_ baden-w�rttemberg_,29
+172839,lakewood_ ohio_ usa,35
+116950,malden_ massachusetts_ usa,36
+215541,hamburg_ hamburg_ germany,54
+53188,paris_ \n/a\_ france,27
+269652,hagerstown_ maryland_ usa,44
+20233,calgary ab_ alberta_ canada,59
+1443,melbourne_ victoria_ australia,30
+96215,pottstown_ pennsylvania_ usa,75
+116180,sterling hieghts_ michigan_ usa,19
+13170,minneapolis_ minnesota_ usa,20
+15251,washington_ dc_ usa,27
+207730,norwalk_ ohio_ usa,68
+238134,viictoria_ british columbia_ canada,17
+93210,bern_ bern_ switzerland,29
+140567,granada_ granada_ spain,40
+93131,heathfield_ east sussex_ united kingdom,13
+240257,florissant_ missouri_ usa,21
+150979,greencastle_ pennsylvania_ usa,34
+50181,loughborough_ england_ united kingdom,23
+118332,london_ n/a_ united kingdom,27
+130860,hannover_ niedersachsen_ germany,15
+221307,berlin_ berlin_ germany,22
+215819,knob noster_ missouri_ usa,27
+141122,munich_ bayern_ germany,45
+243696,mcdonough_ georgia_ usa,57
+51301,ames_ iowa_ usa,29
+182290,london_ n/a_ united kingdom,25
+194784,torrej�n de ardoz_ madrid_ spain,31
+16018,beaumont_ texas_ usa,47
+17842,washington_ dc_ usa,21
+244542,falls church_ virginia_ usa,66
+119754,christchurch_ n/a_ new zealand,34
+6102,jamaica_ _ usa,28
+238220,taylor_ texas_ usa,34
+109491,brentwood_ california_ usa,40
+37229,newport_ vermont_ usa,43
+228945,raleigh_ north carolina_ usa,47
+165898,surprise_ arizona_ usa,61
+34581,lakeville_ minnesota_ usa,39
+135682,fintel_ niedersachsen_ germany,24
+196546,north port_ florida_ usa,24
+103300,norwich_ england_ united kingdom,34
+12188,lisboa_ n/a_ portugal,39
+220082,hamburg_ hamburg_ germany,20
+226772,mundelein_ illinois_ usa,37
+124287,oldenburg_ niedersachsen_,25
+226829,pahang_ kl_ malaysia,21
+54482,sydney_ new south wales_ australia,33
+85258,london_ england_ united kingdom,29
+231337,nashville_ tennessee_ usa,26
+177277,plymouth_ england_ united kingdom,30
+192055,brunswick_ georgia_ usa,36
+149762,adelaide_ south australia_ australia,49
+111898,duncanville_ texas_ usa,52
+18426,northridge_ california_ usa,35
+113536,oslo_ n/a_ norway,38
+202936,vancouver_ washington_ usa,55
+143392,loughborough_ leicestershire_ united kingdom,53
+220115,chambery_ savoie_ france,29
+157964,bensalem_ pennsylvania_ usa,32
+274267,new paltz_ new york_ usa,70
+156153,porto alegre_ rio grande do sul_ brazil,20
+42521,las palmas de gran canaria_ las palmas_ spain,24
+58973,porto_ n/a_ portugal,24
+150628,vancouver_ british columbia_ canada,29
+140080,braunschweig_ niedersachsen_ germany,35
+206395,hyderabad_ andhra pradesh_ india,59
+232665,knife river_ minnesota_ usa,15
+90922,milano_ lombardia_ italy,34
+242917,norwalk_ connecticut_ usa,35
+221280,falls church_ virginia_ usa,37
+250153,kingston_ ontario_ canada,32
+91021,federal way_ washington_ usa,34
+110840,fitzroy_ _ australia,24
+37067,bishop`s mills (near ottawa)_ ontario_ canada,67
+274588,pittsburgh_ pennsylvania_ usa,29
+118718,ober-ramstadt_ hessen_ germany,38
+47874,cedar rapids_ iowa_ usa,46
+109462,canton_ georgia_ usa,39
+142429,lauenburg_ schleswig-holstein_ germany,19
+190038,vigo_ galicia_ spain,37
+221558,buffalo ny_ new york_ usa,23
+218370,bellingham_ washington_ usa,32
+177125,jacksonville_ _,27
+58815,sydney_ nsw_ australia,50
+91655,chalon sur saone_ bourgogne_ france,32
+133177,winnipeg_ manitoba_ canada,55
+109043,tampere_ nunavut_ finland,25
+194650,fano_ marche_ italy,33
+186723,olympia_ washington_ usa,42
+172079,tomah_ wisconsin_ usa,18
+115457,gold coast_ queensland_ australia,19
+182513,harbor springs_ michigan_ usa,56
+153600,tr�vol_ auvergne_ france,16
+175928,miami_ florida_ usa,17
+237534,rexdale_ ontario_ canada,47
+68782,colorado springs_ colorado_ usa,38
+87811,charlotte_ north carolina_ usa,35
+239372,minneapolis_ minnesota_ usa,42
+233407,bronx_ new york_ usa,16
+69224,braga_ n/a_ portugal,21
+255426,london_ england_ united kingdom,26
+192447,kuala lumpur_ kuala lumpur_ malaysia,45
+84912,putney_ vermont_ usa,54
+180897,madrid_ madrid_ spain,26
+60249,columbia_ south carolina_ usa,44
+139778,mainz_ rlp_ germany,29
+276798,mannheim_ baden-wuerttemberg_ germany,31
+166422,ottawa_ ontario_ canada,55
+246754,kangarilla_ adelaide_ south australia_ australia,14
+162129,mill hall_ pennsylvania_ usa,20
+247078,barcelona_ barcelona_ spain,36
+4661,trujillo alto_ puerto rico_ usa,51
+1370,boone_ iowa_ usa,26
+51112,cobourg_ ontario_ canada,21
+7912,chula vista_ california_ usa,32
+109673,washington d.c._ dc_ usa,14
+89684,dubai_ dubai_ united arab emirates,18
+261708,chandler_ arizona_ usa,39
+93905,farmingville_ new york_ usa,56
+100422,albuquerque_ new mexico_ usa,73
+159445,brisbane_ n/a_ australia,29
+62591,cuba_ new york_ usa,66
+52391,lausanne_ vaud_ switzerland,55
+11484,portland_ oregon_ usa,26
+38012,santa cruz_ california_ usa,63
+119014,vance_ alabama_ usa,20
+238513,tampa_ florida_ usa,32
+118333,joburg_ gautang_ south africa,18
+24914,barnstead_ new hampshire_ usa,19
+207385,columbia_ missouri_ usa,58
+46768,shanghai china_ baden-wuerttemberg_ china,15
+224361,barcelona_ catalunya_ spain,21
+208903,astrain_ navarra_ spain,30
+161901,lille_ nord_ france,38
+23984,nemo_ texas_ usa,59
+88234,st. john`s_ newfoundland_ canada,34
+114492,jersey city_ new jersey_ usa,25
+231706,gouda_ zuid-holland_ netherlands,47
+168945,so bellingham_ massachusetts_ usa,62
+263269,hattiesburg_ mississippi_ usa,40
+10190,southampton_ hampshire_ united kingdom,31
+226046,singapore_ south east asia_ singapore,21
+223707,seattle_ washington_ usa,30
+239037,fayetteville_ arkansas_ usa,41
+118047,merlo_ san luis_ argentina,18
+155491,atlanta_ georgia_ usa,25
+158042,villena_ alicante_ spain,21
+87488,bordeaux_ aquitaine_ france,23
+206620,cornella_ spain_ spain,18
+85592,rock island_ illinois_ usa,49
+228719,berkshire_ england_ united kingdom,18
+102645,berlicum_ noord-brabant_ netherlands,25
+252226,santa clara_ california_ usa,27
+8895,apia_ n/a_ samoa,29
+136942,ottawa_ ontario_ canada,36
+125612,stony plain_ alberta_ canada,30
+194474,renmark_ south australia_ australia,69
+272299,palmela_ set�bal_ portugal,29
+222911,adelaide_ south australia_ australia,52
+229477,grand rapids_ michigan_ usa,66
+221794,link�ping_ �sterg�tland_ sweden,24
+118728,aberdeen_ washington_ usa,33
+108297,bristol_ n/a_ united kingdom,43
+129088,perkiomenville_ pennsylvania_ usa,35
+144691,hibbing_ minnesota_ usa,45
+180050,seattle_ washington_ usa,14
+115332,c�rdoba_ andaluc�a_ spain,20
+155874,guaymall�n_ mendoza_ argentina,54
+246777,barcelona_ barcelona_ spain,27
+184232,allentown_ pennsylvania_ usa,47
+221512,twin lakes_ british columbia_ canada,52
+15974,herent_ vlaams-brabant_ belgium,18
+130866,savannah_ georgia_ usa,44
+23576,northbrook_ illinois_ usa,34
+107562,campina grande_ para�ba_ brazil,23
+1423,scarborough_ england_ united kingdom,39
+43622,pretoria_ gauteng_ south africa,26
+257807,sausalito_ california_ usa,36
+206820,sydney_ new south wales_ australia,39
+198159,pippo_ alabama_ usa,44
+195659,manchester_ greater manchester_ united kingdom,21
+269232,adelaide_ south australia_ australia,13
+177416,roseville_ minnesota_ usa,26
+88461,bromley_ england_ united kingdom,37
+192477,portsmouth_ n/a_ united kingdom,64
+10128,roma_ lazio_ italy,24
+94460,epsom_ england_ united kingdom,53
+260435,ashford_ middlesex_ united kingdom,16
+155530,bamberg_ bayern_ germany,24
+92033,armstorng_ british columbia_ canada,32
+31972,charlotte_ north carolina_ usa,68
+177076,centerville_ texas_ usa,37
+221238,manassas_ virginia_ usa,17
+53942,wheeling_ illinois_ usa,31
+185686,santa cruz_ california_ usa,20
+164959,madrid_ madrid_ spain,46
+154771,lethbridge_ alberta_ canada,56
+129261,tehran_ tehran_ iran,24
+109250,guadalajara_ guadalajara_ mexico,33
+147009,tei�_ catalunya_ spain,37
+69890,nepean_ ontario_ canada,63
+47994,st louis_ missouri_ usa,24
+197743,oakland_ california_ usa,29
+200302,troy_ new york_ usa,36
+157384,frankfurt_ hessen_ germany,29
+161116,orlando_ florida_ usa,40
+210840,queidersbach_ rheinland-pfalz_ germany,58
+105640,denver_ colorado_ usa,26
+177419,austin_ texas_ usa,48
+135657,alicante_ alicante_ spain,27
+159894,eastbourne_ england_ united kingdom,72
+272096,aloha_ oregon_ usa,35
+231353,pittsboro_ north carolina_ usa,47
+64960,lakewood_ ohio_ usa,58
+147503,sevilla_ sevilla_ spain,27
+16302,bremerton_ washington_ usa,29
+119355,battle creek_ michigan_ usa,49
+114740,crystal river_ florida_ usa,26
+276687,berkeley_ california_ usa,43
+38475,pachuca_ _ mexico,22
+121937,tehran_ n/a_ iran,27
+182283,athens_ n/a_ greece,62
+255924,sofia_ alaska_ bulgaria,27
+160576,watford_ england_ united kingdom,24
+106303,n/a_ n/a_ philippines,35
+176860,minneapolis_ minnesota_ usa,17
+94092,schwenksville_ pennsylvania_ usa,20
+110498,lund_ sk�ne_ sweden,27
+195325,prince george_ british columbia_ canada,11
+171632,bonners ferry_ indiana_ united kingdom,39
+54926,sheffield_ england_ united kingdom,31
+155853,candelo_ piemonte_ italy,44
+49783,chaguanas_ n/a_ trinidad and tobago,25
+262753,trego_ wisconsin_ usa,57
+160594,lisboa_ n/a_ portugal,43
+213520,houston_ texas_ usa,46
+264234,meerut_ up_ india,29
+209244,stone mountain_ georgia_ usa,16
+217561,brisbane_ queensland_ australia,19
+276547,peterborough_ england_ united kingdom,22
+175698,ottawa_ ontario_ canada,26
+161180,st. louis_ missouri_ usa,34
+117149,canovellas_ barcelona_ spain,23
+216591,north york_ ontario_ canada,28
+62453,barrie_ ontario_ canada,36
+200101,centralia_ washington_ usa,52
+112412,oakland_ california_ usa,30
+219993,lisboa_ n/a_ portugal,22
+64655,latrobe_ pennsylvania_ usa,46
+43751,ottawa_ ontario_ canada,74
+150924,den haag_ zuid-holland_ netherlands,56
+140891,toronto_ ontario_ canada,38
+262521,bronx_ new york_,20
+241159,stockholm_ uppsala_ sweden,35
+47060,salzburg_ salzburg_ austria,21
+188029,stockton_ california_ usa,52
+193731,lochbuie_ colorado_ usa,19
+61344,grand blanc_ michigan_ usa,26
+178893,sherwood_ arkansas_ usa,42
+10739,wellington_ wellington_ new zealand,23
+276126,pinto_ madrid_ spain,15
+123898,adelaide_ south australia_ australia,26
+125351,morecambe_ lancashire_ united kingdom,27
+76663,rome_ georgia_ usa,30
+219968,adelaide_ south australia_ australia,33
+166973,faj�es_ n/a_ portugal,38
+263407,barcelona_ catalunya_ spain,47
+160063,peterson_ minnesota_ usa,51
+58168,mannheim_ baden-wuerttemberg_ germany,37
+152751,melbourne_ victoria_ australia,34
+199444,mukilteo_ washington_ usa,38
+231389,johnston_ iowa_ usa,16
+72597,barcelona_ catalunya_ spain,20
+128510,glasgow_ scotland_ united kingdom,37
+101304,chesapeake_ virginia_ usa,68
+160955,honolulu_ hawaii_ usa,33
+73166,north andover_ massachusetts_ usa,46
+183697,edmonton_ alberta_ canada,55
+162721,paris_ ile-de-france_ france,13
+230027,london_ london_ united kingdom,35
+260209,crewe_ cheshire_ united kingdom,44
+215716,belleville_ illinois_ usa,44
+205065,scarborough_ england_ united kingdom,15
+43383,bristol_ virginia_ usa,24
+55481,san diego_ california_ usa,30
+150037,genova_ liguria_ italy,28
+168339,malmedy_ li�ge_ belgium,42
+46373,crots_ france_ france,51
+40207,berlin_ berlin_ germany,38
+41122,cambridge_ _,56
+222659,worthington_ ohio_ usa,33
+22663,collado villalba_ madrid_ spain,34
+162070,keilor_ victoria_ australia,56
+185635,seattle_ washington_ usa,61
+53718,los angeles_ california_,60
+165266,salisbury_ england_ united kingdom,23
+274025,manchester_ new hampshire_ usa,13
+107051,lausanne_ vaud_ switzerland,30
+37744,wasilla_ alaska_ usa,25
+251717,milford_ delaware_ usa,71
+126740,carlinville_ illinois_ usa,17
+248544,turbat_ florida_ pakistan,39
+215924,sydney_ new south wales_ australia,46
+92767,tanawha_ australia queensland_ australia,69
+150280,orangevale_ california_ usa,48
+110769,washington_ dc_ united states,30
+203427,pleasanton_ california_ usa,63
+113743,wellington_ florida_ usa,31
+22743,london_ england_ united kingdom,31
+97010,selangor_ petaling jaya_ malaysia,35
+53105,brisbane_ queensland_ australia,20
+225310,port talbot_ wales_ united kingdom,25
+103590,norwich_ england_ united kingdom,51
+229762,melbourne_ victoria_ australia,53
+76363,portland_ oregon_ usa,30
+56956,palma de mallorca_ islas baleares_ spain,53
+192001,mechanicsville_ virginia_ usa,43
+33718,limerick_ n/a_ ireland,22
+488,boston_ massachusetts_ usa,25
+78057,swansea_ wales_ united kingdom,27
+135286,edison_ new jersey_ usa,19
+1513,oak hill_ virginia_ usa,40
+56933,comstock park_ michigan_ usa,34
+122697,sevilla_ sevilla_ spain,44
+23417,seabrook_ new hampshire_ usa,29
+139601,san pedro_ california_ usa,37
+114304,bellingham_ washington_ usa,31
+70850,halifax_ nova scotia_ canada,49
+53215,colorado springs_ colorado_ usa,32
+19473,manchester_ england_ united kingdom,37
+68300,minneapolis_ minnesota_ usa,20
+8985,rosario_ santa fe_ argentina,21
+33004,seattle_ washington_ usa,33
+48861,bristol_ n/a_ united kingdom,28
+226659,leiden_ zuid holland_ netherlands,29
+252287,boynton beach_ florida_ usa,58
+19577,chicago_ illinois_ usa,72
+73608,rawalpindi_ n/a_ pakistan,18
+84403,torino_ piemonte_ italy,30
+79939,darien_ wisconsin_ usa,31
+194727,melbourne_ victoria_ australia,15
+224801,tonopah_ arizona_ usa,34
+80567,san isidro_ buenos aires_ argentina,43
+215692,shawnee_ kansas_ usa,49
+150383,phoenix_ arizona_ usa,43
+17497,bennington_ vermont_ usa,19
+146913,winnipeg_ manitoba_ canada,23
+126411,moises s. bertoni_ caazapa_ paraguay,26
+181280,kent_ connecticut_ usa,67
+30822,palestrina_ lazio_ italy,19
+15492,mississauga_ ontario_ canada,15
+232472,greenburgh_ new york_ usa,42
+29396,alb_ new mexico_ usa,15
+63792,duisburg_ nordrhein-westfalen_ germany,30
+165871,barcelona_ catalunya_ spain,25
+95969,lisboa_ n/a_ portugal,20
+136169,old bridge_ new jersey_ usa,53
+71275,pittsburgh_ pennsylvania_ usa,61
+217330,minneapolis_ minnesota_ usa,27
+130682,calgary_ alberta_ canada,72
+194648,ottawa_ _,47
+78269,grants pass_ oregon_ usa,46
+55160,newport_ south wales_ uk_ wales_ united kingdom,53
+28118,albizzate_ lombardia_ italy,29
+54978,vernon_ connecticut_ usa,19
+182311,san sebastian_ gipuzkoa_ spain,34
+74233,sydney_ new south wales_ australia,15
+52034,bremen_ bremen_ germany,22
+17657,s�o paulo_ s�o paulo_ brazil,20
+94442,richland_ michigan_ usa,62
+113273,storrs_ connecticut_ usa,15
+186703,clermont_ florida_ usa,67
+263697,onitsha_ onitsha/anambra state_ nigeria,28
+225933,kamloops_ british columbia_ canada,27
+6542,florissant_ missouri_ usa,43
+219796,gloucester_ massachusetts_ usa,48
+217928,henderson_ texas_ usa,34
+97199,toronto_ ontario_ canada,26
+266622,klamath falls_ oregon_ usa,30
+198835,murphy_ texas_ usa,36
+242083,fairview_ new mexico_ usa,24
+23336,olympia_ washington_ usa,72
+10127,adelaide_ south australia_ australia,40
+119228,t�nisvorst_ nordrhein-westfalen_ germany,16
+181220,canberra_ australian capital territory_ australia,20
+221612,wiveliscombe_ somerset_ united kingdom,33
+45943,geretsried_ bayern_ germany,24
+188969,abano terme_ veneto_ italy,44
+132094,indianapolis_ indiana_ usa,52
+164706,newberry_ florida_ usa,14
+122668,inverness_ inverness-shire_ united kingdom,43
+149051,lincoln_ nebraska_ usa,55
+69541,huntsville_ texas_ usa,44
+223979,seattle_ washington_ usa,49
+71440,valencia_ valencia_ spain,27
+162640,lewis center_ ohio_ usa,47
+195782,d�sseldorf_ nordrhein-westfalen_ germany,33
+156711,porto_ n/a_ portugal,21
+233862,willmar_ minnesota_ usa,36
+198724,fort wayne_ indiana_ usa,57
+86220,sydney_ new south wales_ australia,22
+142671,montrose_ colorado_ usa,59
+208194,chula vista_ california_ usa,16
+77869,portland_ oregon_ usa,21
+198787,wichita_ kansas_ usa,14
+16005,chicago_ illinois_ usa,30
+195611,london_ england_ united kingdom,44
+225507,worcester_ massachusetts_ usa,24
+94896,shreveport_ louisiana_ usa,20
+274186,sevilla_ sevilla_ spain,22
+122681,fort scott_ kansas_ usa,24
+46607,berkeley_ california_ usa,25
+147791,palencia_ palencia_ spain,37
+246466,anoka_ minnesota_ usa,41
+172558,chelsea_ quebec_ canada,18
+277779,baton rouge_ louisiana_ usa,17
+207419,highland park_ michigan_ usa,22
+186910,new york_ new york_ usa,24
+140910,las vegas_ nevada_ usa,47
+204751,merthyr tydfil_ wales_ united kingdom,48
+162192,cadiz_ n/a_ spain,39
+46785,makrohori veroias_ imathia_ greece,30
+208511,omaha_ nebraska_ usa,13
+260332,rochester_ minnesota_ usa,55
+205578,victoria_ british columbia_ canada,67
+237670,treviso_ veneto_ italy,24
+49244,braunschweig_ niedersachsen_ germany,25
+256439,toronto_ ontario_ canada,32
+252798,woodbury_ minnesota_ usa,27
+120561,los angeles_ california_ usa,39
+221511,montpellier_ emilia romagna_ france,32
+177969,lacey_ washington_ usa,18
+142842,wellington_ wellington_ new zealand,19
+65472,edinburgh_ scotland_ united kingdom,40
+245783,tadley_ england_ united kingdom,34
+190288,porterville_ california_ usa,37
+270222,dormagen_ nordrhein-westfalen_ germany,43
+216194,des moines_ iowa_ usa,45
+251339,bayboro_ north carolina_ usa,46
+201416,orlando_ florida_ usa,20
+249175,morgan hill_ california_ usa,35
+206442,beaverton_ oregon_ usa,44
+254767,chapel hill_ north carolina_ usa,48
+210398,iowa city_ iowa_ usa,24
+45719,winmalee_ new south wales_ australia,68
+271356,z�rich_ sachsen_ switzerland,24
+138592,sydney_ new south wales_ australia,34
+203196,mississauga_ ontario_ canada,39
+37883,midwest city_ oklahoma_ usa,53
+148153,groningen_ groningen_ netherlands,26
+44909,okotoks_ alberta_ canada,16
+230459,orlando_ florida_ usa,39
+257010,eatontown_ new jersey_ usa,37
+21456,paris_ centre_ france,17
+67206,media_ pennsylvania_ usa,29
+35811,aranjuez_ madrid_ spain,26
+228149,manchester_ manchester_ united kingdom,30
+50311,zeist_ n/a_ netherlands,35
+203234,cuneo_ piemonte_ italy,26
+81374,newcastle under lyme_ staffordshire_ united kingdom,33
+113648,sydney_ new south wales_ australia,23
+13423,barcelona_ barcelona_ spain,14
+192686,pendleton_ oregon_ usa,48
+158183,m�laga_ andaluc�a_ spain,23
+3594,auckland_ n/a_ new zealand,48
+145112,long beach_ california_ usa,32
+271085,duluth_ georgia_ usa,49
+110650,london_ n/a_ united kingdom,22
+153425,sevilla_ espa�a_ spain,23
+277538,mcgregor_ ontario_ canada,67
+161928,toronto_ ontario_ canada,32
+37688,maadi_ cairo_ egypt,33
+218034,lacey_ washington_ usa,25
+70657,quito_ pichincha_ ecuador,29
+205246,fort worth_ texas_ usa,76
+127807,st. augustine_ florida_ usa,49
+66659,plainville_ connecticut_ usa,45
+258871,belen_ new mexico_ usa,17
+114721,grain valley_ missouri_ usa,26
+37440,ewing_ new jersey_ usa,59
+274969,shamokin_ pennsylvania_ usa,15
+247788,sunrise_ florida_ usa,41
+69532,loveland_ ohio_ usa,59
+258059,west fork_ arkansas_ usa,49
+168386,regensburg_ bayern_ germany,25
+16114,ottawa_ ontario_ canada,30
+118474,newton_ massachusetts_ usa,41
+276573,martinez_ california_ usa,18
+69858,ottawa_ ontario_ canada,26
+160070,manchester_ england_ united kingdom,17
+179783,atlantic highlands_ new jersey_ usa,62
+140981,orillia_ ontario_ canada,55
+152309,chicago_ illinois_ usa,71
+25611,greenville_ texas_ usa,54
+7030,ashland_ kentucky_ usa,25
+269945,atlanta_ georgia_ usa,57
+259723,tempe_ _,18
+165076,oxford_ england_ united kingdom,39
+210663,helsinki_ n/a_ finland,23
+83140,north canton_ ohio_ usa,32
+49008,s�o paulo_ s�o paulo_ brazil,22
+28350,sao caetano do sul_ sao paulo_ brazil,18
+70802,zaragoza_ zaragoza_ spain,29
+207934,wausau_ wisconsin_ usa,20
+60883,adelaide_ south australia_ australia,38
+176682,portland_ oregon_ usa,29
+72124,oviedo_ asturias_ spain,22
+31589,buda_ texas_ usa,53
+35597,buchanan_ indiana_ usa,78
+198778,st.albans_ hertfordshire_ united kingdom,47
+158387,toronto_ ontario_ canada,51
+201358,goicoechea_ n/a_ costa rica,36
+148249,xenia_ ohio_ usa,29
+173201,athens_ attica_ greece,34
+216,barcelona_ georgia_ spain,42
+8703,tiruchirappalli_ tiruchirappalli_ india,42
+157230,santa cruz de tenerife_ el medano_ spain,42
+265313,morrisville_ north carolina_ usa,33
+41963,hilden_ nordrhein-westfalen_ germany,19
+141306,tulsa_ oklahoma_ usa,23
+57350,pittsburgh_ pennsylvania_ usa,14
+172734,campagna lupia_ venice_ veneto_ italy,22
+206358,kuala lumpur_ n/a_ malaysia,24
+80081,toronto_ ontario_ canada,18
+115110,brampton/waterloo_ ontario_ canada,21
+101290,san diego_ california_ usa,31
+99551,florian�polis_ santa catarina_ brazil,18
+61511,la_ california_ usa,56
+214525,mazatlan_ sinaloa_ mexico,29
+27174,ypsilanti_ michigan_ usa,44
+106045,oulu_ pohjois-pohjanmaa_ finland,21
+134761,waco_ texas_ usa,26
+142735,keyser_ west virginia_ usa,18
+109769,rainbow flat_ new south wales_ australia,35
+78960,sunderland_ england_ united kingdom,48
+274263,point clare_ new south wales_ australia,18
+247703,dillsburg_ pennsylvania_ usa,40
+31759,christchurch_ canterbury_ new zealand,47
+40336,vancouver_ british columbia_ canada,36
+134998,la canada_ california_ usa,48
+240331,omaha_ nebraska_ usa,26
+58530,truganina_ victoria_ australia,42
+121932,wilmington_ north carolina_ usa,48
+100032,sydney_ new south wales_ australia,13
+50295,chill�n_ regi�n del bio bio_ chile,23
+10018,madrid_ madrid_ spain,18
+169483,washington_ dc_ usa,25
+156169,barcelona_ n/a_ spain,31
+46490,madrid_ madrid_ spain,23
+86176,bromsgrove_ england_ united kingdom,33
+97217,oklahoma city_ oklahoma_ usa,42
+210617,link�ping_ �sterg�tland_ sweden,25
+172453,macleod_ victoria_ australia,25
+239266,milan_ n/a_ italy,44
+270966,lagrange_ illinois_ usa,61
+105967,espoo_ uusimaa_ finland,30
+149240,singapore_ n/a_ singapore,27
+96091,las vegas_ nevada_ usa,34
+79376,yukon_ oklahoma_ usa,21
+100383,santiago_ santiago de chile_ chile,27
+204644,barcelona_ barcelona_ spain,32
+13053,mount pleasant_ michigan_ usa,18
+179110,santiago_ santiago_,19
+216502,holt_ michigan_ usa,62
+21878,broomall_ pennsylvania_ usa,18
+24696,boulder_ colorado_ usa,67
+202231,stockton_ california_ usa,55
+249870,seattle_ washington_ usa,30
+204030,indianapolis_ indiana_ usa,32
+47012,oviedo_ florida_ usa,46
+23103,highland park_ new jersey_ usa,24
+75084,nottingham_ nottinghamshire_ united kingdom,49
+227884,virginia beach_ virginia_ usa,25
+160802,gloucester_ virginia_ usa,45
+7387,fair haven_ michigan_ usa,38
+60209,crewe_ england_ united kingdom,29
+5904,alexandria_ virginia_ usa,37
+58998,harrison twp._ michigan_ usa,61
+165148,springfield_ illinois_ usa,27
+155058,katowice_ slask_ poland,30
+77305,frankfurt_ hessen_ germany,47
+62537,pasadena_ california_ usa,40
+213404,belfast_ northern ireland_ united kingdom,14
+125806,columbus_ ohio_ usa,24
+97177,paranaque_ luzon_ philippines,16
+87170,coimbra_ n/a_ portugal,21
+83703,bern_ bern_ switzerland,31
+165329,utrecht_ utrecht_ netherlands,20
+74347,bursa_ bursa_ turkey,25
+130183,langley_ british columbia_ canada,33
+209567,kerikeri_ northland_ new zealand,56
+251695,paris_ ile de france_ france,33
+250849,racine_ wisconsin_ usa,43
+185289,niceville_ florida_ usa,52
+64893,bristol_ bristol_ united kingdom,21
+216819,centereach_ new york_ usa,55
+177809,madison_ wisconsin_ usa,34
+7900,l�beck_ schleswig-holstein_ germany,19
+94975,east stroudsburg_ pennsylvania_ usa,25
+190267,rosice_ pardubice/praha_ czech republic,23
+224216,frankfurt_ hessen_ germany,25
+265365,tres piedras_ new mexico_ usa,42
+183688,fresno_ california_ usa,57
+162602,bordentown_ new jersey_ usa,45
+242482,long branch_ _,47
+205133,ottawa_ ontario_ canada,38
+137033,crowborough_ england_ united kingdom,55
+36228,sydney_ new south wales_ australia,24
+176577,charlottesville_ virginia_ usa,54
+118042,london_ england_ united kingdom,26
+90962,cadro_ lombardia_ switzerland,49
+114707,north  plainfield_ new jersey_ usa,49
+97825,tianjin_ tianjin_ china,15
+275179,ormond beach_ florida_ usa,76
+197713,holbrook_ new south wales_ australia,34
+242048,mountain view_ california_ usa,37
+244218,northants_ england_ united kingdom,19
+227348,farmington_ new mexico_ usa,49
+76369,enfield_ connecticut_ usa,62
+99865,burlington_ massachusetts_ usa,39
+30910,macon_ georgia_ usa,37
+60809,erstein_ alsace_ france,33
+225111,z�rich_ z�rich_ switzerland,37
+109435,santiago de compostela_ a coru�a_ spain,22
+96513,woodbridge_ virginia_ usa,26
+179571,formentera_ n/a_ spain,36
+242342,okc_ oklahoma_ usa,44
+269329,miami_ florida_ usa,46
+244348,auckland_ n/a_ new zealand,39
+154610,vancouver_ british columbia_ canada,68
+58294,abbeville_ georgia_ usa,18
+185434,tampere_ _,22
+108516,bochum_ nrw_ germany,22
+226873,beaverbank_ nova scotia_ canada,38
+70111,talent_ oregon_ usa,51
+243051,sevilla_ n/a_ spain,32
+65301,bristol_ england_ united kingdom,40
+259679,grand prairie_ texas_ usa,27
+269156,cadiz_ cadiz_ spain,23
+87483,clausthal-zellerfeld_ niedersachsen_ germany,24
+74546,padova_ veneto_ italy,29
+270265,fort leonard wood_ missouri_ usa,56
+206926,raleigh_ north carolina_ usa,44
+193284,syracuse_ new york_ usa,54
+69042,drayton valley_ alberta_ canada,55
+102675,new gloucester_ maine_ usa,17
+185106,valladolid_ castilla y le�n_ spain,21
+113906,roswell_ georgia_ usa,31
+5049,inver grove heights_ minnesota_ usa,32
+5301,kawit_ cavite_ philippines,18
+70299,birmingham_ alabama_ usa,33
+34596,temuka_ temuka_ new zealand,15
+224723,legnica_ dolny slask_ poland,26
+121854,lichtentanne_ sachsen_ germany,15
+52160,hokes bluff_ alabama_ usa,51
+34155,cardiff_ wales_ united kingdom,18
+265043,tucson_ arizona_ usa,31
+138224,villava_ navarra_ spain,30
+209815,london_ n/a_ united kingdom,26
+6129,charleston_ south carolina_ usa,30
+217466,jersey village (houston)_ texas_ usa,35
+246767,highland_ california_ usa,44
+190157,conway_ arkansas_ usa,45
+113863,tremont_ illinois_ usa,28
+70006,sao bernardo do campo_ sao paulo_ brazil,22
+16205,prat de llobregat_ barcelona_ spain,21
+243076,kiedrich_ hessen_ germany,31
+113135,louisville_ mississippi_ usa,33
+123769,apo_ rheinland-pfalz_ germany,40
+167929,albury_ new south wales_ australia,28
+238133,derby_ connecticut_ usa,25
+102570,cincinnati_ ohio_ usa,78
+133562,athens_ georgia_ usa,27
+40527,shawnee mission_ kansas_ usa,23
+106180,san sebastian_ gipuzcoa_ spain,46
+265078,milano_ lombardia_ italy,56
+195249,aalborg_ nordjylland_ denmark,23
+16287,valencia_ valencia_ spain,29
+48771,zaragoza_ zaragoza_ spain,29
+84562,seaford_ victoria_ australia,40
+154062,gorizia_ friuli venezia giulia_ italy,19
+244530,malaga_ malaga_ spain,22
+104888,elche_ alicante_ spain,20
+87538,madison_ wisconsin_ usa,27
+208522,london_ ontario_ canada,41
+156467,waltham_ massachusetts_ usa,38
+26666,bebra_ hessen_ germany,18
+271141,boise_ idaho_ usa,32
+124250,barons court_ london_ england_ united kingdom,23
+68822,dallas_ texas_ usa,14
+191945,aliki_ paros_ greece,57
+212736,clinton_ new jersey_ usa,51
+200205,delaware_ ohio_ usa,21
+246451,honaker_ virginia_ usa,40
+219183,glasgow_ scotland_ united kingdom,19
+75055,goldsboro_ north carolina_ usa,21
+94631,the hague_ n/a_ netherlands,46
+133697,chicago_ illinois_ usa,32
+275296,victoria_ british columbia_ canada,39
+269039,pomona_ kansas_ usa,62
+210623,upper montclair_ new jersey_ usa,32
+17925,waterbury_ connecticut_ usa,15
+196501,andenne_ (kot: li�ge)_ belgium,21
+36665,cardiff_ wales_ united kingdom,30
+184960,la coruna_ galicia_ spain,31
+162048,springville_ new york_ usa,15
+129098,chesapeake_ virginia_ usa,20
+213510,montclair_ new jersey_ usa,45
+114894,staten islsnd_ new york_ usa,20
+96650,antwerpen_ antwerpen_ belgium,20
+277840,baton rouge_ louisiana_ usa,16
+218410,minneapolis_ _,26
+62523,riverview_ florida_ usa,74
+172343,aachen_ nordrhein-westfalen_ germany,40
+102683,caldwell_ idaho_ usa,67
+265047,moers_ nordrhein-westfalen_ germany,16
+188166,alatri_ lazio_ italy,26
+41563,santiago_ metropolitana_ chile,28
+183378,baltimore_ maryland_ usa,49
+53744,london_ england_ united kingdom,37
+2948,raleigh_ north carolina_ usa,24
+210072,balgownie_ new south wales_ australia,34
+55885,camaragibe_ pernambuco_ brazil,60
+240838,milan_ lombardia_ italy,29
+148945,charleston_ south carolina_ usa,55
+1801,virginia beach_ virginia_ usa,52
+18567,little rock_ arkansas_ usa,20
+242011,havelock_ north carolina_ usa,13
+173998,seattle_ washington_ usa,21
+173995,footscray_ victoria_ australia,39
+190023,davis_ california_ usa,41
+71359,weisswasser_ sachsen_ germany,50
+9800,huntsville_ alabama_ usa,36
+103649,williamsburg_ virginia_ usa,23
+140371,glasgow_ scotland_ united kingdom,26
+38303,funchal_ madeira_ portugal,34
+118659,blacksburg_ virginia_ usa,37
+73670,leetsdale_ pennsylvania_ usa,77
+159707,lorain_ ohio_ usa,42
+80310,malvern_ victoria_ australia,35
+78861,paris_ idf_ france,26
+103455,meredith_ new hampshire_ usa,52
+90812,wilmington_ delaware_ usa,27
+275877,brisbane_ queensland_ australia,29
+72571,olympia_ washington_ usa,17
+119496,keizer_ oregon_ usa,18
+53609,grantville_ georgia_ usa,41
+155360,new haven_ connecticut_ usa,22
+128258,portland_ oregon_ usa,41
+209625,cambridge_ massachusetts_ usa,33
+1501,shrewsbury_ na_ united kingdom,35
+119463,wyndmoor_ pennsylvania_ usa,40
+258081,apple valley_ california_ usa,45
+210415,sausalito_ california_ usa,30
+244031,fayetteville_ north carolina_ usa,38
+228735,cleveland_ ohio_ usa,19
+248144,brevard_ north carolina_ usa,23
+221675,webster groves_ missouri_ usa,35
+79958,boston_ massachusetts_ usa,56
+232806,adelaide_ south australia_ australia,17
+30671,helsinki_ etel�-suomi_ finland,30
+38506,cant�_ lombardia_ italy,22
+150192,mendoza_ mendoza_ argentina,49
+144237,lynnwood_ washington_ usa,24
+28334,sevilla_ sevilla_ spain,29
+278700,amherst_ new york_ usa,33
+76869,calgary_ alberta_ canada,36
+100322,elmwood_ tennessee_ usa,35
+193724,christchurch_ canterbury_ new zealand,14
+56318,aurora_ illinois_ usa,21
+44782,chesapeake_ virginia_ usa,39
+225732,crystal lake_ illinois_ usa,56
+130723,brisbane_ queensland_ australia,29
+150998,hamilton_ waikato_ new zealand,68
+157085,valencia_ valencia_ spain,26
+21020,kaiserslautern_ _,33
+164111,glenshaw_ pennsylvania_ usa,44
+264727,timisoara_ romania_ romania,29
+151604,sault ste. marie_ ontario_ canada,33
+14810,seneca_ pennsylvania_ usa,35
+68923,daugavpils_ latgale_ latvia,35
+99718,bonn_ nordrhein-westfalen_ germany,38
+44756,san diego_ california_ usa,62
+183380,manassas_ virginia_ usa,43
+161002,stuttgart_ baden-wuerttemberg_ germany,33
+248871,akron_ ohio_ usa,43
+233768,cincinnati_ ohio_ usa,31
+101486,van nuys_ california_ usa,45
+93560,newbury_ ohio_ usa,58
+130925,herrin_ illinois_ usa,35
+82385,l�rrach_ baden-wuerttemberg_ germany,32
+37868,tokyo_ n/a_ japan,42
+193872,jasper_ indiana_ usa,23
+169618,east stoudsburg_ pennsylvania_ usa,52
+19839,perth_ western australia_ australia,38
+268622,upper township_ new jersey_ usa,36
+238606,mobile_ alabama_ usa,52
+57716,fort riley_ kansas_ usa,34
+263463,melbourne_ victoria_ australia,21
+191671,palmdale_ california_ usa,30
+257607,helsinki_ n/a_ finland,30
+94209,victoria_ british columbia_ canada,25
+270487,west jordan_ utah_ usa,30
+96801,johannesburg_ n/a_ south africa,49
+88068,kuala lumpur_ kuala lumpur_ malaysia,28
+221164,olympia_ washington_ usa,22
+242098,surrey_ british columbia_ canada,22
+4805,winnipeg_ manitoba_ canada,35
+110770,los angeles_ california_ usa,36
+78163,toronto_ ontario_ canada,41
+22272,herne_ nordrhein-westfalen_ germany,47
+174007,dawsonville_ georgia_ usa,54
+84556,herne bay_ england_ united kingdom,46
+152567,madison_ wisconsin_ usa,32
+262560,cartagena_ n/a_ colombia,47
+84896,riverhurst_ saskatchewan_ canada,61
+48644,sydney_ new south wales_ australia,42
+211389,downers grove_ illinois_ usa,32
+103899,austin_ texas_ usa,51
+234391,houston_ texas_ usa,15
+137728,chengdu_ abruzzo_ china,20
+171248,covington_ virginia_ usa,38
+223103,houston_ texas_ usa,40
+216385,logro�o_ la rioja_ spain,30
+252056,santa barbara_ california_ usa,60
+217016,richmond hill_ ontario_ canada,50
+553,nyk�bing sj�lland_ n/a_ denmark,16
+244680,auchenblae_ scotland_ united kingdom,31
+271370,wuppertal_ nordrhein-westfalen_ germany,38
+154901,chula vista_ california_ usa,47
+36231,la crescenta_ california_ usa,60
+113620,new westminster_ british columbia_ canada,82
+196579,harrogate_ north yorkshire_ united kingdom,26
+44530,dearborn_ michigan_ usa,30
+180184,sunbury_ pennsylvania_ usa,54
+262705,narrabundah_ australian capital territory_ australia,32
+200214,summerfield_ florida_ usa,37
+62870,kirkwood_ missouri_ usa,42
+275626,gladewater_ texas_ usa,38
+273902,shanghai_ shanghai_ china,26
+43950,ann arbor_ michigan_ usa,37
+153177,audubon_ new jersey_ usa,29
+149885,n/a_ n/a_ united kingdom,61
+27440,melbourne_ victoria_ australia,18
+54418,elkton_ maryland_ usa,40
+37,san sebastian_ n/a_ spain,23
+231111,odense_ fyn_ denmark,26
+168288,london_ england_ united kingdom,30
+143007,v�xj�_ sm�land_ sweden,16
+174756,hopewell_ virginia_ usa,46
+221328,ourense_ ourense_ spain,15
+41951,unterengstringen_ zurich_ switzerland,22
+160736,beaufort_ south carolina_ usa,31
+12353,salamanca_ salamanca_ spain,32
+172073,martinsville_ indiana_ usa,35
+2265,aarhus_ n/a_ denmark,32
+38369,shah alam_selangor_ n/a_ malaysia,21
+156725,essex_ england_ united kingdom,22
+95190,springfield_ illinois_ usa,51
+4082,sarnia_ ontario_ canada,21
+78189,frankfort_ indiana_ usa,24
+121690,capital federal_ buenos aires_ argentina,25
+42995,grand rapids_ ohio_ usa,26
+154572,broken hill_ new south wales_ australia,41
+165854,kaneohe_ hawaii_ usa,53
+10110,hampton_ tennessee_ usa,25
+206949,las palmas de gran canaria_ canarias_ spain,29
+231080,dublin_ ohio_ usa,18
+60263,middletown_ delaware_ usa,52
+108239,northampton_ england_ united kingdom,22
+219702,leicester_ north carolina_ usa,33
+60683,hartford_ wisconsin_ usa,47
+106947,edinburgh_ scotland_ united kingdom,19
+219338,los angeles_ california_ usa,26
+19640,bentleigh_ victoria_ australia,37
+164108,dunkirk_ ohio_ usa,41
+15139,burnaby_ british columbia_ canada,21
+28787,st. clair shores_ michigan_ usa,31
+174231,bridgewater_ new jersey_ usa,28
+239660,bartonville_ illinois_ usa,35
+242624,palm beach gardens_ florida_ usa,58
+266421,howell_ new jersey_ usa,22
+258804,madrid_ madrid_ spain,32
+14912,ahmedabad_ montana_ india,23
+123007,agoura hills_ california_ usa,46
+206057,chicago_ illinois_ usa,35
+160565,brooklyn_ new york_ usa,18
+230181,stafford springs_ connecticut_ usa,57
+82876,blacksburg_ virginia_ usa,40
+266072,sevilla_ sevilla_ spain,28
+114191,bradenton_ florida_ usa,17
+39283,lancaster_ missouri_ usa,63
+93898,milano_ lombardia_ italy,30
+36200,hilo_ hawaii_ usa,54
+168368,clovis_ california_ usa,19
+77567,bethany_ connecticut_ usa,57
+182507,victoria_ victoria_ australia,24
+100935,sulphur_ louisiana_ usa,32
+78795,maplewood_ minnesota_ usa,52
+142251,st. louis_ missouri_ usa,19
+44878,excelsior springs_ missouri_ usa,33
+230943,bellingham_ washington_ usa,46
+168674,casalecchio di reno_ emilia romagna_ italy,40
+135045,spring_ texas_ usa,29
+87762,melbourne_ victoria_ australia,53
+64101,muskegon_ michigan_ usa,31
+8918,ottawa_ ontario_ canada,46
+23819,ashburton_ mid canterbury_ new zealand,55
+44090,n/a_ england_ united kingdom,38
+213980,las vegas_ nevada_ usa,64
+187996,new bern_ north carolina_ usa,73
+63600,bologna_ emilia romagna_ italy,21
+75181,wismar_ mecklenburg-vorpommern_ germany,22
+110238,picture butte_ alberta_ canada,23
+243765,fremont_ california_ usa,44
+133139,toronto_ ontario_ canada,41
+263129,sydney_ new south wales_ australia,17
+216412,bolinas_ california_ usa,35
+108536,lisboa- amadora_ lisboa_ portugal,29
+197558,terrassa_ catalu�a_ spain,23
+93523,london_ england_ united kingdom,28
+247450,gateshead_ england_ united kingdom,39
+271569,philadelphia_ pennsylvania_ usa,29
+12931,strasbourg_ alsace_ france,43
+77786,darwin_ northern territory_ australia,65
+127257,legazpi_ albay_ philippines,16
+108962,el cajon_ california_ usa,23
+269735,jefferson_ south dakota_ usa,68
+176435,stuttgart_ baden-w�rttemberg_ germany,32
+129503,lisboa_ n/a_ portugal,40
+188048,owasso_ oklahoma_ usa,43
+13720,hornell_ new york_ usa,40
+146375,caceres_ extremadura_ spain,26
+134738,rapatee_ illinois_ usa,33
+191114,vadnais heights_ minnesota_ usa,40
+45430,lake oswego_ oregon_ usa,41
+21460,findlay_ ohio_ usa,23
+78556,bromley_ washington_ united kingdom,33
+224930,puerto vallarta_ n/a_ mexico,47
+119539,baton rouge_ louisiana_ usa,38
+139847,madrid_ madrid_ spain_ spain,50
+207792,rochester_ minnesota_ usa,60
+147820,newport_ michigan_ usa,27
+236034,middleburg_ florida_ usa,45
+138532,phoenix_ arizona_ usa,38
+177120,chippewa falls_ wisconsin_ usa,13
+170133,tyres�_ storstockholm_ sweden,36
+255737,charlottetown_ _,20
+45832,barcelona_ barcelona_ spain,22
+98108,inman_ south carolina_ usa,32
+58947,castell� de la plana_ castell�n_ spain,33
+95068,providence_ rhode island_ usa,22
+262131,colombo_ campania_ sri lanka,27
+125239,sugar grove_ ohio_ usa,49
+39814,alexandria_ virginia_ usa,34
+12753,teaneck_ new jersey_ usa,50
+123422,chennai_ tamil nadu_ india,24
+143329,n/a_ n/a_ kuwait,15
+119442,ossining_ new york_ usa,39
+157894,norwich_ norfolk_ united kingdom,29
+34801,henderson_ nevada_ usa,47
+230447,bournemouth_ england_ united kingdom,30
+196329,athus_ luxemburg_ belgium,48
+218337,new york_ new york_ usa,29
+129068,coffs harbour_ new south wales_ australia,36
+20616,alfter_ nordrhein-westfalen_ germany,49
+183430,orange park_ florida_ usa,15
+11928,fort worth_ texas_ usa,28
+135546,toronto_ ontario_ canada,27
+241718,westerland_ schleswig-holstein_ germany,31
+231173,rolling meadows_ illinois_ usa,36
+201597,farnborough_ hampshire_ united kingdom,38
+88893,bilston_ west midlands_ united kingdom,50
+243241,plant city_ florida_ usa,62
+76910,sydney_ new south wales_ australia,85
+18068,venice_ california_ usa,25
+185452,porto_ porto_ portugal,34
+125430,murcia_ region de murcia_ spain,37
+187838,bloomington_ indiana_ usa,20
+172599,san antonio_ texas_ usa,22
+84846,otto_ north carolina_ usa,45
+148011,horsens_ jylland_ denmark,51
+166120,portsmouth_ new hampshire_ usa,53
+32834,herkimer_ new york_ usa,19
+199257,philadelphia_ pennsylvania_ usa,53
+5819,lleida_ catalonia_ spain,32
+212445,berlin_ berlin_ germany,22
+20460,franklin_ virginia_ usa,37
+21327,crystal springs_ mississippi_ usa,45
+123278,san diego_ california_ usa,55
+110876,dublin_ n/a_ ireland,38
+210051,tokyo_ tokyo_ japan,29
+182936,halle_ sachsen-anhalt_ germany,25
+73782,west palm beach_ florida_ usa,32
+6403,fairfield_ california_ usa,17
+154465,albany_ california_ usa,32
+135294,houston_ texas_ usa,32
+67841,adelaide_ south australia_ australia,47
+46389,pine knoll shores_ north carolina_ usa,55
+192435,rio de janeiro_ rio de janeiro_ brazil,25
+166806,meriden_ kansas_ usa,40
+82089,yorba linda_ california_ usa,48
+164285,newark_ new jersey_ usa,20
+129722,irving_ texas_ usa,32
+124394,new york (manhattan)_ new york_ usa,23
+269691,phoenix_ arizona_ usa,46
+28304,d�sseldorf_ nordrhein-westfalen_ germany,33
+15613,haltern_ nordrhein-westfalen_ germany,24
+83847,m�lheim_ nordrhein-westfalen_ germany,34
+262484,portland_ oregon_ usa,32
+201159,lamoure_ north dakota_ usa,64
+76744,rockport_ texas_ usa,52
+228371,saskatoon_ saskatchewan_ canada,54
+237044,lisboa_ alabama_ portugal,29
+228645,deerfield_ illinois_ usa,37
+235239,montr�al_ quebec_ canada,54
+84906,modesto_ california_ usa,29
+135132,katowice_ silesia_ poland,23
+173278,burr oak_ michigan_ usa,66
+243956,export_ pennsylvania_ usa,31
+84178,ypsilanti_ michigan_ usa,44
+60314,toms river_ new jersey_ usa,50
+81416,tucson_ arizona_ usa,29
+145960,nags head_ north carolina_ usa,42
+134880,forbes_ new south wales_ australia,30
+165396,berlin_ berlin_ germany,37
+42423,brisbane_ queensland_ australia,20
+4590,madrid_ madrid_ spain,21
+138268,buenos aires_ n/a_ argentina,33
+156906,lisboa_ lisboa_ portugal,54
+207959,johannesburg_ gauteng_ south africa,33
+93239,bilbao_ bizkaia_,35
+66343,newbridge_ new brunswick_ canada,28
+116267,jacksonville_ florida_ usa,34
+84561,iowa city_ iowa_ usa,31
+278376,danville_ pennsylvania_ usa,54
+4826,ampsin_ li�ge_ belgium,27
+122686,marseille_ bouches-du-rhone_ france,27
+175968,m�nchen_ bayern_ germany,33
+133551,barcelona_ baden-wuerttemberg_ spain,32
+95613,thousand oaks_ california_ usa,35
+261201,exmouth_ england_ united kingdom,64
+272293,los angeles_ california_ usa,29
+59728,sacramento_ california_ usa,30
+69386,williamsburg_ virginia_ usa,20
+102032,anchorage_ alaska_ usa,30
+240841,genova_ liguria_ italy,30
+51346,arcadia_ california_ usa,39
+106036,los angeles_ california_ usa,28
+105636,xalapa_ veracruz_ mexico,29
+207954,jeddah_ n/a_ saudi arabia,33
+29875,long beach_ california_ usa,53
+248347,harriman_ tennessee_ usa,44
+20426,charlotte_ northern ireland_ usa,30
+148851,san francisco_ california_ usa,34
+155745,fleischwangen_ baden-wuerttemberg_ germany,41
+100898,newark_ delaware_ usa,56
+153819,maseru_ n/a_ zimbabwe,21
+90358,springfield_ missouri_ usa,20
+238741,milano_ lombardia_ italy,21
+31381,hialeah_ florida_ usa,24
+107720,paris_ ile-de-france_ france,40
+61301,fairview heights_ illinois_ usa,33
+115571,west sacramento_ california_ usa,25
+3370,minneapolis_ minnesota_ usa,29
+43946,barcelona_ catalu�a_ spain,43
+94021,ashhurst_ manawatu_ new zealand,59
+171136,austin_ texas_ usa,48
+81154,frederick_ maryland_ usa,37
+32423,coimbra_ coimbra_ portugal,20
+264662,san francisco_ california_ usa,34
+91807,pooler_ georgia_ usa,55
+235037,barth_ mecklenburg-vorpommern_ germany,28
+105094,elche_ alicante_ spain,18
+60721,detroit_ michigan_ usa,28
+208773,jamestown_ california_ usa,51
+48954,brasilia_ centro oeste_ brazil,19
+252508,berlin_ berlin_ germany,25
+157300,bratislava_ n/a_ slovakia,30
+235306,courbevoie_ paris_ france,20
+119772,pittsburgh_ pennsylvania_ usa,16
+107759,independence_ california_ usa,23
+138620,berlin_ berlin_ germany,16
+33453,waco_ texas_ usa,20
+231361,park city_ utah_ usa,25
+60334,paris_ france_ france,34
+53481,newport news_ virginia_ usa,47
+42567,vienna_ eastaustria_ austria,28
+194947,edinburgh_ scotland_ united kingdom,22
+22908,lincoln_ england_ united kingdom,25
+264187,hamm_ westfalia_ germany,63
+5860,sparta_ illinois_ usa,41
+96518,new bern_ north carolina_ usa,48
+88254,varsity lakes_ queensland_ australia,35
+24930,derby_ england_ united kingdom,38
+93588,st. louis_ missouri_ usa,64
+213708,madison_ alabama_ usa,36
+85220,algonquin_ illinois_ usa,54
+239471,gloucester_ massachusetts_ usa,73
+124374,gilbertsville_ pennsylvania_ usa,51
+222372,ottawa_ ontario_ canada,54
+61998,vegesack_ bremen_ germany,21
+152231,zurich_ n/a_ switzerland,31
+169322,san mateo_ rizal_ philippines,21
+179034,vancouver_ washington_ usa,43
+153827,milano_ lombardia_ italy,28
+244068,albuquerque_ new mexico_ usa,19
+175576,ottawa_ ontario_ canada,30
+234933,s.bento - lisboa_ n/a_ portugal,25
+15552,rome_ italy_ italy,31
+184461,oberweiler-tiefenbach_ rheinland-pfalz_ germany,46
+275240,bronxville_ new york_ usa,16
+97313,columbia_ missouri_ usa,29
+164098,menomonee falls_ wisconsin_ usa,43
+3225,chicago_ illinois_ usa,53
+222449,gm�nd_ k�rnten_ austria,17
+197470,hobart_ tasmania_ australia,50
+257579,canberra_ australian capital territory_ australia,19
+53355,albuquerque_ new mexico_ usa,14
+3864,highlands ranch_ colorado_ usa,18
+13828,seixal_ set�bal_ portugal,16
+138113,barcelona_ n/a_ spain,34
+73869,seattle_ washington_ usa,32
+99315,lexington_ indiana_ usa,29
+227180,gr�benzell_ bayern_ germany,29
+222452,mannheim_ baden-wuerttemberg_ germany,27
+66652,toronto_ ontario_ canada,48
+227742,singapore_ singapore_ singapore,16
+77368,hollywood_ florida_ usa,43
+91843,frisco_ texas_ usa,44
+237531,sydney_ new south wales_ australia,14
+129269,hamburg_ hamburg_ germany,39
+155055,santana_ madeira_ portugal,33
+221810,los angeles_ california_ usa,37
+237376,sandpoint_ idaho_ usa,19
+251173,munson_ pennsylvania_ usa,22
+200841,schweinfurt_ bavaria_ germany,35
+57864,buenos aires_ n/a_ argentina,39
+126463,leeds_ nebraska_ united kingdom,24
+257352,nashville_ tennessee_ usa,53
+37429,tucson_ arizona_ usa,63
+58730,oxford_ mississippi_ usa,40
+235626,reseda_ california_ usa,19
+227740,concord_ california_ usa,31
+180233,capital federal_ buenos aires_ argentina,22
+116080,asunci�n_ n/a_ paraguay,32
+257054,jalhay_ li�ge_ belgium,34
+23726,henderson_ nevada_ usa,70
+189094,la_ california_ usa,28
+131910,mannheim_ baden-wuerttemberg_ germany,44
+147387,lockport_ illinois_ usa,41
+269196,sant sadurn� d`anoia_ barcelona_ spain,24
+258432,zaragoza_ aragon_ spain,28
+80236,campinas_ sao paulo_ brazil,21
+220895,london_ london_ united kingdom,37
+64880,little rock_ arkansas_ usa,35
+147260,versailles_ kentucky_ usa,36
+42858,milpitas_ california_ usa,44
+182595,kenosha_ wisconsin_ usa,66
+227737,hammond_ louisiana_ usa,42
+247273,winton_ n/a_ new zealand,49
+580,logro�o_ la rioja_ spain,22
+8228,macclesfield_ england_ united kingdom,22
+109259,barcelona_ australian capital territory_ spain,21
+101502,duisburg_ nordrhein-westfalen_ germany,30
+65075,olympia_ washington_ usa,45
+182100,mumbai_ maharashtra_ india,25
+235094,matera_ basilicata_ italy,29
+96612,winnipeg_ manitoba_ canada,52
+5620,paris_ n/a_ france,26
+171717,milano_ lombardia_ italy,31
+105003,sudbury_ ontario_ canada,32
+197378,barcelona_ catalunya_ spain,36
+68974,melbourne_ victoria_ australia,69
+21996,walla walla_ washington_ usa,55
+72369,barcelona_ barcelona_ spain,38
+199179,victoria_ british columbia_ canada,39
+258635,los angeles_ california_ usa,24
+70561,portland_ texas_ usa,23
+213623,london_ n/a_ united kingdom,31
+35714,niederhasli_ zuerich_ switzerland,46
+120681,walnut creek_ california_ usa,53
+54732,madrid_ alabama_ austria,22
+13723,therwil_ baselland_ switzerland,67
+9090,albuquerque_ new mexico_ usa,13
+177335,pflugerville_ texas_ usa,23
+39772,santiago de compostela_ a corunha_ galiza,30
+61078,rockville_ maryland_ usa,31
+209747,el dorado_ arkansas_ usa,40
+159672,houston_ texas_ usa,35
+244451,louisville_ kentucky_ usa,20
+141007,basin view_ new south wales_ australia,55
+151305,milwaukee_ wisconsin_ usa,21
+276127,new york_ new york_ usa,56
+138928,santander_ cantabria_ spain,26
+246925,lexington_ kentucky_ usa,14
+230089,bryan_ texas_ usa,20
+174904,lake mary_ florida_ usa,34
+71526,alburtis_ pennsylvania_ usa,45
+87931,norwalk_ ohio_ usa,47
+224691,toowong_ queensland_ australia,22
+24021,bristol_ england_ united kingdom,47
+152268,eichstetten_ baden-wuerttemberg_ germany,18
+27948,london_ england_ united kingdom,23
+136661,chapel hill_ north carolina_ usa,21
+255889,tor_ hawaii_ australia,26
+59867,brighton_ england_ united kingdom,48
+270253,conyers_ georgia_ usa,28
+140328,indianapolis_ indiana_ usa,26
+259804,oak park_ illinois_ usa,32
+190324,brunswick_ victoria_ australia,35
+78164,mansfield_ pennsylvania_ usa,20
+90884,barcelona_ catalu�a_ spain,31
+84941,baltimore_ _,57
+93042,newcastle_ new south wales_ australia,33
+153155,sydney_ new south wales_ australia,15
+235363,milwaukee_ wisconsin_ usa,18
+46972,springfield_ illinois_ usa,29
+20559,castelldefels_ catalu�a_ spain,32
+138103,s�o paulo_ s�o paulo_ brazil,17
+79389,lacey_ washington_ usa,10
+214860,rancho santa margarita_ california_ usa,31
+80280,houston_ texas_ usa,28
+87859,cambridge_ massachusetts_ usa,29
+263471,kew gardens hills_ new york_ usa,52
+272245,new york_ new york_ usa,28
+82816,bad essen_ niedersachsen_ germany,33
+113505,victoria_ british columbia_ canada,38
+203245,warren_ rhode island_ usa,14
+157790,assen_ drenthe_ netherlands,17
+225638,pleasanton_ california_ usa,27
+163372,calgary_ alberta_ canada,48
+71955,seattle_ washington_ usa,51
+94170,denver_ colorado_ usa,29
+9426,arundel_ queensland_ australia,13
+141568,hellsinki_ europe_ finland,21
+212161,montgomery_ alabama_ usa,41
+259713,hurst_ texas_ usa,41
+143543,staten island_ new york_ usa,43
+48512,philadelphia_ pennsylvania_ usa,49
+180595,dublin_ n/a_ ireland,26
+218666,halifax_ england_ united kingdom,39
+215150,red lake falls_ minnesota_ usa,62
+76808,wudinna_ south australia_ australia,51
+219203,amityville_ new york_ usa,56
+57069,holland_ michigan_ usa,24
+15375,a_ baden-wuerttemberg_ germany,30
+192338,louisville_ kentucky_ usa,30
+227607,merida_ yucatan_ mexico,30
+42721,sidney_ british columbia_ canada,31
+189877,melbourne_ victoria_ australia,34
+10655,aberystwyth_ wales_ united kingdom,41
+139134,jefferson city_ missouri_ usa,47
+199,austin_ texas_ usa,38
+261706,falz� di piave_ veneto_ italy,21
+47587,apex_ north carolina_ usa,41
+86149,lille_ north_ france,51
+35048,salt lake city_ utah_ usa,19
+66294,tyler_ texas_ usa,19
+174827,lexington_ kentucky_ usa,46
+195145,crawley down_ england_ united kingdom,70
+158655,roseville_ california_ usa,51
+102081,lausanne_ vaud_ switzerland,25
+83736,peculiar_ missouri_ usa,64
+47193,bayville_ new jersey_ usa,34
+192578,buenos aires_ buenos aires_ argentina,53
+59470,gandhiangar_ gujarat_ india,25
+118503,salou_ catalunya_ spain,33
+116647,new york_ new york_ usa,51
+106796,torrent_ valencia_ spain,22
+16747,louisville_ kentucky_ usa,39
+65042,greenville_ south carolina_ usa,51
+154877,austin_ texas_ usa,36
+26591,topsham_ maine_ usa,52
+234622,albuquerque_ new mexico_ usa,44
+181578,athens_ attiki_ greece,22
+70645,la floresta_ vall�s occidental_ spain,41
+224424,alicante_ alicante_ spain,23
+93931,milano_ lombardia_ italy,38
+200597,cleveland hts_ ohio_ usa,18
+254372,perigny_ n/a_ france,38
+188323,york_ pennsylvania_ usa,71
+256938,evergreen_ colorado_ usa,17
+94481,glade hill_ virginia_ usa,41
+148540,barrie_ ontario_ canada,20
+121274,seattle_ washington_ usa,39
+169148,greenfield_ indiana_ usa,57
+78281,london_ ontario_ canada,24
+87040,costa da morte_ galiza_ spain,29
+250312,sydney_ new south wales_ australia,44
+1157,milano_ lombardia_ italy,34
+273963,london_ kent_ united kingdom,56
+245426,bukit mertajam_ penang_ malaysia,18
+101031,w�rth am rhein_ rheinland-pfalz_ germany,20
+166122,ann arbor_ michigan_ usa,15
+264439,st. thomas_ ontario_ canada,19
+157603,sydney_ new south wales_ australia,38
+124736,a coru�a_ a coru�a_ spain,22
+61695,toronto_ ontario_ canada,40
+171574,sydney_ new south wales_ australia,43
+63359,hampton_ virginia_ usa,22
+148074,bloomfield_ new jersey_ usa,27
+267257,ansted_ west virginia_ usa,40
+228690,tel aviv_ n/a_ israel,27
+128756,toronto_ ontario_ canada,40
+207658,sydney_ new south wales_ australia,56
+68161,lynn_ massachusetts_ usa,57
+256679,rockledge_ florida_ usa,62
+260380,paris_ ile-de-france_ france,25
+231378,ironton_ ohio_ usa,29
+74162,santa barbara_ california_ usa,56
+224622,surabaya_ jawa timur_ indonesia,20
+137718,barcelona_ barcelona_ spain,22
+11230,sevrier_ haute-savoie_ france,15
+23768,st. louis_ missouri_ usa,45
+2779,lisbon_ lisbon_ portugal,20
+258185,livermore_ maine_ usa,37
+267854,cynthiana_ kentucky_ usa,47
+65865,barcelona_ barcelona_ spain,33
+99773,bradford_ england_ united kingdom,37
+165776,tunbridge wells_ england_ united kingdom,56
+238818,london_ n/a_ united kingdom,31
+27712,centralia_ illinois_ usa,24
+161493,chicago_ illinois_ usa,41
+64809,fairfax_ virginia_ usa,28
+187695,tuttlingen_ baden-wuerttemberg_ germany,19
+225997,idaho falls_ idaho_ usa,22
+135531,chicago_ illinois_ usa,58
+225039,leeds_ west riding of yorkshire_ united kingdom,53
+159495,stockholm_ n/a_ sweden,33
+115785,brisbane_ australia_ australia,26
+226518,almeria_ arkansas_ spain,17
+163286,altlussheim_ baden-wuerttemberg_ germany,24
+178649,paris_ n/a_ france,18
+229868,ann arbor_ michigan_ usa,52
+81607,arden_ new york_ usa,43
+127888,walkertown_ north carolina_ usa,18
+106978,tooele_ utah_ usa,20
+145128,adelaide_ _ australia,15
+169986,t�bingen_ baden-wuerttemberg_ germany,31
+51633,tacoma_ washington_ usa,40
+198249,chuzhou_ anhui_ china,17
+258968,kuala lumpur_ wilayah persekutuan_ malaysia,27
+175563,milano_ lombardia_ italy,28
+14847,gainesville_ georgia_ usa,29
+127654,chennai_ yukon territory_ india,22
+19533,chino hills_ california_ usa,41
+28488,la vila joiosa_ alicante_ spain,41
+172470,uppsala_ n/a_ sweden,42
+110490,saline_ michigan_ usa,17
+146352,nanan_ fujian_ china,19
+276012,santo domingo_ puerto rico_ dominican republic,32
+967,belem_ para_ brazil,31
+256055,london_ england_ united kingdom,29
+211929,lisboa_ lisboa_ portugal,23
+222287,munich_ bayern_ germany,28
+35706,kaufbeuren_ bayern_ germany,46
+57829,columbia_ south carolina_ usa,53
+142343,qu�bec_ quebec_ canada,42
+269748,ocala_ florida_ usa,43
+154330,round rock_ _,38
+139158,walnut creek_ california_ usa,47
+102636,west covina_ california_ usa,17
+44265,springfield_ illinois_ usa,50
+65273,louisville_ kentucky_ usa,29
+276684,surabaya_ east java_ indonesia,29
+203710,kirkwood_ _,35
+215741,charlotte_ north carolina_ usa,44
+187271,hammah_ niedersachsen_ germany,22
+259219,bangalore_ n/a_ india,20
+62298,stockton_ california_ usa,22
+83585,perth_ western australia_ australia,17
+212975,bristol_ england_ united kingdom,29
+140651,erkrath_ nordrhein-westfalen_ germany,38
+105137,st petersburg_ florida_ usa,48
+243568,bangkok_ n/a_ thailand,55
+42118,orlando_ florida_ usa,42
+112773,london_ england_ united kingdom,23
+107904,lambersart_ nord_ france,68
+67890,k�ln_ nordrhein-westfalen_ germany,22
+30347,gummersbach_ nordrhein-westfalen_ germany,57
+128350,johor bahru_ johor_ malaysia,16
+108425,essen_ nordrhein-westfalen_ germany,24
+236271,calgary_ alberta_ canada,24
+59897,aurora_ colorado_ usa,34
+206146,irving_ texas_ usa,42
+260552,mohegan lake_ new york_ usa,62
+134990,islamabad_ _,24
+215493,sydney_ new south wales_ australia,25
+256608,rowley regis_ england_ united kingdom,32
+25071,thunder bay_ ontario_ canada,69
+263328,jury_ n/a_ france,39
+216913,cleveland heights_ ohio_ usa,53
+183298,dieppe_ new brunswick_ canada,70
+29138,colorado springs_ colorado_ usa,30
+272395,cow capital_ alberta_ canada,23
+17192,high point_ north carolina_ usa,41
+269951,portland_ oregon_ usa,34
+223595,sanintonio_ texas_ usa,13
+187341,baltimore_ maryland_ usa,55
+5365,andalo_ trentino alto adige_ italy,22
+139873,milano_ _,37
+262519,adelaide_ south australia_ australia,39
+3707,fayetteville_ north carolina_ usa,25
+99660,nackenheim_ rheinland-pfalz_ germany,36
+276581,ann arbor_ michigan_ usa,27
+85876,bristol_ england_ united kingdom,46
+106173,olsberg_ aargau_ switzerland,40
+30228,berkeley_ california_ usa,30
+45536,comox_ british columbia_ canada,33
+104929,wellington_ n/a_ new zealand,31
+39836,arrecife_ lanzarote_ spain,26
+224288,takoma park_ dc_ usa,29
+119067,sydney_ new south wales_ australia,43
+130766,palma_ illes balears_ spain,18
+65509,santiago_ region metropolitana_ chile,20
+127426,hanoverton_ ohio_ usa,34
+116079,rennes_ rennes_ france,45
+224994,melegnano (milan)_ lombardia_ italy,60
+202289,waterloo_ iowa_ usa,61
+13860,leesville_ louisiana_ usa,25
+130598,osaka_ n/a_ japan,31
+197052,milano_ lombardia_ italy,44
+23552,blanes_ catalunya_ spain,39
+209060,carlsbad_ california_ usa,17
+235022,merate_ lombardia_ italy,28
+32594,boca raton_florida_ florida_ usa,48
+237944,bangalore_ karnataka_ india,26
+5020,tucker_ georgia_ usa,60
+41932,vigo_ galicia_ spain,31
+39457,xenia_ ohio_ usa,14
+67235,sevilla_ sevilla_ spain,20
+123451,park ridge_ illinois_ usa,54
+225182,santa maria_ oregon_ brazil,23
+173491,new york_ new york_ usa,48
+259874,norfolk_ massachusetts_ usa,38
+188534,rochester_ new york_ usa,38
+44779,marseille_ n/a_ france,43
+263838,payson_ utah_ usa,27
+149218,gondomar_ pontevedra_ spain,29
+55907,indianapolis_ indiana_ usa,34
+216861,kingston_ ontario_ canada,48
+39077,platte city_ missouri_ usa,29
+27568,market drayton_ england_ united kingdom,60
+250801,miami_ florida_ usa,17
+320,minneapolis_ minnesota_ usa,37
+199144,woodbridge_ virginia_ usa,25
+275729,salt lake city_ utah_ usa,31
+187725,istanbul_ n/a_ turkey,42
+144294,koblenz_ rheinland-pfalz_ germany,21
+201151,grayslake_ illinois_ usa,56
+237781,gallarate (va)_ lombardia_ italy,47
+52610,waterloo_ new york_ usa,53
+42481,belton_ missouri_ usa,28
+58274,foertwaye_ indiana_ usa,27
+57518,barcelona_ catalu�a_ spain,32
+177516,austin_ texas_ usa,37
+33936,canandaigua_ new york_ usa,24
+4000,santiago de la ribera_ murcia_ spain,28
+49822,osoyoos_ british columbia_ canada,29
+126962,schillingsf�rst_ bayern_ germany,18
+59469,mantorville_ minnesota_ usa,48
+228725,covington_ washington_ usa,52
+168656,milano_ lombardia_ italy,25
+254249,canberra_ australian capital territory_ australia,31
+187877,munich_ bayern_ germany,51
+77561,canoga park_ california_ usa,35
+231862,south gate_ california_ usa,38
+71269,legal_ alberta_ canada,45
+192053,pasaia_ guipuzcoa_ spain,15
+159789,sechelt_ british columbia_ canada,61
+133722,highland park_ new jersey_ usa,31
+81780,exeter_ england_ united kingdom,51
+268734,buffalo_ new york_ usa,42
+143575,princeton_ new jersey_ usa,56
+199502,montreal_ quebec_ canada,15
+245190,sydney_ new south wales_ australia,45
+133999,azusa_ california_ usa,21
+33098,scarborough_ ontario_ canada,19
+50246,malaga_ malaga_ spain,38
+104697,calgary_ alberta_ canada,33
+164760,vancouver_ british columbia_ canada,44
+271458,kuala lumpur_ kuala lumpur_ malaysia,15
+224107,latonia_ kentucky_ usa,27
+81326,london_ england_ united kingdom,40
+254709,bochum_ nordrhein-westfalen_ germany,28
+250180,vg_ toscana_ italy,36
+208538,coventry_ connecticut_ usa,34
+251891,bad voeslau_ niederoesterreich_ austria,35
+155039,paris_ n/a_ france,14
+274504,tehran_ tehran_ iran,22
+116182,madrid_ madrid_ espa�a,61
+230163,oxford_ connecticut_ usa,22
+79787,bregnano_ lombardia_ italy,27
+42116,sauquoit_ new york_ usa,37
+13989,aurora_ colorado_ usa,36
+182855,l`hospitalet del llobregat_ catalunya_ spain,19
+81208,melzo_ _,33
+92725,kittanning_ pennsylvania_ usa,18
+154421,warri_ delta state_ nigeria,18
+124929,sacramento_ california_ usa,43
+276903,mannheim_ baden-wuerttemberg_ germany,25
+226816,lausanne_ lausanne_ switzerland,33
+168397,ottawa_ _,24
+6606,milano_ lombardia_ italy,35
+190852,san diego_ california_ usa,54
+125721,new york_ new york_ usa,30
+206402,madrid_ madrid_ spain,46
+149313,visalia_ california_ usa,36
+67006,new york_ new york_ usa,53
+120297,sevilla_ andalucia_ spain,23
+255170,winter park_ florida_ usa,46
+7931,almada_ feij�_ portugal,19
+36450,port elgin_ ontario_ canada,49
+43020,sevilla_ andaluc�a_ spain,25
+148072,leduc_ alberta_ canada,19
+15107,saint louis_ missouri_ usa,30
+31820,morin heights_ quebec_ canada,33
+158716,niagara falls_ ontario_ canada,33
+235851,london_ england_ united kingdom,33
+92899,lewisberry_ pennsylvania_ usa,42
+203916,st. paul_ minnesota_ usa,29
+190054,canonsburg_ pennsylvania_ usa,52
+173444,west haven_ connecticut_ usa,52
+245269,paris_ ile de france_ france,27
+2430,ferrol_ a coru�a_ spain,25
+271539,pearland_ texas_ usa,42
+35437,neu-isenburg_ hessen_ germany,54
+30069,mcdaniels_ kentucky_ usa,69
+182825,arkport_ new york_ usa,53
+15879,strathmore_ alberta_ canada,42
+134518,camara de lobos_ madeira island_ portugal,33
+120121,zaragoza_ n/a_ spain,17
+17898,barcelona_ catalu�a_ spain,22
+199197,maine_ n/a_ usa,54
+93386,skippack_ _,55
+139603,adelaide_ south australia_ australia,34
+171652,woodhaven_ new york_ usa,51
+252245,tunbridge wells_ england_ united kingdom,34
+45522,hoyerswerda_ sachsen_ germany,40
+54252,christchurch_ canterbury_ new zealand,53
+29116,genova_ liguria_ italy,58
+272003,maynard_ massachusetts_ usa,19
+275693,hamburg_ hamburg_ germany,33
+179069,mexico city_ mexico city_ mexico,47
+43054,ferrol_ espa�a_ italy,58
+136626,belfast_ northern ireland_ united kingdom,22
+273494,port hueneme_ california_ usa,46
+49086,schwabach_ bayern_ germany,29
+112675,mount waverley_ victoria_ australia,44
+68016,hendersonville_ tennessee_ usa,50
+199153,berkeley_ california_ usa,34
+210421,maryville_ tennessee_ usa,25
+109785,new york_ new york_ usa,40
+128762,mainz_ rheinland-pfalz_ germany,21
+106768,lexington_ kentucky_ usa,23
+274730,salem_ oregon_ usa,55
+41679,nepean_ ontario_ canada,31
+49435,berlin_ berlin_ germany,43
+185454,folsom_ california_ usa,31
+250885,rego park_ new york_ usa,23
+184891,yucaipa_ california_ usa,50
+221553,frankfurt am main_ hessen_ germany,27
+51774,dartmouth_ nova scotia_ canada,27
+149304,los angeles_ california_ usa,53
+190627,chicago_ _,31
+232371,unadilla_ new york_ usa,59
+17581,opatija_ california_ croatia,31
+75587,aloha_ oregon_ usa,53
+168329,san jose_ san jose_ costa rica,24
+47851,sherwood_ oregon_ usa,34
+98903,south_ a southern state_ usa,57
+211673,chatawa_ mississippi_ usa,70
+103512,brighton_ england_ united kingdom,28
+51547,seaford_east sussex_ england_ united kingdom,39
+25967,peterborough_ ontario_ canada,19
+158922,christchurch_ n/a_ new zealand,47
+194617,calumet city_ illinois_ usa,58
+16557,st. louis_ missouri_ usa,41
+181724,bath_ pennsylvania_ usa,21
+277143,prospect_ connecticut_ usa,34
+36174,adelaide_ south australia_ australia,29
+274571,hamburg_ hamburg_ germany,45
+11632,enschede_ overijssel_ netherlands,54
+63776,lamia_ lamia_ greece,22
+73432,mesa_ arizona_ usa,27
+252208,glasgow_ scotland_ united kingdom,31
+17633,beachwood_ ohio_ usa,42
+272638,paris_ ile-de-france_ france,27
+29002,stockholm_ stockholm_ sweden,34
+7393,brisbane_ queensland_ australia,21
+86558,madrid_ madrid_ spain,28
+105538,wilmington_ north carolina_ usa,49
+175745,broadstairs_ england_ united kingdom,54
+13106,arcata_ california_ usa,24
+182515,m�nster_ _,25
+108947,middletown_ ohio_ usa,28
+185379,fayetteville_ north carolina_ usa,48
+182277,bayside_ new york_ usa,59
+198743,recanto das emas_ distrito federal_ brazil,25
+176811,tuebingen_ baden-wuerttemberg_ germany,26
+37631,bandung_ n/a_ indonesia,27
+152198,valencia_ valencia_ spain,21
+130080,saskatoon_ saskatchewan_ canada,20
+144428,essen_ nordrhein-westfalen_ germany,20
+203384,maidstone_ england_ united kingdom,34
+165260,chapel hill_ north carolina_ usa,56
+103340,elkhart_ indiana_ usa,46
+11410,grand junction_ colorado_ usa,40
+207718,miami_ florida_ usa,19
+277186,loughborough_ england_ united kingdom,40
+46556,wiesbaden_ hessen_ germany,43
+230409,mosfellsbaer_ n/a_ iceland,18
+56493,melbourne_ virginia_ australia,21
+193002,eslpugues del llobregat_ barcelona_ spain,22
+119692,lisbon_ n/a_ portugal,39
+271125,pretoria_ gauteng_ south africa,60
+11959,fort worth_ texas_ usa,34
+39634,regina_ saskatchewan_ canada,28
+140461,zumaia_ gipuzkoa_ spain_ spain,36
+106395,stevens point_ wisconsin_ usa,44
+260862,port wentworth_ georgia_ usa,22
+182079,heidelberg_ rhein-neckar_ germany,25
+8827,atlanta_ georgia_ usa,48
+225757,st. louis_ missouri_ usa,18
+252346,amarillo_ texas_ usa,49
+131399,christchurch_ n/a_ new zealand,27
+68291,brussels_ brussels_ belgium,24
+245506,buffalo_ new york_ usa,45
+241584,redford_ michigan_ usa,53
+8916,seattle_ washington_ usa,23
+98127,stellenbosch_ western province_ south africa,31
+164983,aurora_ colorado_ usa,36
+36899,dortmund_ nordrhein-westfalen_ germany,15
+159886,c�rdoba_ n/a_ spain,19
+46279,portland_ oregon_ usa,47
+55782,reynoldsburg_ ohio_ usa,59
+48537,cincinnati_ ohio_ usa,66
+227079,coquitlam_ british columbia_ canada,33
+259209,brentwood_ new york_ usa,34
+90717,mississauga_ ontario_ canada,29
+131760,duncanville_ texas_ usa,61
+261948,roanoke_ virginia_ usa,56
+161328,blue springs_ missouri_ usa,32
+170851,little silver_ new jersey_ usa,46
+163509,arlington_ washington_ usa,50
+203200,madison_ wisconsin_ usa,58
+108449,halifax_ nova scotia_ canada,29
+141071,gold coast_ queensland_ australia,47
+262161,sydney_ new south wales_ australia,21
+2999,fengcheng_ liaoning_ china,26
+31015,ellicott city_ maryland_ usa,12
+195175,neustift_ n/a_ austria,17
+65268,iowa city_ iowa_ usa,25
+139983,auburn_ alabama_ usa,22
+106599,vienna_ vienna_ austria,22
+92727,marietta_ georgia_ usa,33
+161778,oldenburg_ n/a_ germany,33
+202364,dortmund_ nordrhein-westfalen_ germany,37
+61207,palo alto_ california_ usa,53
+18344,auckland_ new zealand_ new zealand,56
+185655,san diego_ california_ usa,40
+135811,frisco_ texas_ usa,45
+198640,wittingen_ niedersachsen_ germany,22
+248615,emmetsburg_ iowa_ usa,42
+184916,croydon_ surrey_ united kingdom,27
+30478,gisborne_ north island_ new zealand,28
+176423,london_ england_,28
+186700,bilbao_ vizcaya_ spain,24
+77781,pocklington_ england_ united kingdom,34
+63924,saugatuck_ michigan_ usa,35
+99638,sylmar_ california_ usa,32
+124771,offenbach_ hessen_ germany,39
+183286,oviedo_ florida_ usa,65
+119580,pensacola_ florida_ usa,14
+115422,green brook_ new jersey_ usa,30
+51,renton_ washington_ usa,34
+212365,aachen_ nordrhein-westfalen_ germany,20
+105907,porto_ porto_ portugal,43
+16375,cairns_ queensland_ australia,32
+58282,laporte_ colorado_ usa,48
+163763,hellenthal/kammerwald_ nordrheinwestfalen_ germany,18
+37699,new orleans_ louisiana_ usa,36
+238117,severna park_ maryland_ usa,38
+36249,millville_ california_ usa,49
+264489,rio de janeiro_ rio de janeiro_ brazil,20
+41987,baltimore_ maryland_ usa,37
+238004,miami_ florida_ usa,25
+275977,sydney_ new south wales_ australia,22
+272436,muriedas_ cantabria_ spain,26
+197576,toronto_ ontario_ canada,40
+6449,amberg_ bayern_ germany,26
+136736,oslo_ n/a_ norway,44
+138112,bozeman_ montana_ usa,69
+172765,biloxi_ mississippi_ usa,23
+104783,mandaue_ cebu_ philippines,24
+21467,sikeston_ missouri_ usa,22
+142542,vancouver_ british columbia_ canada,31
+94971,redmond_ washington_ usa,58
+20791,bloomington_ california_ usa,64
+194022,sanford_ maine_ usa,51
+128811,moncks corner_ south carolina_ usa,64
+117759,kingsley_ michigan_ usa,47
+201028,arteixo_ a coru�a_ spain,33
+248223,st. paul_ minnesota_ usa,54
+81887,oslo_ n/a_ oman,27
+23046,adelaide_ south australia_ australia,28
+266043,south milwaukee_ wisconsin_ usa,49
+74603,hayward_ california_ usa,61
+100578,dublin_ co. dublin_ ireland,46
+28639,hong kong_ n/a_ hong kong,43
+145462,wheaton_ illinois_ usa,26
+212497,new berlin_ wisconsin_ usa,44
+124728,kaufungen_ hessen_,16
+113640,seattle_ washington_ usa,61
+32471,chicago_ illinois_ usa,21
+185351,new york_ new york_ usa,34
+116688,kirkcaldy_ scotland_ united kingdom,32
+215025,monterotondo_ lazio_ italy,39
+64362,wynantskill_ new york_ usa,23
+90469,nelson_ n/a_ new zealand,24
+36355,naples_ campania_ italy,29
+26734,tampa_ florida_ usa,52
+157870,houston_ texas_ usa,40
+2578,burlington_ ontario_ canada,16
+92897,asheville_ north carolina_ usa,36
+222727,halifax_ nova scotia_ canada,36
+235935,bridgeton_ new jersey_ usa,43
+86252,westfield_ new jersey_ usa,16
+146268,cardiff_ cardiff_ united kingdom,28
+40769,somerville_ massachusetts_ usa,30
+242418,barcelona_ n/a_ spain,17
+136949,barcelona_ catalunya_ spain,25
+130220,benton_ missouri_ usa,32
+99964,bend_ oregon_ usa,35
+42143,vancouver_ washington_ usa,31
+167407,kronberg_ hessen_ germany,34
+63978,calgary_ alberta_ canada,30
+103161,baltimore_ maryland_ usa,15
+272195,newport news_ virginia_ usa,20
+109671,toronto_ ontario_ canada,21
+227568,st.  catharines_ ontario_ canada,30
+190578,tehran_ tehran_ iran,34
+126779,chico_ california_ usa,37
+119554,laconner_ washington_ usa,70
+122257,niederndodeleben_ sachsen-anhalt_ germany,18
+249362,london_ n/a_ united kingdom,25
+38504,hannover_ niedersachsen_ germany,18
+267162,evanston_ illinois_ usa,32
+221554,jacksonville_ florida_ usa,15
+93031,berlin_ berlin_ germany,23
+77258,islandia_ new york_ usa,26
+139722,riyadh_ n/a_ saudi arabia,38
+57920,huntington beach_ california_ usa,39
+168414,kano_ n/a_ nigeria,15
+34398,firenze_ toscana_ italy,35
+118708,vancouver_ british columbia_ canada,44
+51077,las vegas_ nevada_ usa,27
+71019,moline_ illinois_ usa,55
+3042,herndon_ virginia_ usa,23
+149273,hamburg_ hamburg_ germany,28
+45157,sydney_ new south wales_ australia,47
+204181,joplin_ missouri_ usa,41
+257304,manila_ washington_ philippines,18
+212761,london_ _,32
+137713,seattle_ washington_ usa,71
+128424,yokosuka_ yokosuka_ japan,16
+71231,ankara_ alaska_ turkey,20
+229357,trieste_ friuli venezia giulia_ italy,28
+227203,sheffield_ england_ united kingdom,39
+128243,nelspruit_ mphumalanga_ south africa,24
+201314,como_ louisiana_ antarctica,36
+209243,toronto_ ontario_ canada,36
+70192,maynard_ massachusetts_ usa,61
+74152,salamanca_ salamanca_ spain,48
+212679,murcia_ murcia_ spain,22
+70813,halifax_ nova scotia_ canada,24
+54783,belton_ south carolina_ usa,30
+223012,adelaide_ south australia_ australia,46
+62751,perth_ western australia_ australia,23
+255238,darmstadt_ hessen_ germany,34
+222147,marklohe_ niedersachsen_ germany,43
+119441,bakersfield_ california_ usa,17
+31,shanghai_ n/a_ china,20
+264561,chillicothe_ ohio_ usa,16
+149106,cac�m_ sintra_ portugal,20
+97165,leipzig_ sachsen_ germany,19
+226402,olympia_ washington_ usa,24
+51027,san marcos_ texas_ usa,42
+151622,melbourne_ victoria_ australia,30
+224897,lyon_ rh�ne-alpes_ france,34
+116634,manteca_ california_ usa,36
+61089,bern_ bern_ switzerland,21
+149476,delfgauw_ zuid-holland_ netherlands,66
+258868,plymouth_ england_ united kingdom,18
+63282,brigg_ england_ united kingdom,14
+82651,chateauguay_ quebec_ canada,45
+111927,laveno mombello_ lombardia_ italy,22
+26263,brussels_ r�gion bilingue de bruxelles-capitale_ belgium,25
+67102,essen_ nordrhein-westfalen_ germany,26
+262392,evanston_ illinois_ usa,28
+179460,charlotte_ north carolina_ usa,36
+269271,grass lake_ _,20
+235148,madrid_ maine_ spain,25
+183332,brampton_ ontario_ canada,31
+47949,new york_ new york_ usa,34
+88258,sioux center_ iowa_ usa,42
+192781,glen ridge_ new jersey_ usa,45
+44085,san fernando de henares_ madrid_ spain,29
+26759,atlantic beach_ florida_ usa,45
+164563,montenegro_ brazil_ brazil,22
+205686,barcelona_ catalonia_ spain,31
+207917,kalamazoo_ michigan_ usa,52
+1725,palma_ illes balears_ united kingdom,25
+97480,pinto_ madrid_ spain,29
+72604,bruxelles_ bruxelles_ belgium,22
+44124,great yarmouth_ england_ united kingdom,24
+36471,essex_ england_ united kingdom,30
+97443,toronto_ ontario_ canada,18
+184807,sydney_ new south wales_ australia,27
+198554,garland_ texas_ usa,46
+168445,uptown_ wales_ united kingdom,47
+234642,arcadia_ in 46030_ indiana_ usa,16
+12556,ningbo_ zhejiang_ china,27
+122490,shanghai_ shanghai_ china,28
+184558,barcelona_ barcelona_ spain,25
+210472,rio de janeiro_ rio de janeiro_ brazil,37
+115388,neuch�tel_ neuch�tel_ switzerland,24
+247387,brasilia_ n/a_ brazil,25
+255901,badalona_ barcelona_ catalunya,26
+29388,craiova_ dolj_ romania,27
+53733,petaling jaya_ selangor_ malaysia,13
+96858,valencia_ pais valencia_ spain,22
+132240,burlington_ north carolina_ usa,34
+216031,indianapolis_ indiana_ usa,54
+229431,darwin_ northern territory_ australia,55
+14997,al-husn_ irbid_ jordan,25
+82372,littleton_ massachusetts_ usa,33
+147112,antelope_ _,73
+229900,hospitalet de llobregat_ barcelona_ spain,12
+233158,woodstock_ illinois_ usa,27
+71324,huskvarna_ sm�land_ sweden,35
+129468,salsomaggiore terme_ emilia romagna_ italy,49
+254317,east brunswick_ new jersey_ usa,55
+125382,fuengirola_ n/a_ spain,17
+17182,sant cugat del valles_ catalu�a_ spain,39
+83204,mosman_ new south wales_ australia,40
+188432,seattle_ washington_ usa,26
+214236,m�nster_ nordrhein-westfalen_ germany,21
+93087,brest_ n/a_ france,19
+75468,lille_ n/a_ france,22
+63303,aarau_ aargau_ switzerland,36
+262883,los angeles_ california_ usa,43
+163071,westminster_ maryland_ usa,34
+176970,perth_ western australia_ australia,45
+154283,troy_ ohio_ usa,34
+47260,frederick_ maryland_ usa,55
+13615,m�laga_ maine_ spain,21
+132123,attica_ new york_ usa,24
+161468,granite city_ illinois_ usa,42
+76614,berkeley_ california_ usa,43
+125008,parma_ ohio_ usa,38
+48997,melbourne_ victoria_ australia,22
+251421,chicago_ illinois_ usa,23
+214514,calgary_ alberta_ canada,48
+239396,kennesaw_ georgia_ usa,48
+198112,wivenhoe colchester_ england_ united kingdom,51
+6126,landshut_ bayern_ germany,20
+128213,charleston_ south carolina_ usa,29
+88338,manassas_ virginia_ usa,39
+273119,surbiton_ greater london_ england_ united kingdom,64
+100091,birmingham_ england_ united kingdom,33
+16838,toronto_ ontario_ canada,19
+199688,fisher_ australian capital territory_ australia,15
+252290,zaragoza_ zaragoza_ spain,27
+197039,castell�n_ comunidad valenciana_ spain,32
+252890,melbourne_ victoria_ australia,23
+189746,edmonton_ alberta_ canada,25
+18581,rockford_ illinois_ usa,31
+216363,distrito federal_ distrito federal_ mexico,31
+219514,victoria_ british columbia_ canada,54
+187853,toledo_ ohio_ usa,57
+68895,norderstedt_ schleswig-holstein_ germany,32
+49806,almer�a_ almer�a_ spain,23
+156690,valencia_ valencia_ spain,25
+231531,novara_ piemonte_ italy,25
+113136,garden grove_ california_ usa,41
+27086,redford_ michigan_ usa,24
+264119,padova_ veneto_ italy,27
+92620,barcelona_ catalunya_ spain,37
+187896,surfside beach_ south carolina_ usa,70
+278138,oviedo_ \n/a\_ spain,49
+186002,shanghai_ saarland_ chile,21
+159361,pleasanton_ california_ usa,57
+264646,atwater_ ca. 95301_ california_ usa,58
+162561,cleveland_ ohio_ usa,37
+138102,s�o paulo_ sao paulo_ brazil,53
+1116,calgary_ alberta_ canada,29
+78642,karlsruhe_ baden-wuerttemberg_ germany,30
+276645,northport_ alabama_ usa,28
+97329,tauranga_ n/a_ new zealand,12
+197073,west valley city_ utah_ usa,33
+5423,croydon_ england_ united kingdom,26
+13996,london_ england_ united kingdom,20
+244030,concord_ north carolina_ usa,42
+2402,cardiff_ wales_ united kingdom,21
+233118,lincoln_ nebraska_ usa,22
+248971,freiberg_ sachsen_ germany,24
+189411,thurso_ scotland_ united kingdom,48
+130487,melbourne_ victoria_ australia,19
+252327,koblenz_ rheinland-pfalz_ germany,21
+151193,warsaw_ n/a_ poland,16
+66131,chattanooga_ tennessee_ usa,47
+143227,elk grove_ california_ usa,11
+137027,roma_ lazio_ italy,21
+278004,auckland_ n/a_ new zealand,50
+25227,londonderry_ vermont_ usa,21
+28651,napa_ california_ usa,15
+278476,k�ln_ nordrhein-westfalen_ germany,27
+80814,washington_ dc_ usa,46
+134464,sabadell_ barcelona_ spain,16
+105200,sheffield_ england_ united kingdom,20
+140246,coramba_ new south wales_ australia,58
+150111,lyon_ n/a_ france,16
+184541,roma_ lazio_ italy,34
+264383,radstadt_ salzburg_ austria,52
+131053,didcot_ oxfordshire_ united kingdom,24
+149131,ft worth_ tennessee_ usa,37
+174570,rockwall_ texas_ usa,68
+121050,berkeley_ california_ usa,44
+192983,southington_ connecticut_ usa,35
+70611,miami_ florida_ usa,30
+87209,nancy_ _,21
+257936,barcelona_ barcelona_ spain,29
+35389,nackenheim_ rheinland-pfalz_ germany,53
+237917,berkeley_ california_ usa,38
+55770,little rock_ arkansas_ usa,22
+89486,st antoine_ n/a_ france,40
+247205,tyler_ texas_ usa,34
+52029,ann arbor_ michigan_ usa,29
+254432,kingsport_ tennessee_ usa,58
+157756,santander_ cantabria_ spain,22
+234134,baton rouge_ louisiana_ usa,43
+14484,delft_ alabama_ netherlands,22
+274548,winton_ california_ usa,24
+110711,tehran_ n/a_ iran,22
+26191,bergamo_ lombardia_ italy,32
+176490,amsterdam_ n/a_ netherlands,28
+52235,orlando_ florida_ usa,25
+88240,apopka_ florida_ usa,46
+154611,anchorage_ alaska_ usa,16
+37760,friendswood_ texas_ usa,32
+132675,barcelona_ catalu�a_ spain,24
+240928,m�nchen_ bayern_ germany,23
+41748,florence_ mississippi_ usa,45
+235325,beijing_ beijing_ china_ china,34
+187564,toronto_ ontario_ canada,26
+201698,bilbao_ bizkaia_ spain,22
+145430,rohrbach_ oberoesterreich_ austria,24
+185554,rochester_ new york_ usa,42
+221198,valley village_ california_ usa,22
+167726,cranbrook_ british columbia_ canada,64
+80040,w�rzburg_ bayern_ germany,22
+114575,mastic beach_ new york_ usa,26
+32095,philadelphia_ pennsylvania_ usa,51
+1531,d.f._ d.f._ mexico,42
+123188,st helens_ england_ united kingdom,48
+265512,wivenhoe_ hawaii_ united kingdom,54
+232071,tulsa_ oklahoma_ usa,17
+34723,sydney_ new south wales_ australia,24
+36291,rushville_ illinois_ usa,54
+33448,hillsboro_ oregon_ usa,43
+163152,amesville_ ohio_ usa,19
+146229,burson_ california_ usa,52
+204661,matosinhos_ n/a_ portugal,25
+68422,bracknell_ berkshire_ united kingdom,27
+33467,s�o paulo_ n/a_ brazil,16
+59907,new orleans_ louisiana_ usa,35
+4158,al�s_ alt urgell_ spain,40
+274049,coburg_ victoria_ australia,32
+66547,glasgow_ scotland_ united kingdom,76
+263589,guangzhou_ guangdong_ china,34
+234504,wien_ wien_ austria,37
+229895,london_ england_ united kingdom,25
+34990,bloomington_ illinois_ usa,30
+142816,oudenaarde_ oost-vlaanderen_ belgium,18
+152042,huelva_ huelva_ spain,38
+225373,tehran_ muslim_ iran,24
+211162,castellon de la plana_ castellon_ spain,26
+192105,barceloneta_ puerto rico_ usa,30
+256346,billingham_ england_ united kingdom,33
+159670,rome_ lazio_ italy,31
+19889,barcelona_ barcelona_ spain,32
+98834,allentown_ pennsylvania_ usa,18
+140181,trieste_ friuli venezia giulia_ italy,28
+150586,bismarck_ north dakota_ usa,24
+50586,westminster_ maryland_ usa,33
+14721,mountain view_ california_ usa,60
+79116,chiai city_ n/a_ taiwan,35
+176356,elizabeth city_ north carolina_ usa,59
+258986,tarn�w_ n/a_ poland,23
+88421,ny_ new york_ usa,25
+130742,manchester_ england_ united kingdom,17
+242738,rotherham_ england_ united kingdom,24
+264524,bowdoin_ _,66
+41187,windsor_ ontario_ canada,37
+112972,fond du lac_ wisconsin_ usa,55
+56631,new leipzig_ north dakota_ usa,47
+78788,singapore_ n/a_ singapore,23
+271947,flushing_ new york_ usa,28
+168403,talavera de la reina_ toledo_ spain,23
+248535,trail_ british columbia_ canada,54
+160376,bielefeld_ nordrhein-westfalen_ germany,23
+251191,burnaby_ british columbia_ canada,19
+46395,westminster_ maryland_ usa,49
+205842,watford_ england_ united kingdom,35
+94349,sydney_ new south wales_ australia,20
+68448,gladstone_ missouri_ usa,25
+98852,velletri_ lazio_ italy,27
+229206,mendrisio_ ticino_ switzerland,29
+164390,belleville_ ontario_ canada,32
+79226,wroclaw_ dolnoslaskie_ poland,26
+266317,booneville_ arkansas_ usa,36
+154427,volta mantovana_ mantova_ italy,19
+202210,crystal_ minnesota_ usa,15
+125051,auburn_ washington_ usa,46
+122428,toronto_ ontario_ canada,23
+143873,oldenburg_ niedersachsen_ germany,31
+212528,paris_ n/a_ france,30
+162366,milton_ ontario_ canada,48
+272921,paris_ ile-de-france_ france,19
+81703,lille(hem)_ nord_ france,20
+130447,almere_ flevoland_ netherlands,50
+183409,vallorbe_ vaud_ switzerland,45
+192593,london_ alabama_ united kingdom,36
+191714,forest grove_ oregon_ usa,41
+68821,san antonio_ texas_ usa,32
+87598,timonium_ maryland_ usa,41
+231526,soleto_ puglia_ italy,17
+271798,san sebastian_ guipuzcoa_ spain,21
+241309,webster_ new york_ usa,40
+201522,arnhem_ alabama_ netherlands,27
+83709,olympia_ washington_ usa,57
+83258,preston_ england_ united kingdom,15
+118221,gillette_ wyoming_ usa,74
+12469,gav�_ catalonia_ spain,23
+226322,milwaukee_ wisconsin_ usa,34
+133167,oviedo_ asturias_ spain,21
+142966,new bedford_ massachusetts_ usa,55
+22080,alexandria_ virginia_ usa,48
+8541,westcliffe_ colorado_ usa,68
+98641,lubbock__ texas_ usa,69
+53356,sydney_ new south wales_ australia,15
+110122,cali_ valle d`aosta_ colombia,22
+164215,blanes_ catalunya_ spain,33
+148946,crescent_ georgia_ usa,62
+201335,zagreb_ _ croatia,14
+277603,tehran_ n_ iran,21
+183208,south point_ ohio_ usa,28
+236655,rochdale_ england_ united kingdom,30
+172866,basel_ basel_ switzerland,47
+150560,padova_ veneto_ italy,29
+219621,waterford_ michigan_ usa,59
+51274,sacramento_ california_ usa,29
+212775,cincinnati_ ohio_ usa,70
+266667,west des moines_ iowa_ usa,28
+226342,acworth_ georgia_ usa,31
+223952,fullerton_ california_ usa,35
+145050,adelaide_ south australia_ australia,26
+262366,bilbao_ vizcaya_ spain,44
+66666,booneville_ iowa_ usa,81
+231615,glenalta_ south australia_ australia,27
+80896,oporto_ entre douro e minho_ portugal,33
+205033,metamora_ michigan_ usa,46
+222613,wien_ wien_ austria,38
+214082,getxo_ vizcaya_ spain,19
+144008,york_ pennsylvania_ usa,57
+224606,oxford_ england_ united kingdom,19
+104284,cranberry portage_ manitoba_ canada,56
+146636,singapore_ singapore_ singapore,17
+201664,st.thomas_ ontario_ canada,22
+17264,stuttgart_ baden-wuerttemberg_ germany,34
+156631,new plymouth_ taranaki_ new zealand,68
+272832,drayton valley_ alberta_ canada,37
+91474,olympia_ washington_ usa,54
+249461,kking of prussia_ pennsylvania_ usa,25
+153528,st. paul_ minnesota_ usa,19
+24292,pittsburgh_ pennsylvania_ usa,27
+64046,beaverton_ oregon_ usa,19
+241160,fredericton_ new brunswick_ canada,45
+201600,higuey_ higuey_ la altagracia_ dominican republic,36
+241986,hilliard_ ohio_ usa,28
+137856,poland_ ohio_ usa,29
+141218,leuven_ alabama_ belgium,23
+74163,manly  v ale_ new south wales_ australia,28
+108633,paris_ n/a_ france,26
+145546,acton_ massachusetts_ usa,37
+71574,rochester_ new york_ usa,25
+268661,south berwick_ maine_ usa,57
+83930,santo domingo_ distrito nacional_ dominican republic,24
+29283,arl�v_ sk�ne_ sweden,37
+72594,bloomington_ indiana_ usa,17
+39396,bonn_ nordrhein-westfalen_ germany,20
+121344,sachse_ texas_ usa,27
+96483,north little rock_ arkansas_ usa,36
+102804,wasilla_ alaska_ usa,23
+263572,portland_ oregon_ usa,61
+215208,peterhead_ scotland_ united kingdom,46
+129523,avondale_ arizona_ usa,17
+166925,sydney_ new south wales_ australia,25
+148732,la verne_ california_ usa,31
+98953,bremerton_ washington_ usa,36
+198497,cardiff_ wales_ united kingdom,27
+136483,hammond_ louisiana_ usa,68
+17237,new york_ new york_ usa,42
+104495,avila_ avila_ spain,25
+20350,uss monterey_ virginia_ usa,29
+94031,lancaster_ kentucky_ usa,58
+238748,vienna_ vienna_ austria,22
+145555,porto alegre_ rio grande do sul_ brazil,40
+37267,las vegas_ nevada_ usa,49
+58725,ann arbor_ michigan_ usa,63
+135808,greenwich_ ohio_ usa,37
+235891,sydney_ new south wales_ australia,21
+212357,kalamazoo_ michigan_ usa,43
+265681,qingdao_ shang dong_ china,27
+109723,chestertown_ maryland_ usa,62
+156044,capital federal_ buenos aires_ argentina,32
+93363,farmington hills_ michigan_ usa,30
+12865,niter�i_ rio de janeiro_ brazil,32
+133861,columbus_ indiana_ usa,38
+123951,hamburg_ hamburg_ germany,22
+261930,hospitalet del llobregat_ barcelona_ spain,19
+68193,joplin_ missouri_ usa,60
+82580,hull_ england_ united kingdom,63
+165885,melbourne_ victoria_ australia,14
+190663,southampton_ england_ united kingdom,50
+187750,sydney_ new south wales_ australia,56
+264268,madrid_ parla_ spain,28
+77900,st.michael_ minnesota_ usa,13
+237611,grand rapids_ michigan_ usa,14
+25336,bissau_ n/a_ guinea-bissau,39
+5065,kuala lumpur_ federal territory_ malaysia,38
+65988,garland_ texas_ usa,59
+262469,janesville_ wisconsin_ usa,52
+156809,northampton/rugby_ england_ united kingdom,57
+101115,matar�_ barcelona_ spain,23
+108608,lima_ lima_ peru,30
+251949,lidingo_ stockholm_ sweden,33
+89400,kokomo_ indiana_ usa,48
+124886,mobile_ alabama_ usa,31
+40285,calgary_ alberta_ canada,52
+161910,deming_ new mexico_ usa,18
+85296,maarheeze_ noord-brabant_ netherlands,66
+28043,nashville_ tennessee_ usa,36
+86076,los gatos_ california_ usa,42
+35501,hanau_ hessen_ ghana,69
+65795,irving_ texas_ usa,53
+29343,sydney_ new south wales_ australia,53
+66979,vancouver_ british columbia_ canada,30
+166128,grinnell_ iowa_ usa,20
+38438,brisbane_ queensland_ australia,44
+33077,perth_ western australia_ australia,21
+136615,freiburg_ baden-wuerttemberg_ germany,24
+30702,vienna_ n/a_ austria,28
+160578,hawthorn. vic 3122_ victoria_ australia,59
+38575,cornell� de llobregat_ barcelona_ spain,30
+161204,knoxville_ tennessee_ usa,33
+83187,romano di lombardia (bg)_ lombardia_ italy,44
+209619,tallahassee_ florida_ usa,59
+103185,christchurch_ n/a_ new zealand,10
+262436,wenatchee_ washington_ usa,32
+15354,lisboa_ n/a_ portugal,24
+112275,manotick_ ontario_ canada,37
+41218,dublin_ n/a_ ireland,26
+92431,leiden_ zuid-holland_ netherlands,29
+95043,thousand oaks_ california_ usa,38
+267659,christchurch_ n/a_ new zealand,57
+64271,westminster_ colorado_ usa,34
+133066,geneva_ n/a_ switzerland,51
+11455,schnecksville_ pennsylvania_ usa,56
+72451,nottingham_ england_ united kingdom,51
+108882,chagrin falls_ ohio_ usa,19
+65386,santa fe_ new mexico_ usa,42
+33303,maplewood_ minnesota_ usa,55
+44901,glasgow_ scotland_ united kingdom,21
+224842,madrid_ ohio_ spain,29
+35017,las vegas_ nevada_ usa,33
+54116,weyhe_ bremen_ germany,43
+72820,sabadell_ catalunya_ spain,23
+187086,nasarawa_ nasarawa state_nigeria_ nigeria,23
+76678,lisboa_ n/a_ portugal,45
+128894,port dover_ ontario_ canada,16
+177043,portsmouth_ virginia_ usa,33
+151720,van buren_ maine_ usa,38
+240533,everton_ arkansas_ usa,52
+232591,baton rouge_ louisiana_ usa,20
+87448,milano_ lombardia_ italy,48
+11610,mogo_ new south wales_ australia,52
+41661,wyandotte_ michigan_ usa,52
+267688,victoria_ british columbia_ canada,26
+241605,maidstone_ england_ united kingdom,39
+104726,london_ england_ united kingdom,53
+25865,canada_ prince edward island_ canada,16
+60749,gunnison_ colorado_ usa,23
+172258,merrimack_ new hampshire_ usa,34
+94547,clifton hill_ victoria_ australia,23
+119295,valencia_ veneto_ spain,16
+255545,austin_ texas_ usa,17
+60765,minneapolis_ minnesota_ usa,23
+51304,cardiff_ wales_ wales,57
+191347,genova_ liguria_ italy,40
+211252,frostburg_ maryland_ usa,29
+261476,ourense_ galiza - ourense_ spain,20
+92112,sterling heights_ michigan_ usa,22
+67499,hayward_ california_ usa,26
+98885,port orchard_ washington_ usa,28
+51793,columbus_ indiana_ usa,44
+24864,sunrise beach_ queensland_ australia,48
+270337,melbourne_ victoria_ australia,51
+110745,south bend_ indiana_ usa,60
+226850,paran�_ entre r�os_ argentina,62
+49624,cardiff_ wales_ united kingdom,24
+217550,madrid_ madrid_ spain,26
+119601,madrid_ madrid_ spain,25
+210999,manchester_ england_ united kingdom,16
+103040,sumter_ south carolina_ usa,28
+257967,berea_ ohio_ usa,18
+143886,san francisco_ california_ usa,30
+19342,amsterdam_ noord-holland_ netherlands,33
+202981,dallas_ texas_ usa,16
+38824,santa clarita_ california_ usa,38
+197434,barcelona_ catalunya_ spain,40
+34302,salsbury_ maryland_ usa,24
+273852,tallahassee_ florida_ usa,28
+125206,buenos aires_ buenos aires_ argentina,32
+223533,northfield_ kansas_ usa,53
+233917,madera_ california_ usa,38
+136604,laguna beach_ california_ usa,60
+239380,san francisco_ california_ usa,55
+225656,montreal_ quebec_ canada,57
+70613,pamplona_ navarra_ spain,29
+238913,lafayette_ california_ usa,31
+101483,little rock_ arkansas_ usa,25
+256987,sydenham_ ontario_ canada,28
+194877,rolling meadows_ illinois_ usa,30
+277140,new plymouth_ taranaki_ new zealand,52
+225355,tehran_ tennessee_ iran,14
+263747,wien_ wien_ austria,32
+80444,alcala de henares_ madrid_ spain,37
+50678,madrid_ madrid_ spain,23
+228238,wentworth falls_ new south wales_ australia,20
+230796,city_ alberta_ canada,49
+140916,bracknell_ berkshire_ united kingdom,48
+119619,mirandela_ tr�s-os-montes_ portugal,42
+64112,sierra madre_ california_ usa,35
+212380,sydney_ new south wales_ australia,14
+108319,moscow_ russia_ russia,25
+230368,seville_ seville_ spain,34
+220194,arafo_ tenerife_ spain,48
+4935,madrid_ madrid_ spain,36
+230355,boulder_ colorado_ usa,44
+94549,gretna_ louisiana_ usa,56
+238942,harleysville_ pennsylvania_ usa,68
+210129,sant cugat del valles_ barcelona_ spain,33
+125751,rio rico_ arizona_,24
+257758,sebastopol_ california_ usa,71
+226433,edmonton_ alberta_ canada,48
+225704,broomfield_ colorado_ usa,41
+224143,cambridge_ england_ united kingdom,41
+192449,miami_ florida_ usa,33
+130272,barcelona_ espa�a_ spain,43
+224565,preston_ n/a_ united kingdom,34
+224124,cheektowaga_ new york_ usa,37
+192776,janesville_ wisconsin_ usa,54
+236949,glen burnie_ maryland_ usa,56
+118742,oceanside_ california_ usa,20
+63310,toronto_ ontario_ canada,29
+21022,clearwater_ florida_ usa,62
+227194,kath_ kath_ nepal,24
+33722,kitchener_ ontario_ canada,19
+55087,sydney_ new south wales_ australia,23
+272559,stevenston_ scotland_ united kingdom,24
+157038,sant vicen� de montalt (barcelona)_ catalunya_ spain,51
+72005,lacey_ washington_ usa,66
+3930,barcelona_ catalunya_ spain,47
+171995,milwaukee_ wisconsin_ usa,55
+133069,philadelphia_ pennsylvania_ usa,24
+230657,berkeley_ california_ usa,40
+51016,langley_ washington_ usa,53
+177403,waffenrod_ thueringen_ germany,18
+149184,fredericksburg_ virginia_ usa,29
+88885,jackson_ michigan_ usa,23
+263700,plainview_ new york_ usa,28
+183548,lincoln_ nebraska_ usa,29
+262501,oak hill_ virginia_ usa,33
+163673,sydney_ new south wales_ australia,15
+62846,vancouver_ british columbia_ canada,53
+187856,prague_ central bohemia_ czech republic,28
+94388,seattle_ washington_ usa,35
+190651,lower nazareth_ pennsylvania_ usa,62
+18161,li�ge_ _,27
+201447,springfield_ virginia_ usa,40
+125617,christchurch_ n/a_ new zealand,27
+267767,bolingbrook_ illinois_ usa,13
+269936,hersham_ england_ united kingdom,66
+29738,gladewater_ texas_ usa,42
+167444,quezon city_ metro manila_ philippines,19
+243143,zeeland_ michigan_ usa,30
+261023,london_ england_ united kingdom,31
+130800,greenville_ north carolina_ usa,26
+257557,canton_ ohio_ usa,31
+175273,hemet_ california_ usa,49
+37642,halifax_ nova scotia_ canada,22
+184753,allerona_ umbria_ italy,31
+35549,amsterdam_ noord holland_ netherlands,28
+275082,hacienda heights_ california_ usa,16
+187813,set�bal_ n/a_ portugal,36
+17474,barcelona_ catalunya_ spain,56
+106772,berkeley_ california_ usa,32
+142170,mexico_ \n/a\_ mexico,47
+115746,barcelona_ catalu�a_ spain,33
+30136,houston_ texas_ usa,54
+204687,varese_ lombardia_ italy,23
+225563,milan_ lombardia_ italy,30
+157150,milano_ lombardia_ italy,25
+20301,amston_ connecticut_ usa,55
+204691,doylestown_ pennsylvania_ usa,43
+210001,manchester_ england_ united kingdom,21
+85747,surrey_ british columbia_ canada,56
+41573,reading_ pennsylvania_ usa,35
+19498,perth_ western australia_ australia,40
+103261,oklahoma city_ oklahoma_ usa,45
+202292,hammond_ indiana_ usa,30
+62351,allen park_ michigan_ usa,47
+137316,torhout_ west vlaanderen_ belgium,50
+148913,zwickau_ sachsen_ germany,20
+275988,cartagena_ murcia_ spain,28
+183363,raumati south_ kapiti coast_ new zealand,49
+139793,greenfield_ wisconsin_ usa,51
+191457,oporto_ oporto_ portugal,30
+198081,germantown_ tennessee_ usa,39
+92542,palmerston north_ manawatu_ new zealand,65
+254339,north babylon_ new york_ usa,40
+26919,ooltewah_ tennessee_ usa,49
+124565,vancouver_ washington_ usa,60
+59970,london_ n/a_ united kingdom,20
+276994,wien_ wien_ austria,25
+116016,regina_ saskatchewan_ canada,38
+36957,lewiston_ maine_ usa,52
+265403,springfield_ missouri_ usa,35
+236304,santa`s village_ ontario_ canada,48
+201264,madrid_ madrid_ spain,26
+25015,chicago_ illinois_ usa,38
+22050,dresden_ sachsen_ germany,27
+92926,toronto_ ontario_ canada,55
+28626,st. joseph_ missouri_ usa,66
+38074,merida_ yucatan_ mexico,19
+147340,regina_ saskatchewan_ canada,34
+65646,fuenlabrada_ madrid_ spain,22
+82315,cologne_ nordrhein-westfalen_ germany,27
+187699,tillamook_ oregon_ usa,62
+62828,bonn_ nordrhein-westfalen_ germany,23
+170520,racine_ wisconsin_ usa,41
+116436,new york_ new york_ usa,17
+278038,fresh meadows_ new york_ usa,44
+128635,saginaw_ michigan_ usa,65
+204525,venice_ florida_ usa,43
+41871,columbia_ maryland_ usa,60
+17217,alexandria_ aly_ egypt,31
+59282,norwich_ england_ united kingdom,41
+240882,massillon_ ohio_ usa,35
+94453,colorado springs_ colorado_ usa,38
+70950,toluca_ toluca_ mexico,30
+150502,madrid_ madrid_ spain,31
+56651,cedar park_ texas_ usa,52
+199870,herkimer_ new york_ usa,17
+48254,halifax_ nova scotia_ canada,20
+46812,greendale_ wisconsin_ usa,36
+126334,davenport_ iowa_ usa,23
+157363,perth_ western australia_ australia,27
+4610,tucum�n_ tucum�n_ argentina,35
+135962,derbyshire_ england_ united kingdom,46
+193026,deltona_ florida_ usa,37
+199262,brownsville_ kentucky_ usa,36
+178145,clearwater_ _,32
+8821,sleepy eye_ minnesota_ usa,35
+25099,el paso_ texas_ usa,29
+42906,annone brianza lc_ lombardia_ italy,51
+49628,new york_ new york_ usa,55
+236136,york_ pennsylvania_ usa,14
+233258,redhill_ england_ united kingdom,21
+88239,rambouillet_ yvelines_ france,28
+49293,crawley_ england_ united kingdom,35
+218458,chattanooga_ tennessee_ usa,23
+46573,a estrada_ sardegna_ spain,31
+125028,bath_ n/a_ united kingdom,42
+101077,white hall_ _,52
+131227,braintree_ massachusetts_ usa,56
+114284,london_ england_ united kingdom,30
+216481,san diego_ california_ usa,25
+45919,wilmore_ kentucky_ usa,29
+199882,stockholm_ n/a_ sweden,17
+69287,schaffhausen_ n/a_ switzerland,41
+125371,lisboa_ n/a_ portugal,27
+74070,london_ england_ united kingdom,40
+226722,new orleans_ louisiana_ usa,57
+16437,hannover_ niedersachsen_ germany,33
+104604,vancouver_ bc_ canada,36
+273925,m�nchen_ bayern_ germany,28
+70798,victoria_ british columbia_ canada,30
+263245,lacombe_ louisiana_ usa,33
+226969,walkerville_ montana_ usa,35
+67554,indianapolis_ indiana_ usa,38
+28437,gloucester_ england_ united kingdom,25
+13469,s�o paulo_ s�o paulo_ brazil,26
+95385,glasgow_ scotland_ united kingdom,36
+29566,vanceboro_ north carolina_ usa,62
+22325,birmingham_ alabama_ usa,53
+263064,barcelona_ catalunia_ spain,29
+8886,la verne_ ca_ usa,59
+270796,racine_ _,51
+235380,espinho_ aveiro_ portugal,23
+278551,bad honnef_ nordrhein-westfalen_ germany,21
+132563,savannah_ georgia_ usa,29
+200985,surrey_ british columbia_ canada,50
+198357,freeport_ new york_ usa,64
+269333,london_ england_ united kingdom,28
+184828,olesa de montserrat_ barcelona_ spain,35
+11307,east china twp_ michigan_ usa,36
+97255,bregenz_ vorarlberg_ austria,30
+233656,tulsa_ oklahoma_ usa,32
+167207,waverton_ _,19
+140403,perth_ western australia_ australia,25
+194206,cooper city_ florida_ usa,47
+230453,brwinow_ mazowieckie_ poland,19
+94369,los angeles_ california_ usa,51
+225178,poughkeepsie_ new york_ usa,19
+2686,kosciusko_ mississippi_ usa,24
+91571,lorca_ murcia_ spain,22
+157489,sydney_ nova scotia_ canada,23
+145163,nottinghamshire_ england_ united kingdom,49
+140920,orlando_ florida_ usa,60
+18710,union bridge_ maryland_ usa,25
+21302,march_ cambridgeshire_ england_ united kingdom,41
+99347,muskegon_ michigan_ usa,30
+146203,winnipeg_ _,39
+210291,corinth_ texas_ usa,58
+204088,algarve: fonte do bispo / tavira_ n/a_ portugal,24
+172835,north parramatta_ new south wales_ australia,29
+92369,minneapolis_ minnesota_ usa,30
+266694,mineral ridge_ ohio_ usa,43
+12453,marshalltown_ iowa_ usa,14
+259754,pocomoke_ maryland_ usa,30
+229832,havana_ n/a_ cuba,33
+125407,louisburg_ kansas_ usa,66
+244450,hedgesville_ west virginia_ usa,17
+187785,leimen_ baden-wuerttemberg_ germany,35
+243092,bowen mt_ new south wales_ australia,48
+129535,mannheim_ baden-wuerttemberg_ germany,23
+5679,madrid_ madrid_ spain,41
+119698,ramos mejia_ buenos aires_ argentina,25
+257849,seattle_ washington_ usa,61
+266230,oak view_ california_ usa,28
+35428,cambridge_ cambridgeshire_ united kingdom,33
+147245,philadephia_ pennsylvania_ usa,22
+267604,coral springs_ florida_ usa,18
+226120,guadalajara_ jalisco_ mexico,22
+9378,worcester_ massachusetts_ usa,50
+108985,eugene_ oregon_ usa,57
+214144,guadalajara_ zapopan_ mexico,35
+267427,uppsala_ uppland_ sweden,26
+171134,den haag_ zuid-holland_ netherlands,46
+248946,milano_ lombardia_ italy,27
+35284,portland_ oregon_ usa,60
+70917,yahud_ n/a_ israel,30
+199084,canberra_ australian capital territory_ australia,14
+232878,bushey_ england_ united kingdom,39
+99995,lancaster_ california_ usa,41
+132680,laronge_ saskatchewan_ canada,61
+122105,biot_ france_ france,16
+254874,sarre-union_ alsace in france_ france,44
+106610,chieti_ abruzzo_ italy,28
+56448,capital federal_ n/a_ argentina,41
+40154,seattle_ washington_ usa,64
+182632,paris_ ile-de-france_ france,31
+22293,alzira_ valencia_ spain,24
+93163,degerfors_ n�rke_ sweden,51
+205252,finley_ north dakota_ usa,33
+58916,olesa de montserrat_ barcelona_ spain,17
+255434,columbia_ missouri_ usa,25
+151876,armidale_ new south wales_ australia,17
+243885,coppell_ texas_ usa,40
+250199,cardiff_ wales_ united kingdom,46
+59954,zaragoza_ n/a_ spain,19
+272521,borgerhout_ antwerpen_ belgium,15
+244060,london_ england_ united kingdom,21
+117227,san jos�_ san jos�_,58
+165013,sacramento_ california_ usa,63
+77016,bielefeld_ nordrhein-westfalen_ germany,68
+205225,bilbao_ bizkaia_ spain,21
+159130,johannesburg_ n/a_ south africa,29
+181286,viernheim_ baden-wuerttemberg_ germany,62
+85527,guelph_ ontario_ canada,37
+77021,madrid_ madrid_ spain,28
+143781,ann arbor_ michigan_ usa,48
+232354,halle_ sachsen-anhalt_ germany,27
+153628,la serena_  pais chile_ region de coquimbo pais chile_ chile,40
+34928,new york_ new york_ usa,32
+3144,terre hill_ pennsylvania_ usa,32
+268116,ogden_ iowa_ usa,11
+24945,radbruch_ _ germany,22
+91133,folkestone_ nunavut_ united kingdom,20
+1163,pamplona_ navarra_ spain,32
+179732,konstanz_ baden-wuerttemberg_ germany,22
+204178,philadelphia_ pennsylvania_ usa,25
+70735,toronto_ ontario_ canada,29
+167685,bloomer_ wisconsin_ usa,30
+113405,encinitas_ california_ usa,68
+22585,ottawa_ kansas_ usa,34
+89370,port hedland_ western australia_ australia,57
+9395,birmingham_ england_ united kingdom,18
+208744,bayreuth_ bayern_ germany,14
+52083,surprise_ arizona_ usa,31
+4498,manchester_ lancashire_ united kingdom,57
+39646,fairless hills_ pennsylvania_ usa,35
+78283,branchburg_ new jersey_ usa,17
+89585,la mesa_ california_ usa,17
+188889,arcadia_ california_ usa,18
+197038,lagrange_ georgia_ usa,28
+259136,lake wylie_ south carolina_ usa,73
+173702,san giovanni valdarno_ toscana_ italy,39
+34964,monmouth_ illinois_ usa,35
+129889,nottingham_ england_ united kingdom,17
+26214,curitiba_ paran�_ brazil,26
+98975,south west rocks_ new south wales_ australia,49
+83528,belmont_ ontario_ canada,50
+182470,walnut creek_ california_ usa,70
+139734,mississauga_ ontario_ canada,17
+209858,cheyenne_ wyoming_ usa,34
+79783,ringgold_ georgia_ usa,51
+269215,new york_ new york_ usa,24
+160676,philadelphia_ pennsylvania_ usa,37
+71071,florissant_ missouri_ usa,49
+181031,clarksville_ tennessee_ usa,23
+273427,kingston upon thames_ surrey_ united kingdom,36
+43576,portland_ oregon_ usa,56
+132611,bellevue_ nebraska_ usa,18
+25904,carmel_ indiana_ usa,16
+66094,merrick_ new york_ usa,53
+52787,albany_ texas_ usa,14
+278385,fayetteville_ north carolina_ usa,40
+243284,san jose_ california_ usa,45
+99578,toronto_ ontario_ canada,28
+176854,wurtulla_ queensland_ australia,13
+260573,blodgett_ oregon_ usa,45
+214842,gainesville_ florida_ usa,19
+118906,dublin_ dublin_ ireland,20
+261840,c�diz_ c�diz_ spain,30
+268978,lexington_ kentucky_ usa,34
+10617,manhattan_ kansas_ usa,21
+183276,st. louis_ missouri_ usa,29
+65012,bonifay_ florida_ usa,36
+266849,galway_ connaught_ ireland,28
+98730,cincinnati_ ohio_ usa,17
+269247,nepean_ ontario_ canada,21
+262620,north pole_ alaska_ usa,34
+223328,atlanta_ georgia_ usa,57
+204184,erfurt_ thueringen_ germany,18
+268484,ottery st mary_ england_ united kingdom,63
+84920,memphis_ tennessee_ usa,39
+85209,helena_ alabama_ usa,39
+125260,urbandale_ iowa_ usa,31
+234796,n�rnberg_ bayern_ germany,37
+134435,czestochowa_ czestochowa_ poland,17
+137506,islamabad_ ``n/a``_ pakistan,42
+27381,edmonton_ alberta_ canada,52
+116829,las cruces_ new mexico_ usa,53
+237454,g_ south carolina_ usa,20
+274718,green bay_ wisconsin_ usa,21
+129908,edinburgh_ scotland_ united kingdom,42
+158158,lethbridge_ alberta_ canada,27
+227533,seattle_ washington_ usa,32
+27340,le mars_ iowa_ usa,27
+97256,melbourne_ victoria_ australia,31
+198517,petaluma_ california_ usa,15
+223338,florence_ south carolina_ usa,31
+30065,jackson_ new jersey_ usa,43
+268051,london_ n/a_ united kingdom,44
+273787,edinburgh_ scotland_ united kingdom,37
+189682,menaldum_ friesland_ netherlands,25
+251045,mrshfield_ massachusetts_ usa,26
+263186,santa cruz_ california_ usa,26
+97131,corunna_ michigan_ usa,28
+64414,harbor_ oregon_ usa,35
+92165,rock hill_ south carolina_ usa,32
+191129,rio claro_ s�o paulo_ brazil,21
+96736,ivanhoe_ victoria_ australia,37
+29810,mondovi` (cn)_ italy_ italy,31
+277510,s�o paulo_ s�o paulo_ brazil,23
+10708,ijamsville_ maryland_ usa,28
+82570,cottage hills_ illinois_ usa,14
+22622,bessemer_ alabama_ usa,24
+58493,cheyenne_ wyoming_ usa,28
+232310,chaseburg_ wisconsin_ usa,23
+4439,ulm_ _,33
+227841,ballina_ new south wales_ australia,36
+101752,bellevue_ washington_ usa,39
+31396,burke_ virginia_ usa,44
+111764,chatsworth_ california_ usa,17
+245585,essen_ nordrhein-westfalen_ germany,29
+173072,melaka_ _,22
+86202,sydney_ new south wales_ australia,26
+132184,pc_ florida_ usa,22
+164808,leipzig_ sachsen_ germany,28
+138421,north york_ ontario_ canada,37
+111045,new castle_ delaware_ usa,20
+183683,apo_ ae_ baden-wuerttemberg_ germany,42
+7049,melbourne_ victoria_ australia,43
+138263,madrid_ kansas_ spain,20
+220683,cairo_ maadi_ egypt,21
+203429,st germain-en-laye_ paris ouest_ france,26
+133477,new york_ new york_ usa,26
+185468,whitehall_ new york_ usa,40
+266016,lahore_ punhab_ pakistan,27
+246113,rhondda_ wales_ united kingdom,42
+209171,rockhampton_ queensland_ australia,13
+119650,marine city_ michigan_ usa,29
+256992,chicago_ illinois_ usa,67
+220999,jiangmen_ guangdong province_ china,19
+6426,brisbane_ queensland_ australia,33
+21439,spooner_ wisconsin_ usa,34
+144727,chesapeake_ virginia_ usa,45
+201504,konstanz_ baden-wuerttemberg_ germany,28
+163024,west hollywood_ california_ usa,46
+208682,frederick_ maryland_ usa,10
+59763,fontana_ california_ usa,43
+128325,toledo_ ohio_ usa,43
+110305,edmonton_ alberta_ canada,25
+193442,burnsville_ minnesota_ usa,35
+138733,pittsburgh_ pennsylvania_ usa,23
+71323,thessaloniki_ thessaloniki_ greece,27
+93996,youngstown_ new york_ usa,68
+254750,tofino_ british columbia_ canada,42
+151076,bellevue_ nebraska_ usa,21
+197471,kitchener_ ontario_ canada,41
+109327,belleview_ florida_ usa,20
+4749,belfast_ northern ireland_ united kingdom,24
+214425,sydney_ new south wales_ australia,56
+164209,coru�a_ galicia_ spain,27
+195384,cologne/koeln_ nordrhein-westfalen_ germany,46
+188916,onil_ alicante_ spain,22
+124846,renton_ washington_ usa,18
+149433,berlin_ berlin_ germany,35
+210092,banning_ california_ usa,40
+135900,franklin_ tennessee_ usa,65
+248563,karlsruhe_ baden-wuerttemberg_ germany,13
+135115,milwaukee_ wisconsin_ usa,25
+137462,winston salem_ north carolina_ usa,36
+230963,huntsville_ alabama_ usa,38
+232267,denver_ colorado_ usa,29
+135352,cologne_ nordrhein-westfalen_ germany,38
+28323,kewdale_ western australia_ australia,41
+17788,chatenoy_ loiret_ france,32
+242799,liverpool_ england_ united kingdom,27
+170717,drayton valley_ alberta_ canada,31
+80438,karlslunde_ sj�lland_ denmark,17
+129300,alicante_ comunidad valenciana_ spain,22
+140322,ludwigsburg_ baden-wuerttemberg_ germany,24
+201808,bolton_ england_ united kingdom,22
+206302,london_ england_ united kingdom,34
+203714,chino hills_ california_ usa,55
+203885,st. louis_ missouri_ usa,17
+1448,la mesa_ california_ usa,61
+249256,arvada_ colorado_ usa,69
+235863,toronto_ calabria_ canada,49
+201315,owerri_ nigeria_ nigeria,19
+231108,karlsruhe_ baden-wuerttemberg_ germany,21
+52565,sm_ california_ usa,13
+237378,tyngsboro_ massachusetts_ usa,16
+12355,max  meadows_ virginia_ usa,19
+25938,long grove_ illinois_ usa,24
+271366,fremantle_ western australia_ australia,52
+61719,belgrade_ n/a_ yugoslavia,57
+232263,chico_ california_ usa,57
+81484,tempe_ arizona_ usa,21
+202230,ajax_ ontario_ canada,45
+221032,moscow_ n/a_ russia,45
+12960,buenos aires_ capital fed_ argentina,47
+29581,vigo_ galicia_ spain,21
+74255,peachtree city_ georgia_ usa,46
+262266,bilbao_ vizcaya_ spain,25
+175598,cahokia_ illinois_ usa,28
+229597,sydney_ new south wales_ australia,38
+243824,stillwater_ oklahoma_ usa,49
+211783,kanata_ ontario_ canada,74
+181022,daytona beach_ florida_ usa,40
+99972,nortkerque_ pas de calais_ france,51
+254167,russiaville_ indiana_ usa,48
+47096,south gate_ california_ usa,33
+59109,coalinga_ california_ usa,45
+232046,louisville_ kentucky_ usa,31
+78534,ulverstone_ tasmania_ australia,33
+115268,clichy_ ile de france_ france,27
+28684,ronceverte_ western australia_ usa,49
+109533,granada_ granada_ spain,29
+211265,m�nster_ nordrhein-westfalen_ germany,16
+13721,mountlake terrace_ washington_ usa,17
+89036,visalia_ california_ usa,56
+209772,m�nchen_ bayern_ germany,28
+72809,goettingen_ niedersachsen_ germany,33
+264836,roma_ roma_ italy,39
+235663,houma_ louisiana_ usa,18
+53525,altamonte springs_ florida_ usa,30
+259837,kenmore_ washington_ usa,36
+57144,san pedro_ california_ usa,38
+90149,bad nauheim_ hessen_ germany,44
+82341,berlin_ berlin_ germany,24
+80963,cleveland_ ohio_ usa,57
+46909,howell_ new jersey_ usa,31
+68647,toronto_ ontario_ canada,43
+182571,madrid_ madrid_ spain,26
+125495,vigo_ pontevedra_ spain,29
+122864,norwich_ england_ united kingdom,23
+101000,thompson_ manitoba_ canada,35
+243974,leicester_ england_ united kingdom,40
+265604,bologna_ n/a_ italy,49
+233159,woodstock_ illinois_ usa,27
+121088,goose creek_ tennessee_ usa,55
+173138,broni_ lombardia_ italy,36
+81894,toronto_ ontario_ canada,54
+214120,karben_ hessen_ germany,47
+57535,las rozas_ madrid_ spain,25
+79290,minneapolis_ minnesota_ usa,31
+35681,gelnhausen_ hessen_ germany,22
+197302,sollentuna_ n/a_ sweden,38
+89281,eichenau_ bavaria_ germany,35
+43248,esslingen am neckar_ baden-wuerttemberg_ germany,26
+192603,albuquerque_ new mexico_ usa,31
+89649,los angeles_ california_ usa,43
+152530,tehran_ utah_ iran,25
+115912,mckinney_ texas_ usa,34
+168891,york_ england_ united kingdom,21
+29934,sydney_ new south wales_ australia,15
+39696,sultan_ washington_ usa,39
+156804,west long branch_ new jersey_ usa,22
+228896,simi valley_ california_ usa,22
+92756,kuala lumpur_ wp_ malaysia,25
+189305,copenhagen_ copenhagen_ denmark,35
+106602,old bridge_ new jersey_ usa,40
+223744,largo_ florida_ usa,50
+277951,seekonk_ massachusetts_ usa,44
+77958,lafayette_ louisiana_ usa,45
+216742,sheffield_ south yorkshire_ united kingdom,51
+99494,lille_ north of france_ france,19
+122423,burbank_ california_ usa,35
+133239,portland_ oregon_ usa,35
+166141,richmond_ surrey_ united kingdom,34
+276786,madrid_ madrid_ spain,34
+91439,g�teborg_ v�stra g�taland_ sweden,21
+146500,white rock_ british columbia_ canada,46
+203066,portland_ maine_ usa,39
+173218,pawtucket_ rhode island_ usa,44
+235750,milwaukee_ wisconsin_ usa,44
+265901,belleville_ ontario_ canada,17
+96991,barcelona_ catalu�a_ spain,26
+220813,tehran_ tehran_ iran,21
+212799,atlanta_ georgia_ usa,36
+14188,cardiff_ wales_ united kingdom,38
+21543,somerset_ kentucky_ usa,40
+74660,stevens point_ wisconsin_ usa,27
+121075,milton keynes_ england_ united kingdom,29
+212276,adelaide_ south australia_ australia,13
+18423,kingsport_ tennessee_ usa,27
+185764,eskilstuna_ n/a_ sweden,15
+76126,oakland_ california_ usa,30
+260735,toronto_ ontario_ canada,49
+181014,sydney_ new south wales_ australia,26
+48972,northampton_ massachusetts_ usa,34
+195429,london_ middlesex_ united kingdom,27
+24196,dayton_ oregon_ usa,50
+261998,seal beach_ california_ usa,28
+24289,long grove_ illinois_ usa,55
+65308,gray court_ south carolina_ usa,55
+103034,santa rosa_ california_ usa,37
+219614,san diego_ california_ usa,54
+249233,winnetka_ illinois_ usa,70
+265197,fairview_ oregon_ usa,29
+64369,paris_ n/a_ france,30
+223951,elkins_ west virginia_ usa,35
+175912,schwerte_ nordrhein-westfalen_ germany,18
+135342,marseille_ provence_ france,35
+132661,bedford_ new hampshire_ usa,37
+232839,colden_ new york_ usa,26
+227143,olivos_ buenos aires_ argentina,23
+261404,basel_ baden-wuerttemberg_ switzerland,26
+15121,san diego_ california_ usa,54
+63105,goffstown_ new hampshire_ usa,44
+117100,ashhurst_ manawatu_ new zealand,56
+375,leipzig_ sachsen_ germany,28
+150548,t�bingen_ baden-wuerttemberg_ germany,16
+18562,halifax_ nova scotia_ canada,25
+157917,montreal_ quebec_ canada,33
+39828,cordoba_ california_,23
+101072,strathmerton_ australian capital territory_ australia,19
+225025,shenton park_ western australia_ australia,49
+132865,alcorcon_ madrid_ spain,23
+100917,evanston_ illinois_ usa,27
+103474,thunder bay_ ontario_ canada,26
+69689,pittsburgh_ pennsylvania_ usa,41
+146266,tuscola_ illinois_ usa,48
+250688,london_ england_ united kingdom,29
+168870,pacific grove_ california_ usa,52
+177722,heidelberg_ baden-wuerttemberg_ germany,35
+214673,basel_ n/a_ switzerland,28
+136175,santa rosa beach_ florida_ usa,47
+268579,springfield_ missouri_ usa,32
+256894,bassano del grappa_ vicenza_ italy,23
+172837,kuala lumpur_ kuala lumpur_ malaysia,16
+177181,orangeburg_ south carolina_ usa,17
+173961,sydney_ new south wales_ australia,39
+109820,melbourne_ florida_ usa,63
+228028,reggio emilia_ emilia romagna_ italy,29
+113518,kaysville_ utah_ usa,40
+125472,oulu_ pohjois-pohjanmaa_ finland,38
+225831,maquoketa_ iowa_ usa,39
+5985,great mills_ maryland_ usa,49
+158774,harrison_ new jersey_ usa,34
+44360,g�ttingen_ niedersachsen_ germany,34
+220366,brighton_ england_ united kingdom,39
+45841,olympia_ washington_ usa,33
+267062,lexington_ missouri_ usa,40
+147370,half moon bay_ california_ usa,51
+228684,st. john`s_ newfoundland_ canada,25
+50571,madrid_ madrid_ spain,24
+156642,richfield_ minnesota_ usa,37
+22989,quebec city_ quebec_ canada,21
+182262,paris_ n/a_ france,26
+150039,paris_ paris_ france,30
+163711,norfolk_ virginia_ usa,45
+34771,milano_ lombardia_ italy,26
+159008,madrid_ madrid_ spain,35
+201714,colton_ california_ usa,29
+27737,barcelona_ \n/a\_ spain,20
+143547,quebec_ quebec_ canada,59
+10520,machico_ madeira_ portugal,17
+79065,ilford_ ilford_ united kingdom,37
+263231,vancouver_ british columbia_ canada,24
+181567,lacey_ washington_ usa,39
+61984,sacramento_ california_ usa,26
+118269,madrid_ madrid_ spain,54
+6956,tianjin_ n/a_ china,32
+71662,columbia_ missouri_ usa,22
+63861,dover_ new hampshire_ usa,32
+127595,vancouver_ british columbia_ canada,32
+244069,danville_ indiana_ usa,41
+237048,mannheim_ baden-wuerttemberg_ germany,28
+162742,tecumseh_ ontario_ canada,22
+154344,oeiras_ lisbon- oeiras_ portugal,25
+18221,duxbury_ massachusetts_ usa,51
+6517,lisboa_ n/a_ portugal,22
+162376,lynn_ massachusetts_ usa,23
+169249,colorado springs_ colorado_ usa,43
+59555,north vancouver_ british columbia_ canada,16
+191139,new orleans_ louisiana_ usa,28
+151491,san ramon_ california_ usa,55
+141957,manchester_ cheshire_ united kingdom,29
+210684,sacramento_ california_ usa,66
+236446,harrisburg_ pennsylvania_ usa,18
+51644,bourne end_ england_ united kingdom,29
+146755,worcs_ england_ united kingdom,29
+263133,asuncion_ asuncion_ paraguay,55
+240243,indianola_ iowa_ usa,22
+158703,moorpark_ california_ usa,56
+98303,montr�al_ quebec_ canada,27
+17825,milan_ lombardia_ italy,45
+69580,louisville_ kentucky_ usa,61
+75409,aurora_ colorado_ usa,51
+130085,attadale_ western australia_ australia,42
+268639,iolai_ missouri_ usa,21
+76705,guildford_ england_ united kingdom,27
+38326,independence_ missouri_ usa,38
+179739,aurora_ ontario_ canada,42
+179651,elkhart_ indiana_ usa,25
+78895,orlando_ florida_ usa,36
+83151,ixelles_ bruxelles_ belgium,25
+186984,drumright_ oklahoma_ usa,69
+225873,bellevue_ washington_ usa,23
+84418,krefeld_ nordrhein-westfalen_ germany,29
+155089,marseille_ n/a_ france,56
+173333,toronto_ ontario_ canada,35
+153675,ankara_ n/a_ turkey,23
+225124,lleida_ lleida_ spain,36
+229575,chiang mai_ chiang mai_ thailand,60
+273972,statesville_ north carolina_ usa,24
+148349,rouen_ normandie_ france,25
+11547,valley springs_ california_ usa,19
+234726,tehran_ tehran_ iran,22
+271660,jena_ thueringen_ germany,29
+265916,washington_ dc_ usa,27
+19579,st paul_ minnesota_ usa,36
+197306,temple_ texas_ usa,46
+39512,st. john`s_ newfoundland_ canada,48
+209450,homosassa_ florida_ usa,63
+117716,west los angeles_ california_,28
+237404,spokane_ washington_ usa,33
+13794,aurora_ illinois_ usa,31
+16526,niagara falls_ ontario_ canada,30
+116701,madrid_ madrid_ spain,28
+103098,tucson_ arizona_ usa,32
+74854,tianjin_ tianjin_ china,22
+127710,altea_ alicante_ spain,21
+141642,loveland_ ohio_ usa,28
+126537,kirkland_ washington_ usa,31
+113130,california_ california_ usa,23
+138332,beverley_ england_ united kingdom,25
+125555,bern_ n/a_ switzerland,43
+151401,warriors mark_ pennsylvania_ usa,49
+152701,berlin_ berlin_ germany,20
+53957,laren_ gelderland_ netherlands,15
+114589,saint louis_ missouri_ usa,19
+56569,oregon city_ oregon_ usa,23
+38229,newport beach_ california_ usa,23
+88992,tribune_ kansas_ usa,42
+207573,boise_ idaho_ usa,30
+166471,kota belud_ sabah_ malaysia,24
+277018,lorraine_ new york_ usa,21
+124376,los alamitos_ california_ usa,16
+229184,upland_ california_ usa,18
+103683,madrid_ madrid_ spain,28
+229787,sj_ san jose_ costa rica,28
+28205,kingston_ nova scotia_ canada,43
+61936,portland_ oregon_ usa,72
+60639,knoxville_ tennessee_ usa,50
+102814,san antonio_ texas_ usa,55
+222955,glasgow_ scotland_ united kingdom,17
+24812,emmendingen_ baden-wuerttemberg_ germany,42
+135800,martinsburg_ west virginia_ usa,50
+238527,rockford_ illinois_ usa,22
+122365,busselton_ western australia_ australia,28
+190120,hinton_ ab._ canada,40
+242461,dallas_ texas_ usa,27
+205599,gurnee_ illinois_ usa,24
+77227,bainbridge_ washington_ usa,15
+205503,victoria_ british columbia_ canada,30
+226862,bologna_ italy_ italy,26
+157501,barcelona_ barcelona_ spain,19
+252663,mainz_ rheinland-pfalz_ germany,33
+177756,oviedo_ asturias_ spain,20
+278653,juniata_ nebraska_ usa,51
+216988,kuala lumpur_ malaysia_ malaysia,19
+244742,carbondale_ illinois_ usa,18
+157213,victoria_ british columbia_ canada,26
+194282,libertyville_ illinois_ usa,46
+5322,madrid_ madrid_ spain,49
+118100,el masnou_ catalunya_ spain,51
+226687,kailua_ hawaii_ usa,34
+202071,gold coast mc_ queensland_ australia,15
+96294,east hartford_ connecticut_ usa,55
+41539,coimbra_ coimbra_ portugal,24
+64957,sequim_ washington_ usa,49
+46416,rodenberg_ niedersachsen_ germany,15
+133392,stratford_ taranaki_ new zealand,32
+201148,saskatoon_ saskatchewan_ canada,49
+7365,evergreen_ colorado_ usa,43
+24857,solihull_ england_ united kingdom,14
+268330,miami_ florida_ usa,23
+53195,hamilton_ ontario_ canada,20
+49103,milano_ italy_ italy,54
+207306,vienna_ n/a_ austria,23
+249061,chard_ england_ united kingdom,23
+1371,burbank_ california_ usa,36
+65622,long eaton_ nottinghamshire_ united kingdom,37
+121286,hospitalet_ barcelona_ spain,28
+6269,barcelona_ barcelona_ spain,24
+231705,tromsoe_ n/a_ norway,30
+3100,oakland_ california_ usa,42
+200308,salem_ new hampshire_ usa,34
+3137,biscoe_ north carolina_ usa,26
+82449,luxembourg_ n/a_ luxembourg,23
+3278,lakewood_ illinois_ usa,31
+65300,manchester_ england_ united kingdom,31
+32884,castro valley_ california_ usa,37
+215425,ir�n_ guip�zcoa_ spain,20
+155556,campo mourao_ parana_ brazil,67
+225286,lubbock_ texas_ usa,47
+124869,montague_ california_ usa,31
+53086,shingle springs_ california_ usa,45
+173540,odessa_ ontario_ canada,20
+49362,rio tinto_ porto_ portugal,21
+64535,fredericksburg_ virginia_ usa,43
+68321,ann arbor_ michigan_ usa,19
+125616,bloomington_ indiana_ usa,40
+259477,pinson_ alabama_ usa,43
+221840,san luis obispo_ calabria_ usa,19
+227236,waukesha_ wisconsin_ usa,27
+230246,neenah_ wisconsin_ usa,20
+236406,w�rzburg_ bayern_ germany,25
+257405,reseda_ california_ usa,18
+238540,omaha_ nebraska_ usa,32
+251254,houston_ texas_ usa,53
+20212,istanbul_ n/a_ turkey,27
+118787,southend-on-sea_ england_ united kingdom,27
+180745,stony brook_ new york_ usa,44
+232237,roslyn_ pennsylvania_ usa,28
+160738,san antonio_ texas_ usa,52
+42237,alexandria_ ohio_ usa,26
+176957,emmett_ idaho_ usa,35
+154257,dubai_ dubai_ united arab emirates,44
+86806,guangzhou_ guangdong_ china,20
+247570,green bay_ wisconsin_ usa,50
+151903,san ramon_ california_ usa,46
+158094,brisbane_ queensland_ australia,44
+133905,sacramento_ california_ usa,34
+42117,chicago_ illinois_ usa,26
+246378,woodstock_ georgia_ usa,37
+248471,auckland_ auckland_ new zealand,21
+202215,austin_ texas_ usa,14
+245789,w�rthsee_ bayern_ germany,22
+177754,madrid_ stroud_ spain,27
+37733,meaford_ ontario_ canada,29
+61886,dallas_ oregon_ usa,42
+87660,ukiah_ california_ usa,64
+9445,maitland_ new south wales_ australia,14
+181794,alverca_ lisbon_ portugal,29
+103886,eugene_ oregon_ usa,81
+153318,torrance_ california_ usa,18
+74168,sydney_ new south wales_ australia,24
+14087,ann arbor_ michigan_ usa,31
+196160,auburn_ alabama_ usa,22
+272674,huntington beach_ california_ usa,49
+10276,baltimore_ maryland_ usa,18
+253482,vallejo_ california_ usa,24
+234630,ludvika_ dalarna_ sweden,24
+117534,portsmouth_ new hampshire_ usa,22
+249617,dallas_ texas_ usa,43
+242620,cologne_ nordrhein-westfalen_ germany,34
+49284,cle elum_ washington_ usa,36
+234293,barcelona_ barcelones_ spain,57
+124682,canberra_ australian capital territory_ australia,64
+231961,dunedin_ otago_ new zealand,18
+160054,cologno monzese_ lombardia_ italy,33
+253563,big rapids_ michigan_ usa,33
+167520,richmond_ kentucky_ usa,14
+247701,aviles_ asturias_ spain,28
+64696,st. charles_ missouri_ usa,34
+71905,f�rth_ bayern_ germany,32
+255950,hamilton_ ontario_ canada,32
+118014,fresno_ california_ usa,37
+219076,singapore_ n/a_ singapore,28
+268634,ripley_ england_ united kingdom,29
+250290,damascus_ syria_ syria,21
+175188,aledo_ illinois_ usa,30
+53723,sherman oaks_ california_ usa,51
+106340,spring_ texas_ usa,57
+95743,cachen_ landes (40)_ la france,31
+251058,salem_ massachusetts_ usa,31
+181021,kansas city_ missouri_ usa,28
+246858,moscow_ russia_ russia,29
+210607,manchester_ greater manchester_ united kingdom,18
+27303,bayreuth_ bayern_ germany,22
+135871,fabens_ texas_ usa,42
+63692,aliso viejo_ california_ usa,56
+237162,austin_ texas_ usa,27
+255997,reykjav�k_ n/a_ iceland,53
+98066,fairfield east_ new south wales_ australia,54
+161730,dc_ dc_ usa,28
+275623,moreno valley_ california_ usa,49
+5516,lillehammer_ oppland_ norway,29
+264204,milford_ massachusetts_ usa,19
+206933,denver_ colorado_ usa,35
+103079,mirfield_ england_ united kingdom,53
+72965,orrington_ maine_ usa,59
+59649,san jose_ heredia_ costa rica,16
+182636,kristinehamn_ v�rmland_ sweden,17
+132313,wanganui_ n/a_ new zealand,14
+49461,owensboro_ kentucky_ usa,25
+13646,phoenix_ arizona_ usa,29
+207208,bochum_ nordrhein-westfalen_ germany,45
+1756,littlehampton_ england_ united kingdom,21
+167507,cardiff_ wales_ united kingdom,21
+269132,colombo_ western_ sri lanka,34
+128002,bracebridge_ ontario_ canada,14
+251034,ottawa_ ontario_ canada,37
+141470,trimdon_ england_ united kingdom,28
+215171,s�o paulo_ s�o paulo_ brazil,30
+137490,genova_ liguria_ italy,31
+196399,barcelona_ barcelona_ spain,38
+160528,vitoria_ basque country_ basque country,21
+89915,poway_ california_ usa,14
+107783,manchester_ lancashire_ united kingdom,17
+261962,lisbon_ lisbon_ portugal,21
+52224,oak grove_ kentucky_ usa,26
+164919,horton_ michigan_ usa,35
+100614,tuebingen_ baden-wuerttemberg_ germany,59
+174617,chesapeake_ virginia_ usa,34
+240155,westford_ massachusetts_ usa,40
+81120,hamburg_ hamburg_ germany,42
+95574,philadelphia_ pennsylvania_ usa,37
+50551,new bern_ north carolina_ usa,51
+160496,roma_ rome_ italy,39
+120352,s�o paulo_ s�o paulo_ brazil,49
+245444,linclon_ nebraska_ usa,18
+243726,hopewell junction_ new york_ usa,40
+29693,l�tjenburg_ schleswig-holstein_ germany,49
+250728,winnipeg_ manitoba_ canada,32
+213563,bad saarow-pieskow_ brandenburg_ germany,20
+190797,new zealand_ wairarapa_ new zealand,46
+57813,beloit_ wisconsin_ usa,53
+35333,st. albans_ vermont_ usa,69
+60678,greensboro_ north carolina_ usa,29
+14891,aberdeen_ scotland_ united kingdom,35
+257668,sydney_ new south wales_ australia,34
+32221,london_ london_ united kingdom,25
+188657,munich_ bayern_ germany,26
+83629,paris_ florida_ france,39
+171093,palm bay_ florida_ usa,43
+142305,duisburg_ nordrhein-westfalen_ germany,21
+110393,port coquitlam_ british columbia_ canada,25
+158894,v.n.gaia_ porto_ portugal,23
+251936,saint paul_ minnesota_ usa,56
+227632,spirit lake_ iowa_ usa,55
+86735,stuttgart_ baden-wuerttemberg_ germany,25
+222218,t�bingen_ baden-wuerttemberg_ germany,25
+70144,vancouver_ british columbia_ canada,34
+51614,alanta_ georgia_ usa,44
+264422,alcal� de henares_ madrid_ spain,23
+210752,lecce_ _,28
+129764,london_ n/a_ united kingdom,35
+57212,surrey_ british columbia_ canada,46
+153650,seattle_ washington_ usa,37
+169097,lincoln_ vermont_ usa,59
+29409,eugene_ oregon_ usa,26
+21252,duluth_ minnesota_ usa,28
+182715,matteson_ illinois_ usa,16
+28148,bonn_ nordrhein-westfalen_ germany,24
+72808,m�lheim/ruhr_ nordrhein-westfalen_ germany,33
+270672,las veags_ nevada_ usa,38
+60548,lindenhurst_ new york_ usa,57
+212489,estoril_ hawaii_ portugal,20
+48187,genova_ liguria_ italy,50
+47692,alessandria_ piemonte_ italy,28
+163434,mobile_ alabama_ usa,19
+133106,kelvin grove_ queensland_ australia,23
+220456,ottawa_ ontario_ canada,22
+181131,cac�m_ lisboa_ portugal,30
+170922,quilmes_ buenos aires_ argentina,47
+50143,burtr�sk_ v�sterbotten_ sweden,16
+249072,krosno_ n/a_ poland,32
+190362,mornington_ victoria_ australia,68
+41425,christchurch_ canterbury_ new zealand,31
+48463,oakland_ california_ usa,11
+74153,algeciras_ cadiz_ spain,24
+45186,colchester_ connecticut_ usa,36
+30451,old orchard beach_ maine_ usa,52
+71012,va beach_ virginia_ usa,59
+164871,the woodlands_ texas_ usa,32
+230406,ithaca_ new york_ usa,31
+203770,brisbane australia_ queensland_ australia,48
+239549,yankton_ south dakota_ usa,30
+121606,petaling jaya_ selangor_ malaysia,23
+57665,c.a.b.a._ capital federal_ argentina,17
+198587,northfield_ new jersey_ usa,19
+239329,sant boi de llobregat_ sant boi de llob_ spain,43
+143372,almond_ wisconsin_ usa,53
+207194,m�nchengladbach_ nordrhein-westfalen_ germany,25
+143804,dartmouth_ nova scotia_ canada,21
+17258,lueneburg_ niedersachsen_ germany,23
+268754,royal oak_ michigan_ usa,31
+277668,beijing_ beijing_ china,31
+127549,houston_ texas_ usa,32
+74201,livorno_ toscana_ italy,39
+64275,fair oaks_ california_ usa,43
+30175,spring_ texas_ usa,56
+208741,breda_ noord-brabant_ netherlands,30
+123167,mandeville_ louisiana_ usa,55
+38054,los angeles_ california_ usa,25
+129655,seoul_ n/a_ south korea,26
+100725,barcelona_ catalunya_ spain,28
+63124,67000_ _ france,22
+158100,lafayette_ louisiana_ usa,27
+175817,brisbane_ queensland_ australia,34
+143045,baltimore_ maryland_ usa,36
+145483,lisboa_ n/a_ portugal,15
+261248,calgary_ alberta_ nicaragua,43
+176114,lancaster_ pennsylvania_ usa,53
+227691,cambridge_ england_ united kingdom,18
+275040,salt lake city_ utah_ usa,30
+15308,san francisco_ california_ usa,26
+48601,battipaglia_ campania_ italy,37
+201595,victoria_ british columbia_ canada,39
+71257,jersey_ england_ united kingdom,20
+74867,athens_ athens_ greece,21
+38104,ch�ne-p�quier_ vaud_ switzerland,32
+233590,mannheim_ baden-w�rttemberg_,29
+60367,great falls_ montana_ usa,41
+59562,presov_ vychod_ slovakia,25
+147100,mcewen_ tennessee_ usa,52
+36388,perth_ western australia_ australia,18
+162793,el cerrito_ california_ usa,27
+145120,haddam_ connecticut_ usa,29
+73336,ottawa_ ontario_ canada,53
+58144,cincinnati_ ohio_ usa,20
+115376,cincinnati_ ohio_ usa,48
+93186,halle_ sachsen-anhalt_ germany,25
+158463,austin_ texas_ usa,26
+86532,montevideo_ montevideo_ urugua,35
+145750,brentwood_ tennessee_ usa,18
+634,d�sseldorf_ nordrhein-westfalen_ germany,50
+83732,columbus_ ohio_ usa,26
+271770,almeria_ almeria_ spain,36
+275303,wanganui_ n/a_ new zealand,33
+273365,prince george_ british columbia_ canada,22
+271790,alicante_ alicante_ spain,47
+198895,plano_ texas_ usa,27
+65654,quakertown_ pennsylvania_ usa,51
+18218,provo_ utah_ usa,25
+106587,tencin_ rh�ne-alpes_ france,18
+178680,victoria_ british columbia_ canada,26
+58529,denver_ colorado_ usa,36
+96213,dresden_ sachsen_ germany,18
+3570,christchurch_ _,24
+79947,cascais_ n/a_ portugal,32
+276039,citt� di castello_ umbria_ italy,28
+261847,guadarrama_ madrid_ spain,35
+111545,cudahy_ wisconsin_ usa,59
+80844,quito_ pichincha_ ecuador,31
+42354,tacoma_ washington_ usa,45
+255525,florence_ massachusetts_ usa,54
+108037,sydney_ new south wales_ australia,26
+220798,sardinia_ ohio_ usa,70
+52335,rennes_ bretagne_ france,18
+169244,colton_ washington_ usa,64
+197334,baton rouge_ louisiana_ usa,24
+168498,ferrol_ a coru�a_ spain,25
+94593,mound_ minnesota_ usa,61
+223177,roy_ utah_ usa,52
+133095,alexandria_ virginia_ usa,39
+232403,simi valley_ california_ usa,49
+128327,ferrol_ a coru�a_ spain,19
+103940,cham_ zg_ switzerland,27
+185024,sacramento_ california_ usa,51
+263215,edmonton_ alberta_ canada,36
+169182,fort lauderdale_ florida_ usa,41
+42686,willoughby hills_ ohio_ usa,36
+230906,corpus christi_ texas_ usa,55
+222695,washington_ new jersey_ usa,52
+114633,glen burnie_ maryland_ usa,25
+193983,stanford le hope_ essex_ united kingdom,48
+229987,hagen_ nordrhein-westfalen_ germany,26
+210553,palafrugell_ catalunya_ spain,24
+112576,fukuoka-city_ n/a_ japan,20
+168447,palmerston north_ manawatu_ new zealand,70
+21774,lecco_ lombardia_ italy,21
+93656,west rutland_ vermont_ usa,64
+198536,scarborough_ ontario_ canada,25
+206565,capital federal_ buenos aires_ argentina,60
+270625,barcelona_ catalonia_ spain,30
+147786,01721_ _,37
+121474,trenton_ ohio_ usa,22
+44092,santander_ cantabria_ spain,29
+26714,hamilton_ ontario_ canada,31
+119767,chattanooga_ tennessee_ usa,32
+117407,vafb_ california_ usa,31
+163457,columbia_ south carolina_ usa,55
+87500,sofia_ sofia_ bulgaria,27
+92623,villa mercedes_ san luis_ argentina,16
+25075,wuppertal_ nordrhein-westfalen_ germany,36
+37865,zaragoza_ zaragoza_ arag�n_ spain,21
+219964,milford_ illinois_ usa,45
+40286,las palmas_ canarias_ spain,38
+236610,pensacola_ florida_ usa,47
+134510,ottawa_ ontario_ canada,21
+27468,west allis_ wisconsin_ usa,14
+66902,brisbane_ queensland_ australia,16
+47148,lafayette_ new york_ usa,23
+172315,kamloops_ british columbia_ canada,17
+190052,stgo_ victoria_ chile,18
+130510,montreal_ quebec_ canada,50
+164719,prague_ n/a_ czech republic,26
+155885,grafton_ illinois_ usa,56
+84934,st-valentin_ quebec_ canada,16
+239893,san antonio_ texas_ usa,14
+18769,freyburg_ maine_ usa,20
+236525,hyde park_ massachusetts_ usa,20
+61950,roma_ lazio_ italy,28
+213714,stockton_ california_ usa,51
+134844,lyneham_ australian capital territory_ australia,56
+246577,prattville_ alabama_ usa,27
+65310,milano_ lombardia_ italy,24
+98100,eagan_ minnesota_ usa,54
+68893,fort smith_ arkansas_ usa,38
+73779,glidden_ iowa_ usa,17
+164421,norwich_ england_ united kingdom,24
+70628,berlin_ _,35
+82123,nashville_ tennessee_ usa,30
+154111,sarajevo_ bosnia_ bosnia and herzegovina,40
+222865,fayetteville_ north carolina_ usa,23
+21187,baton rouge_ louisiana_ usa,18
+277069,barcelona_ catalunya_ spain,27
+128807,brooklyn_ new york_ usa,29
+96846,neath_ wales_ united kingdom,30
+249271,barbados_ baden-wuerttemberg_ united kingdom,48
+236010,tampa_ florida_ usa,43
+84845,kenmore_ washington_ usa,34
+207217,barcelona_ catalunya_ spain,46
+10914,naples_ campania_ italy,29
+228190,hopkins_ minnesota_ usa,43
+15274,adelaide_ south australia_ australia,26
+246165,prairie village_ kansas_ usa,27
+22697,pontevedra_ pontevedra_ spain,19
+55465,new york_ new york_ usa,23
+56358,montreal_ quebec_ canada,28
+107498,cape town_ western cape_ south africa,32
+21957,summerville_ georgia_ usa,51
+227507,badalona_ barcelona_ spain,16
+214970,cedar grove_ new jersey_ usa,53
+46250,moscow_ n/a_ russia,21
+71194,palmerston north_ manawatu_ new zealand,56
+210397,wil_ thurgau_ switzerland,32
+85687,mays  landing_ new jersey_ usa,61
+269175,pitt meadows_ british columbia_ canada,49
+92997,canberra_ australian capital territory_ australia,14
+99465,pezinok_ n/a_ slovakia,31
+224376,sesto san giovanni_ lombardia_ italy,34
+147985,glasgow_ scotland_ united kingdom,43
+143190,encinitas_ california_ usa,59
+215339,bairnsdale_ victoria_ australia,18
+259491,west des moines_ iowa_ usa,64
+189047,pordenone_ _,28
+213147,madrid_ madrid_ spain,32
+18888,martos_ andaluc�a_ spain,33
+4279,scholar green_ cheshire_ united kingdom,50
+202348,fairborn_ ohio_ usa,26
+69201,rome_ lazio_ italy,29
+105091,calgary_ alberta_ canada,24
+76127,nijmegen_ gelderland_ netherlands,31
+170175,somewhere_ kentucky_ usa,34
+85163,roma_ italy_ lazio_ italy,22
+249949,istanbul_ n/a_ turkey,22
+48360,sultan_ washington_ usa,41
+131414,mosgiel_ otago new zealand_ new zealand,47
+168050,long beach_ california_ usa,25
+176212,batesville_ arkansas_ usa,32
+67854,new york_ new york_ usa,33
+131828,lorch_ kentucky_ germany,56
+73041,london_ england_ united kingdom,18
+188680,brea_ california_ usa,27
+278094,new york_ new york_ usa,50
+201806,essen_ nordrhein-westfalen_ germany,30
+100646,valencia_ \n/a\_ spain,23
+141617,paris_ paris_ france,25
+161422,chicago_ illinois_ usa,46
+36077,mckinney_ texas_ usa,10
+319,1407 k�benhavn k_ n/a_ denmark,32
+176984,spokane valley_ washington_ usa,41
+46582,el entrego_ asturias_ spain,30
+217520,buenos aires_ buenos aires_ argentina,34
+107427,coral springs_ florida_ usa,64
+275553,verona_ _,52
+75052,abergavenny_ wales_ united kingdom,30
+10658,valladolid_ castilla y le�n_ spain,33
+145190,novara_ piemonte_ italy,22
+152125,las vegas_ nevada_ usa,40
+206514,santiago_ santiago_ dominican republic,40
+63393,chico_ california_ usa,24
+102148,a coru�a_ a coru�a_ spain,26
+121638,iquique_ tarapaca_ chile,45
+214353,barcelona_ catalunya_ spain,26
+32199,erie_ pennsylvania_ usa,26
+176518,randolph_ new jersey_ usa,32
+57217,sacramento_ california_ usa,35
+191675,trois-rivi�res_ quebec_ canada,36
+261764,toronto_ ontario_ canada,23
+28382,seoul_ n/a_ south korea,23
+46983,honolulu_ hawaii_ usa,22
+61406,dekalb_ illinois_ usa,49
+206862,niter�i_ rio de janeiro_ brazil,21
+141043,oak park_ illinois_ usa,50
+29456,hawthorne_ california_ usa,17
+82646,london_ england_ united kingdom,27
+80667,ankara_ n/a_ turkey,49
+36544,springfield_ missouri_ usa,35
+160568,colwyn bay_ wales_ united kingdom,28
+209496,ephrata_ pennsylvania_ usa,49
+3032,sydney_ new south wales_ australia,40
+25234,syracuse_ new york_ usa,16
+191115,corbera de llobregat_ barcelona_ spain,37
+165449,orange_ california_ usa,46
+129026,el cajon_ california_ usa,23
+81235,melbourne_ victoria_ australia,35
+86837,oakland_ california_ usa,40
+50743,getxo_ bizkaia_ spain,21
+146404,collinsville_ texas_ usa,33
+231645,va bch_ virginia_ usa,33
+266877,colorado springs_ colorado_ usa,19
+207805,markham_ ontario_ canada,21
+213591,upper darby_ pennsylvania_ usa,57
+20417,irvine_ california_ usa,14
+278066,lower burrell_ pennsylvania_ usa,29
+125958,groningen_ groningen_ netherlands,43
+21826,wentworth falls_ new south wales_ australia,53
+176357,memphis_ tennessee_ usa,46
+27131,nelson_ british columbia_ canada,68
+257287,barcelona_ barcelona_ spain,26
+192441,stratford_ ontario_ canada,34
+30405,leicester_ england_ united kingdom,30
+246673,montevideo_ montevideo_ urugua,63
+257964,fredericton_ new brunswick_ canada,24
+236127,sydney_ new south wales_ australia,17
+95490,bonn_ nordrhein-westfalen_ germany,25
+149962,oceanside_ california_ usa,47
+209972,la ronge_ saskatchewan_ canada,28
+187624,mountlake terrace_ washington_ usa,34
+243622,paris_ paris_ france,29
+206710,lake city_ minnesota_ usa,53
+137527,boulder_ colorado_ usa,44
+123538,calgary_ alberta_ canada,24
+263535,buenos aires_ flores_ argentina,18
+157938,oakland_ california_ usa,38
+116694,bootle_ alabama_ united kingdom,44
+101084,chantilly_ virginia_ usa,51
+71556,chicago_ illinois_ usa,26
+152695,paris_ paris_ france,31
+79060,iran_ tehran/iran_ iran,48
+188906,lic_ new york_ usa,25
